@@ -1,0 +1,711 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: grib_pi 2.6.1718\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-11-17 19:30-0500\n"
+"PO-Revision-Date: 2012-12-29 13:16+0100\n"
+"Last-Translator: Szabolcs SZIGETI <szigi@ik.bme.hu>\n"
+"Language-Team: \n"
+"Language: HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+#
+msgid " (Max size )"
+msgstr ""
+#
+msgid " Mo )"
+msgstr ""
+#
+msgid "( Max "
+msgstr ""
+#
+msgid "Address used to send request eMail. (Mandatory for LINUX)"
+msgstr ""
+#
+msgid "Air Temp"
+msgstr ""
+#
+msgid "Air Temperature(2m)"
+msgstr ""
+#
+msgid "Apply"
+msgstr ""
+#
+msgid "Authorize Interpolation to start at current time"
+msgstr ""
+#
+msgid "Barbed Arrows"
+msgstr ""
+#
+msgid ""
+"Before sending an email to Zygrib you have to enter your Login and Code.\n"
+"Please visit www.zygrib.org/ and follow instructions..."
+msgstr ""
+#
+msgid "Building Isobar map"
+msgstr ""
+#
+msgid "CAPE"
+msgstr ""
+#
+msgid "Celsius"
+msgstr ""
+#
+msgid "Cloud Cover"
+msgstr ""
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#, fuzzy
+msgid "Colors"
+msgstr "Bezár"
+#
+msgid "Continue..."
+msgstr ""
+#
+msgid "Copy First Cumulative Missing Record"
+msgstr ""
+#
+msgid "Copy Missing Wave Records"
+msgstr ""
+#
+#, fuzzy
+msgid "Current"
+msgstr "Áramlat sebessége, csomó."
+#
+msgid "Data available"
+msgstr ""
+#
+msgid "Days"
+msgstr ""
+#
+msgid "Deg"
+msgstr ""
+#
+msgid "Direction Arrows"
+msgstr ""
+#
+msgid "Display"
+msgstr ""
+#
+msgid "Display Iso CAPE"
+msgstr ""
+#
+msgid "Display Isobars"
+msgstr ""
+#
+msgid "Display Isotachs"
+msgstr ""
+#
+msgid "Display Isotherms"
+msgstr ""
+#
+msgid "Error:  Can't read this File!"
+msgstr ""
+#
+msgid "Error:  File does not exist!"
+msgstr ""
+#
+msgid "Error:  No valid data in this file!"
+msgstr ""
+#
+msgid "Estimated File Size"
+msgstr ""
+#
+msgid "Fahrenheit"
+msgstr ""
+#
+msgid "Feet"
+msgstr ""
+#
+msgid "Forecast Model "
+msgstr ""
+#
+msgid "GRIB Data at Cursor"
+msgstr ""
+#
+msgid "GRIB Display Control"
+msgstr "GRIB kijelzés vezérlés"
+#
+msgid "GRIB PlugIn for OpenCPN"
+msgstr "OpenCPN GRIB modul"
+#
+msgid ""
+"GRIB PlugIn for OpenCPN\n"
+"Provides basic GRIB file overlay capabilities for several GRIB file types.\n"
+"\n"
+"Supported GRIB file types include:\n"
+"- wind direction and speed\n"
+"- significant wave height\n"
+"- sea surface temperature\n"
+"- surface current direction and speed."
+msgstr ""
+"A GRIB OpenCPN modul\n"
+"alapvető GRIB állomány kijezését teszi lehetővé különböző GRIB fájl "
+"típusokkal.\n"
+"\n"
+"Támogatott GRIB fájl típusok:\n"
+"- szél irány és sebesség\n"
+"- hullám magasság\n"
+"- tenger felszíni hőmérséklete\n"
+"- felszíni áramlás iránya és sebessége."
+#
+msgid "Generic"
+msgstr ""
+#
+msgid "Get this Code in zyGrib's forum ( This is not your password! )"
+msgstr ""
+#
+msgid "Grib"
+msgstr ""
+#
+#, fuzzy
+msgid "Grib Preferences"
+msgstr "BRIB beállítások"
+#
+msgid "Grib Settings"
+msgstr ""
+#
+msgid "Hours"
+msgstr ""
+#
+msgid "Inches"
+msgstr ""
+#
+msgid "Interpolate between gribs"
+msgstr ""
+#
+msgid "Interval"
+msgstr ""
+#
+msgid "IsoBars"
+msgstr ""
+#
+msgid "Knots"
+msgstr ""
+#
+msgid "Load File Options"
+msgstr ""
+#
+msgid "Load the Last Opened File"
+msgstr ""
+#
+msgid "Load the More Recent File in Directory"
+msgstr ""
+#
+msgid "Local Time"
+msgstr ""
+#
+msgid "Loop Mode"
+msgstr ""
+#
+msgid "MAIL Error: MAPI32.DLL is not installed or invalid on this computer!"
+msgstr ""
+#
+msgid "Mail"
+msgstr ""
+#
+msgid "Mail To "
+msgstr ""
+#
+msgid "Meters"
+msgstr ""
+#
+msgid "MilliBars"
+msgstr ""
+#
+msgid "Millimeters"
+msgstr ""
+#
+msgid "N/A"
+msgstr ""
+#
+msgid "Next"
+msgstr ""
+#
+msgid "Now"
+msgstr ""
+#
+msgid "Numbers"
+msgstr ""
+#
+msgid "Open File"
+msgstr ""
+#
+msgid "Overlay Transparency"
+msgstr ""
+#
+msgid "OverlayMap"
+msgstr ""
+#
+msgid "Percentage"
+msgstr ""
+#
+msgid "Play"
+msgstr ""
+#
+#, fuzzy
+msgid "Please Zoom or Scale Out to view invisible overlays:"
+msgstr ""
+"Zoomolj, vagy válts nagyobb méretarányra az elnyomott HTSGW GRIB "
+"megjelenítéséhez"
+#
+#, fuzzy
+msgid "Pressure"
+msgstr "Légnyomás, mBar"
+#
+msgid "Previous"
+msgstr ""
+#
+msgid "Profile"
+msgstr ""
+#
+msgid "Rainfall"
+msgstr ""
+#
+msgid "Range"
+msgstr ""
+#
+msgid "Request"
+msgstr ""
+#
+msgid ""
+"Request can't be sent. Please verify your email systeme parameters.\n"
+"You should also have a look at your log file.\n"
+"Save or Cancel to finish..."
+msgstr ""
+#
+msgid "Resolution"
+msgstr ""
+#
+msgid "Save"
+msgstr ""
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#, fuzzy
+msgid "Sea Temp"
+msgstr "Tenger felszín hőmérséklete, C"
+#
+msgid "Sea Temperature(surf.)"
+msgstr ""
+#
+#, fuzzy
+msgid "Select a GRIB file"
+msgstr "GRIB könyvtár kiválasztása"
+#
+msgid "Send"
+msgstr ""
+#
+msgid "Sender eMail Address"
+msgstr ""
+#
+msgid "Settings"
+msgstr ""
+#
+msgid "Size"
+msgstr ""
+#
+msgid "Slices per Update"
+msgstr ""
+#
+msgid "Slices per hour"
+msgstr ""
+#
+msgid "Spacing"
+msgstr ""
+#
+msgid "Start Options"
+msgstr ""
+#
+msgid "Start at the first forecast in GRIB file"
+msgstr ""
+#
+msgid "Start at the nearest forecast to current time"
+msgstr ""
+#
+msgid "Stop"
+msgstr ""
+#
+msgid ""
+"The file size limit is overcome!\n"
+"You can zoom in and/or change parameters..."
+msgstr ""
+#
+msgid ""
+"This file contains data for particular time intervals but you have chosen to "
+"display different intervals.\n"
+"Please consider that the values will be interpolated."
+msgstr ""
+#
+msgid "This is your zyGrib's forum access Login"
+msgstr ""
+#
+msgid "Time Options"
+msgstr ""
+#
+msgid "Time Range"
+msgstr ""
+#
+msgid "UTC"
+msgstr ""
+#
+msgid "Units"
+msgstr ""
+#
+msgid "Updates per Second"
+msgstr ""
+#
+msgid "Use Gradual Colors"
+msgstr ""
+#
+msgid "Use High Definition Graphics"
+msgstr "Nagyfelbontású grafika használata"
+#
+msgid "Warning!"
+msgstr ""
+#
+msgid "Warning:  Empty directory!"
+msgstr ""
+#
+msgid "Waves"
+msgstr ""
+#
+msgid "WavesModel"
+msgstr ""
+#
+msgid "Wind"
+msgstr ""
+#
+msgid "Wind Gust"
+msgstr ""
+#
+msgid "Write and send eMail request"
+msgstr ""
+#
+msgid ""
+"You have chosen to authorize interpolation.\n"
+"Don't forget that data displayed at current time will not be real but "
+"interpolated!"
+msgstr ""
+#
+msgid ""
+"Your request is ready. An email is prepared in your email environment. \n"
+"You have just to verify and send it...\n"
+"Save or Cancel to finish...or Continue..."
+msgstr ""
+#
+msgid ""
+"Your request was sent \n"
+"(if your system has an MTA configured and is able to send email).\n"
+"Save or Cancel to finish...or Continue..."
+msgstr ""
+#
+msgid "inHG"
+msgstr ""
+#
+msgid "j/kg"
+msgstr ""
+#
+msgid "km/h"
+msgstr ""
+#
+msgid "m/s"
+msgstr ""
+#
+msgid "mmHG"
+msgstr ""
+#
+msgid "mph"
+msgstr ""
+#
+msgid "playback"
+msgstr ""
+#
+msgid "zyGrib Code"
+msgstr ""
+#
+msgid "zyGrib Login"
+msgstr ""
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#, fuzzy
+#~ msgid " data"
+#~ msgstr "GRIB adat"
+#
+#
+#
+#
+#
+#, fuzzy
+#~ msgid "Data Display Preferences"
+#~ msgstr "BRIB beállítások"
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#~ msgid "GRIB File Directory"
+#~ msgstr "GRIB fájl könyvtár"
+#
+#
+#
+#
+#
+#, fuzzy
+#~ msgid "Please Zoom or Scale Out to view suppressed Air Temp.(2m) GRIB"
+#~ msgstr ""
+#~ "Zoomolj, vagy válts nagyobb méretarányra az elnyomott SEATEMP GRIB "
+#~ "megjelenítéséhez"
+#
+#
+#
+#
+#
+#, fuzzy
+#~ msgid "Please Zoom or Scale Out to view suppressed CURRENT GRIB"
+#~ msgstr ""
+#~ "Zoomolj, vagy válts nagyobb méretarányra az elnyomott CRAIN GRIB "
+#~ "megjelenítéséhez"
+#
+#
+#
+#
+#
+#, fuzzy
+#~ msgid "Please Zoom or Scale Out to view suppressed Clouds Cover GRIB"
+#~ msgstr ""
+#~ "Zoomolj, vagy válts nagyobb méretarányra az elnyomott CRAIN GRIB "
+#~ "megjelenítéséhez"
+#
+#
+#
+#
+#
+#, fuzzy
+#~ msgid "Please Zoom or Scale Out to view suppressed Sea Surf.Temp. GRIB"
+#~ msgstr ""
+#~ "Zoomolj, vagy válts nagyobb méretarányra az elnyomott SEATEMP GRIB "
+#~ "megjelenítéséhez"
+#
+#
+#
+#
+#
+#, fuzzy
+#~ msgid "Please Zoom or Scale Out to view suppressed Total Rainfall GRIB"
+#~ msgstr ""
+#~ "Zoomolj, vagy válts nagyobb méretarányra az elnyomott CRAIN GRIB "
+#~ "megjelenítéséhez"
+#
+#
+#
+#
+#
+#, fuzzy
+#~ msgid "Pressure (MSL)"
+#~ msgstr "Légnyomás, mBar"
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#, fuzzy
+#~ msgid "Request Preferences"
+#~ msgstr "BRIB beállítások"
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#~ msgid "Show GRIB icon"
+#~ msgstr "GRIB ikon mutatása"
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#~ msgid "Show metres/sec for Wind Speed"
+#~ msgstr "Szélsebesség méter/sec-ben mutatása"
+#
+#
+#
+#
+#
+#, fuzzy
+#~ msgid "Sign.Wave Height"
+#~ msgstr "Hullám magasság, m"
+#
+#
+#
+#
+#
+#, fuzzy
+#~ msgid "Wind Direction(10m)"
+#~ msgstr "Szél irány"
+#
+#
+#
+#
+#
+#, fuzzy
+#~ msgid "Wind Speed and Direction(10m)"
+#~ msgstr "Szél irány"
+#
+#
+#
+#
+#
+#, fuzzy
+#~ msgid "Wind Speed(10m)"
+#~ msgstr "Szél sebesség, m/s."
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#~ msgid "Wind Speed, Kts."
+#~ msgstr "Szél sebesség, csomó."
