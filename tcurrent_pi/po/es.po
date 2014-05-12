@@ -45,8 +45,8 @@ msgid "Barbed Arrows"
 msgstr ""
 #
 msgid ""
-"Before sending an email to Zygrib you have to enter your Login and Code.\n"
-"Please visit www.zygrib.org/ and follow instructions..."
+"Before sending an email to Zytcurrent you have to enter your Login and Code.\n"
+"Please visit www.zytcurrent.org/ and follow instructions..."
 msgstr ""
 #
 msgid "Building Isobar map"
@@ -152,51 +152,10 @@ msgstr ""
 msgid "Forecast Model "
 msgstr ""
 #
-msgid "GRIB Data at Cursor"
-msgstr ""
-#
-#
-#
-msgid "GRIB Display Control"
-msgstr "Control Visualización GRIB"
-#
-msgid "GRIB PlugIn for OpenCPN"
-msgstr "PlugIn GRIB para OpenCPN"
-#
-msgid ""
-"GRIB PlugIn for OpenCPN\n"
-"Provides basic GRIB file overlay capabilities for several GRIB file types.\n"
-"\n"
-"Supported GRIB file types include:\n"
-"- wind direction and speed\n"
-"- significant wave height\n"
-"- sea surface temperature\n"
-"- surface current direction and speed."
-msgstr ""
-"PlugIn GRIB para OpenCPN\n"
-"Proporciona capacidades básicas de superposición de archivos GRIB para varios "
-"tipos de archivos GRIB.\n"
-"\n"
-"Entre los archivos GRIB soportados se incluyen:\n"
-"- velocidad y dirección del viento\n"
-"- altura de ola significativa\n"
-"- temperatura superficial del mar\n"
-"- dirección y velocidad de corrientes superficiales."
-#
 msgid "Generic"
 msgstr ""
 #
-msgid "Get this Code in zyGrib's forum ( This is not your password! )"
-msgstr ""
-#
-msgid "Grib"
-msgstr "Grib"
-#
-#, fuzzy
-msgid "Grib Preferences"
-msgstr "Preferencias GRIB"
-#
-msgid "Grib Settings"
+msgid "Get this Code in zytcurrent's forum ( This is not your password! )"
 msgstr ""
 #
 msgid "Hours"
@@ -205,7 +164,7 @@ msgstr ""
 msgid "Inches"
 msgstr ""
 #
-msgid "Interpolate between gribs"
+msgid "Interpolate between tcurrents"
 msgstr ""
 #
 msgid "Interval"
@@ -336,7 +295,7 @@ msgstr ""
 #
 #
 #, fuzzy
-msgid "Select a GRIB file"
+msgid "Select a tcurrent file"
 msgstr "Seleccionar Carpeta GRIB"
 #
 msgid "Send"
@@ -363,7 +322,7 @@ msgstr ""
 msgid "Start Options"
 msgstr ""
 #
-msgid "Start at the first forecast in GRIB file"
+msgid "Start at the first forecast in tcurrent file"
 msgstr ""
 #
 msgid "Start at the nearest forecast to current time"
@@ -383,7 +342,7 @@ msgid ""
 "Please consider that the values will be interpolated."
 msgstr ""
 #
-msgid "This is your zyGrib's forum access Login"
+msgid "This is your zytcurrent's forum access Login"
 msgstr ""
 #
 msgid "Time Options"
@@ -469,11 +428,75 @@ msgstr ""
 msgid "playback"
 msgstr ""
 #
-msgid "zyGrib Code"
+#
+#
+#, fuzzy
+msgid "tcurrent"
+msgstr "Velocidad Actual, Nds."
+#
+msgid "tcurrent Data at Cursor"
 msgstr ""
 #
-msgid "zyGrib Login"
+#
+#
+#, fuzzy
+msgid "tcurrent Display Control"
+msgstr "Control Visualización GRIB"
+#
+#, fuzzy
+msgid "tcurrent PlugIn for OpenCPN"
+msgstr "PlugIn GRIB para OpenCPN"
+#
+#, fuzzy
+msgid ""
+"tcurrent PlugIn for OpenCPN\n"
+"Provides basic tcurrent file overlay capabilities for several tcurrent file "
+"types.\n"
+"\n"
+"Supported tcurrent file types include:\n"
+"- wind direction and speed\n"
+"- significant wave height\n"
+"- sea surface temperature\n"
+"- surface current direction and speed."
 msgstr ""
+"PlugIn GRIB para OpenCPN\n"
+"Proporciona capacidades básicas de superposición de archivos GRIB para varios "
+"tipos de archivos GRIB.\n"
+"\n"
+"Entre los archivos GRIB soportados se incluyen:\n"
+"- velocidad y dirección del viento\n"
+"- altura de ola significativa\n"
+"- temperatura superficial del mar\n"
+"- dirección y velocidad de corrientes superficiales."
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#, fuzzy
+msgid "tcurrent Preferences"
+msgstr "Preferencias GRIB"
+#
+msgid "tcurrent Settings"
+msgstr ""
+#
+msgid "zytcurrent Code"
+msgstr ""
+#
+msgid "zytcurrent Login"
+msgstr ""
+#
 #
 #
 #
@@ -497,9 +520,11 @@ msgstr ""
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Data Display Preferences"
 #~ msgstr "Preferencias GRIB"
+#
 #
 #
 #
@@ -536,8 +561,19 @@ msgstr ""
 #
 #
 #
+#
 #~ msgid "GRIB File Directory"
 #~ msgstr "Carpeta Ficheros GRIB"
+#
+#
+#~ msgid "Grib"
+#~ msgstr "Grib"
+#
+#
+#, fuzzy
+#~ msgid "Grib Preferences"
+#~ msgstr "Preferencias GRIB"
+#
 #
 #
 #
@@ -555,9 +591,11 @@ msgstr ""
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed CURRENT GRIB"
 #~ msgstr "Ajuste Zoom o Escala para ver CRAIN GRIB eliminado"
+#
 #
 #
 #
@@ -575,9 +613,11 @@ msgstr ""
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Sea Surf.Temp. GRIB"
 #~ msgstr "Ajuste Zoom o Escala para ver SEATEMP GRIB eliminado"
+#
 #
 #
 #
@@ -595,28 +635,11 @@ msgstr ""
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Pressure (MSL)"
 #~ msgstr "Presión, mBar"
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#, fuzzy
-#~ msgid "Request Preferences"
-#~ msgstr "Preferencias GRIB"
 #
 #
 #
@@ -675,8 +698,10 @@ msgstr ""
 #
 #
 #
+#
 #~ msgid "Show metres/sec for Wind Speed"
 #~ msgstr "Mostrar metros/seg para Velocidad Viento"
+#
 #
 #
 #
@@ -694,9 +719,11 @@ msgstr ""
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Wind Direction(10m)"
 #~ msgstr "Dirección Viento"
+#
 #
 #
 #
@@ -714,9 +741,11 @@ msgstr ""
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Wind Speed(10m)"
 #~ msgstr "Velocidad Viento, m/seg."
+#
 #
 #
 #

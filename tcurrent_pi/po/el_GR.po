@@ -2,7 +2,7 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: grib_pi 2.2.1207\n"
@@ -44,8 +44,8 @@ msgid "Barbed Arrows"
 msgstr ""
 #
 msgid ""
-"Before sending an email to Zygrib you have to enter your Login and Code.\n"
-"Please visit www.zygrib.org/ and follow instructions..."
+"Before sending an email to Zytcurrent you have to enter your Login and Code.\n"
+"Please visit www.zytcurrent.org/ and follow instructions..."
 msgstr ""
 #
 msgid "Building Isobar map"
@@ -60,29 +60,29 @@ msgstr ""
 msgid "Cloud Cover"
 msgstr ""
 #
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 #, fuzzy
 msgid "Colors"
 msgstr "&Κλείσιμο"
@@ -96,7 +96,7 @@ msgstr ""
 msgid "Copy Missing Wave Records"
 msgstr ""
 #
-# 
+#
 #, fuzzy
 msgid "Current"
 msgstr "Τρέχουσα Ταχύτητα, Kts. "
@@ -104,7 +104,7 @@ msgstr "Τρέχουσα Ταχύτητα, Kts. "
 msgid "Data available"
 msgstr ""
 #
-# 
+#
 msgid "Days"
 msgstr ""
 #
@@ -129,7 +129,7 @@ msgstr ""
 msgid "Display Isotherms"
 msgstr ""
 #
-# 
+#
 msgid "Error:  Can't read this File!"
 msgstr ""
 #
@@ -151,53 +151,10 @@ msgstr ""
 msgid "Forecast Model "
 msgstr ""
 #
-msgid "GRIB Data at Cursor"
-msgstr ""
-#
-# 
-msgid "GRIB Display Control"
-msgstr "Έλεγχος Εμφάνησης GRIB"
-#
-# 
-msgid "GRIB PlugIn for OpenCPN"
-msgstr "Επιπρόσθετο GRIB για το OpenCPN"
-#
-# 
-msgid ""
-"GRIB PlugIn for OpenCPN\n"
-"Provides basic GRIB file overlay capabilities for several GRIB file types.\n"
-"\n"
-"Supported GRIB file types include:\n"
-"- wind direction and speed\n"
-"- significant wave height\n"
-"- sea surface temperature\n"
-"- surface current direction and speed."
-msgstr ""
-"Επιπρόσθετο GRIB για το OpenCPN\n"
-"Παρέχει Δυνατότητες εμφάνησης αρχείων GRIB για διάφορα αρχεία GRIB.\n"
-"\n"
-"Οι υποστηριζόμενοι τύποι αρχείων GRIB περιλαμβάνουν:\n"
-"-  κατεύθυνση και ταχύτητα ανέμου\n"
-"-  διακριτό ύψος κύματος\n"
-"-  Θερμοκρασία Επιφανείας\n"
-"-  επίκαιρη επιφανειακή κατεύθυνση και ταχύτητα."
-#
 msgid "Generic"
 msgstr ""
 #
-msgid "Get this Code in zyGrib's forum ( This is not your password! )"
-msgstr ""
-#
-# 
-msgid "Grib"
-msgstr "Grib"
-#
-# 
-#, fuzzy
-msgid "Grib Preferences"
-msgstr "Ιδιότητες GRIB"
-#
-msgid "Grib Settings"
+msgid "Get this Code in zytcurrent's forum ( This is not your password! )"
 msgstr ""
 #
 msgid "Hours"
@@ -206,10 +163,10 @@ msgstr ""
 msgid "Inches"
 msgstr ""
 #
-msgid "Interpolate between gribs"
+msgid "Interpolate between tcurrents"
 msgstr ""
 #
-# 
+#
 msgid "Interval"
 msgstr ""
 #
@@ -228,7 +185,7 @@ msgstr ""
 msgid "Load the More Recent File in Directory"
 msgstr ""
 #
-# 
+#
 msgid "Local Time"
 msgstr ""
 #
@@ -280,12 +237,12 @@ msgstr ""
 msgid "Play"
 msgstr ""
 #
-# 
+#
 #, fuzzy
 msgid "Please Zoom or Scale Out to view invisible overlays:"
 msgstr "Παρακαλώ μεγένθυνε ή σμίκρυνε για να δείς καλυμμένα HTSGW GRIB"
 #
-# 
+#
 #, fuzzy
 msgid "Pressure"
 msgstr "Ατμ. Πίεση, mBar"
@@ -311,22 +268,22 @@ msgid ""
 "Save or Cancel to finish..."
 msgstr ""
 #
-# 
+#
 msgid "Resolution"
 msgstr ""
 #
 msgid "Save"
 msgstr ""
 #
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
+#
+#
+#
+#
+#
+#
+#
+#
+#
 #, fuzzy
 msgid "Sea Temp"
 msgstr "Θερμοκρασία Επιφανείας, C "
@@ -334,12 +291,12 @@ msgstr "Θερμοκρασία Επιφανείας, C "
 msgid "Sea Temperature(surf.)"
 msgstr ""
 #
-# 
+#
 #, fuzzy
-msgid "Select a GRIB file"
+msgid "Select a tcurrent file"
 msgstr "Διάλεξε φάκελο αρχείων GRIB"
 #
-# 
+#
 msgid "Send"
 msgstr ""
 #
@@ -364,7 +321,7 @@ msgstr ""
 msgid "Start Options"
 msgstr ""
 #
-msgid "Start at the first forecast in GRIB file"
+msgid "Start at the first forecast in tcurrent file"
 msgstr ""
 #
 msgid "Start at the nearest forecast to current time"
@@ -384,7 +341,7 @@ msgid ""
 "Please consider that the values will be interpolated."
 msgstr ""
 #
-msgid "This is your zyGrib's forum access Login"
+msgid "This is your zytcurrent's forum access Login"
 msgstr ""
 #
 msgid "Time Options"
@@ -393,11 +350,11 @@ msgstr ""
 msgid "Time Range"
 msgstr ""
 #
-# 
+#
 msgid "UTC"
 msgstr ""
 #
-# 
+#
 msgid "Units"
 msgstr ""
 #
@@ -407,7 +364,7 @@ msgstr ""
 msgid "Use Gradual Colors"
 msgstr ""
 #
-# 
+#
 msgid "Use High Definition Graphics"
 msgstr "Χρησιμοποίησε Γραφικά Υψηλής Ευκρίνιας"
 #
@@ -423,7 +380,7 @@ msgstr ""
 msgid "WavesModel"
 msgstr ""
 #
-# 
+#
 msgid "Wind"
 msgstr ""
 #
@@ -472,25 +429,88 @@ msgstr ""
 msgid "playback"
 msgstr ""
 #
-msgid "zyGrib Code"
+#
+#, fuzzy
+msgid "tcurrent"
+msgstr "Τρέχουσα Ταχύτητα, Kts. "
+#
+msgid "tcurrent Data at Cursor"
 msgstr ""
 #
-msgid "zyGrib Login"
+#
+#, fuzzy
+msgid "tcurrent Display Control"
+msgstr "Έλεγχος Εμφάνησης GRIB"
+#
+#
+#, fuzzy
+msgid "tcurrent PlugIn for OpenCPN"
+msgstr "Επιπρόσθετο GRIB για το OpenCPN"
+#
+#
+#, fuzzy
+msgid ""
+"tcurrent PlugIn for OpenCPN\n"
+"Provides basic tcurrent file overlay capabilities for several tcurrent file "
+"types.\n"
+"\n"
+"Supported tcurrent file types include:\n"
+"- wind direction and speed\n"
+"- significant wave height\n"
+"- sea surface temperature\n"
+"- surface current direction and speed."
+msgstr ""
+"Επιπρόσθετο GRIB για το OpenCPN\n"
+"Παρέχει Δυνατότητες εμφάνησης αρχείων GRIB για διάφορα αρχεία GRIB.\n"
+"\n"
+"Οι υποστηριζόμενοι τύποι αρχείων GRIB περιλαμβάνουν:\n"
+"-  κατεύθυνση και ταχύτητα ανέμου\n"
+"-  διακριτό ύψος κύματος\n"
+"-  Θερμοκρασία Επιφανείας\n"
+"-  επίκαιρη επιφανειακή κατεύθυνση και ταχύτητα."
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#, fuzzy
+msgid "tcurrent Preferences"
+msgstr "Ιδιότητες GRIB"
+#
+msgid "tcurrent Settings"
+msgstr ""
+#
+msgid "zytcurrent Code"
+msgstr ""
+#
+msgid "zytcurrent Login"
 msgstr ""
 #
 #
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 #, fuzzy
 #~ msgid " data"
 #~ msgstr "Στοιχεία GRIB"
@@ -498,50 +518,65 @@ msgstr ""
 #
 #
 #
-# 
+#
+#
 #, fuzzy
 #~ msgid "Data Display Preferences"
 #~ msgstr "Ιδιότητες GRIB"
 #
 #
 #
-# 
+#
+#
 #~ msgid "GRIB"
 #~ msgstr "GRIB"
 #
 #
 #
 #
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 #~ msgid "GRIB File Directory"
 #~ msgstr "Φάκελος Αρχείων GRIB"
 #
 #
 #
+#~ msgid "Grib"
+#~ msgstr "Grib"
 #
-# 
+#
+#
+#, fuzzy
+#~ msgid "Grib Preferences"
+#~ msgstr "Ιδιότητες GRIB"
+#
+#
+#
+#
+#
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Air Temp.(2m) GRIB"
 #~ msgstr "Παρακαλώ μεγένθυνε ή σμίκρυνε για να δείς καλυμμένα SEATEMP GRIB"
@@ -549,8 +584,9 @@ msgstr ""
 #
 #
 #
-# 
-# 
+#
+#
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed CURRENT GRIB"
 #~ msgstr ""
@@ -559,8 +595,9 @@ msgstr ""
 #
 #
 #
-# 
-# 
+#
+#
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Clouds Cover GRIB"
 #~ msgstr ""
@@ -569,7 +606,8 @@ msgstr ""
 #
 #
 #
-# 
+#
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Sea Surf.Temp. GRIB"
 #~ msgstr "Παρακαλώ μεγένθυνε ή σμίκρυνε για να δείς καλυμμένα SEATEMP GRIB"
@@ -577,7 +615,8 @@ msgstr ""
 #
 #
 #
-# 
+#
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Total Rainfall GRIB"
 #~ msgstr "Παρακαλώ μεγένθυνε ή σμίκρυνε για να δείς καλυμμένα CRAIN GRIB"
@@ -585,7 +624,8 @@ msgstr ""
 #
 #
 #
-# 
+#
+#
 #, fuzzy
 #~ msgid "Pressure (MSL)"
 #~ msgstr "Ατμ. Πίεση, mBar"
@@ -593,55 +633,38 @@ msgstr ""
 #
 #
 #
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-#, fuzzy
-#~ msgid "Request Preferences"
-#~ msgstr "Ιδιότητες GRIB"
 #
 #
 #
 #
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 #~ msgid "Show GRIB icon"
 #~ msgstr "Δείξε εικόνα GRIB"
 #
 #
 #
 #
-# 
+#
+#
 #, fuzzy
 #~ msgid "Sign.Wave Height"
 #~ msgstr "Διακριτό ύψος Κύματος, m(μέτρα) "
@@ -649,30 +672,31 @@ msgstr ""
 #
 #
 #
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 #~ msgid "WARNING:  QuickScat GRIB data is %d hours old."
 #~ msgstr ""
 #~ "ΠΡΟΣΟΧΗ:  Τα στοιχεία του αρχείου GRIB από το QuickScat είναι  %d  Ώρες "
@@ -681,7 +705,8 @@ msgstr ""
 #
 #
 #
-# 
+#
+#
 #, fuzzy
 #~ msgid "Wind Direction(10m)"
 #~ msgstr "Διεύθυνση Ανέμου"
@@ -689,7 +714,8 @@ msgstr ""
 #
 #
 #
-# 
+#
+#
 #, fuzzy
 #~ msgid "Wind Speed and Direction(10m)"
 #~ msgstr "Διεύθυνση Ανέμου"
@@ -697,7 +723,8 @@ msgstr ""
 #
 #
 #
-# 
+#
+#
 #, fuzzy
 #~ msgid "Wind Speed(10m)"
 #~ msgstr "Ταχύτητα Ανέμου, Kts"
@@ -705,28 +732,29 @@ msgstr ""
 #
 #
 #
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 #~ msgid "Wind Speed, Kts."
 #~ msgstr "Ταχύτητα Ανέμου, Kts"

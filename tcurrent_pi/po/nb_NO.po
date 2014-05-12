@@ -46,8 +46,8 @@ msgid "Barbed Arrows"
 msgstr "Spisse piler"
 #
 msgid ""
-"Before sending an email to Zygrib you have to enter your Login and Code.\n"
-"Please visit www.zygrib.org/ and follow instructions..."
+"Before sending an email to Zytcurrent you have to enter your Login and Code.\n"
+"Please visit www.zytcurrent.org/ and follow instructions..."
 msgstr ""
 #
 msgid "Building Isobar map"
@@ -152,48 +152,11 @@ msgstr "Fot"
 msgid "Forecast Model "
 msgstr ""
 #
-msgid "GRIB Data at Cursor"
-msgstr "GRIB data ved kursor"
-#
-msgid "GRIB Display Control"
-msgstr "GRIB visningskontroll"
-#
-msgid "GRIB PlugIn for OpenCPN"
-msgstr "GRIB utvidelse for OpenCPN"
-#
-msgid ""
-"GRIB PlugIn for OpenCPN\n"
-"Provides basic GRIB file overlay capabilities for several GRIB file types.\n"
-"\n"
-"Supported GRIB file types include:\n"
-"- wind direction and speed\n"
-"- significant wave height\n"
-"- sea surface temperature\n"
-"- surface current direction and speed."
-msgstr ""
-"GRIB utvidelse for OpenCPN\n"
-"Gir enkel GRIBfil overlegg mulighet for flere typer GRIB filer.\n"
-"\n"
-"Støttede GRIB filer inkluderer:\n"
-"- Vindretning og fart\n"
-"- Signifikant bølgehøyde\n"
-"- Sjøoverflate temperatur\n"
-"- Overflate strøm, retning og fart."
-#
 msgid "Generic"
 msgstr "Generisk"
 #
-msgid "Get this Code in zyGrib's forum ( This is not your password! )"
+msgid "Get this Code in zytcurrent's forum ( This is not your password! )"
 msgstr ""
-#
-msgid "Grib"
-msgstr "GRIB"
-#
-msgid "Grib Preferences"
-msgstr "GRIB alternativer"
-#
-msgid "Grib Settings"
-msgstr "GRIB innstillinger"
 #
 msgid "Hours"
 msgstr ""
@@ -201,7 +164,8 @@ msgstr ""
 msgid "Inches"
 msgstr "Tommer"
 #
-msgid "Interpolate between gribs"
+#, fuzzy
+msgid "Interpolate between tcurrents"
 msgstr "Interpoler mellom GRIB'er"
 #
 msgid "Interval"
@@ -328,7 +292,8 @@ msgstr "Sjøtemp"
 msgid "Sea Temperature(surf.)"
 msgstr "Havtemperatur"
 #
-msgid "Select a GRIB file"
+#, fuzzy
+msgid "Select a tcurrent file"
 msgstr "Velg en GRIB fil"
 #
 msgid "Send"
@@ -355,7 +320,7 @@ msgstr "Mellomrom"
 msgid "Start Options"
 msgstr ""
 #
-msgid "Start at the first forecast in GRIB file"
+msgid "Start at the first forecast in tcurrent file"
 msgstr ""
 #
 msgid "Start at the nearest forecast to current time"
@@ -375,7 +340,7 @@ msgid ""
 "Please consider that the values will be interpolated."
 msgstr ""
 #
-msgid "This is your zyGrib's forum access Login"
+msgid "This is your zytcurrent's forum access Login"
 msgstr ""
 #
 msgid "Time Options"
@@ -470,11 +435,72 @@ msgstr ""
 msgid "playback"
 msgstr "avspilling"
 #
-msgid "zyGrib Code"
+#, fuzzy
+msgid "tcurrent"
+msgstr "Strøm"
+#
+#, fuzzy
+msgid "tcurrent Data at Cursor"
+msgstr "GRIB data ved kursor"
+#
+#, fuzzy
+msgid "tcurrent Display Control"
+msgstr "GRIB visningskontroll"
+#
+#, fuzzy
+msgid "tcurrent PlugIn for OpenCPN"
+msgstr "GRIB utvidelse for OpenCPN"
+#
+#, fuzzy
+msgid ""
+"tcurrent PlugIn for OpenCPN\n"
+"Provides basic tcurrent file overlay capabilities for several tcurrent file "
+"types.\n"
+"\n"
+"Supported tcurrent file types include:\n"
+"- wind direction and speed\n"
+"- significant wave height\n"
+"- sea surface temperature\n"
+"- surface current direction and speed."
+msgstr ""
+"GRIB utvidelse for OpenCPN\n"
+"Gir enkel GRIBfil overlegg mulighet for flere typer GRIB filer.\n"
+"\n"
+"Støttede GRIB filer inkluderer:\n"
+"- Vindretning og fart\n"
+"- Signifikant bølgehøyde\n"
+"- Sjøoverflate temperatur\n"
+"- Overflate strøm, retning og fart."
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#, fuzzy
+msgid "tcurrent Preferences"
+msgstr "GRIB innstillinger"
+#
+#, fuzzy
+msgid "tcurrent Settings"
+msgstr "GRIB innstillinger"
+#
+msgid "zytcurrent Code"
 msgstr ""
 #
-msgid "zyGrib Login"
+msgid "zytcurrent Login"
 msgstr ""
+#
 #
 #
 #~ msgid " (Dup)"
@@ -492,20 +518,25 @@ msgstr ""
 #
 #
 #
+#
 #~ msgid " data"
 #~ msgstr " data"
+#
 #
 #
 #~ msgid "Action"
 #~ msgstr "Utfør"
 #
 #
+#
 #~ msgid "Celcius"
 #~ msgstr "Celcius"
 #
 #
+#
 #~ msgid "Cloud"
 #~ msgstr "Sky"
+#
 #
 #
 #
@@ -516,12 +547,15 @@ msgstr ""
 #~ msgstr "GRIB innstillinger"
 #
 #
+#
 #~ msgid "Error"
 #~ msgstr "Feil"
 #
 #
+#
 #~ msgid "Failed to send mail message"
 #~ msgstr "Kunne ikke sende epost melding"
+#
 #
 #
 #
@@ -554,32 +588,48 @@ msgstr ""
 #
 #
 #
+#
 #~ msgid "GRIB File Directory"
 #~ msgstr "GRIB fil katalog"
+#
+#
+#~ msgid "Grib"
+#~ msgstr "GRIB"
+#
+#
+#~ msgid "Grib Preferences"
+#~ msgstr "GRIB alternativer"
+#
 #
 #
 #~ msgid "KPH"
 #~ msgstr "KMT"
 #
 #
+#
 #~ msgid "M/S"
 #~ msgstr "M/S"
+#
 #
 #
 #~ msgid "MPH"
 #~ msgstr "MPT"
 #
 #
+#
 #~ msgid "MyLabel"
 #~ msgstr "MittMerke"
+#
 #
 #
 #~ msgid "OpenCpn failed to logon! Please verify your eMail environment"
 #~ msgstr "OpenCPN klarte ikke å logge inn! Vennligst sjekk ditt epost system"
 #
 #
+#
 #~ msgid "Parameters"
 #~ msgstr "Parametre"
+#
 #
 #
 #~ msgid "Period"
@@ -589,9 +639,11 @@ msgstr ""
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Air Temp.(2m) GRIB"
 #~ msgstr "Vennligst Zoom eller Skaler ut for å vise skjulte SJØTEMP GRIB"
+#
 #
 #
 #
@@ -607,9 +659,11 @@ msgstr ""
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Clouds Cover GRIB"
 #~ msgstr "Vennligst Zoom eller Skaler ut for å vise skjulte SJØSTRØM GRIB"
+#
 #
 #
 #
@@ -623,13 +677,16 @@ msgstr ""
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Total Rainfall GRIB"
 #~ msgstr "Vennligst Zoom eller Skaler ut for å vise skjulte CRAIN GRIB"
 #
 #
+#
 #~ msgid "Precipitation"
 #~ msgstr "Nedbør"
+#
 #
 #
 #
@@ -640,35 +697,20 @@ msgstr ""
 #~ msgstr "Lufttrykk, mb"
 #
 #
+#
 #~ msgid "Quickscat"
 #~ msgstr "Quickscat"
+#
 #
 #
 #~ msgid "Ref : "
 #~ msgstr "Ref : "
 #
 #
+#
 #~ msgid "Request Pofile"
 #~ msgstr "Forespør profil"
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#, fuzzy
-#~ msgid "Request Preferences"
-#~ msgstr "GRIB innstillinger"
 #
 #
 #~ msgid "SeaTemp"
@@ -700,8 +742,10 @@ msgstr ""
 #
 #
 #
+#
 #~ msgid "Show GRIB icon"
 #~ msgstr "Vis GRIB ikon"
+#
 #
 #
 #
@@ -738,8 +782,10 @@ msgstr ""
 #
 #
 #
+#
 #~ msgid "WARNING:  QuickScat GRIB data is %d hours old."
 #~ msgstr "ADVARSEL:  QuickSCAT GRIB data er %d timer gammel."
+#
 #
 #
 #
@@ -750,8 +796,10 @@ msgstr ""
 #~ msgstr "Vindretning"
 #
 #
+#
 #~ msgid "Wind Scat"
 #~ msgstr "Vindscat"
+#
 #
 #
 #
@@ -765,13 +813,16 @@ msgstr ""
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Wind Speed(10m)"
 #~ msgstr "Vindhastighet, Knop"
 #
 #
+#
 #~ msgid "Zone"
 #~ msgstr "Sone"
+#
 #
 #
 #~ msgid "eMail error"

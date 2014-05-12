@@ -40,9 +40,10 @@ msgstr ""
 msgid "Barbed Arrows"
 msgstr "Flèches à barbules"
 #
+#, fuzzy
 msgid ""
-"Before sending an email to Zygrib you have to enter your Login and Code.\n"
-"Please visit www.zygrib.org/ and follow instructions..."
+"Before sending an email to Zytcurrent you have to enter your Login and Code.\n"
+"Please visit www.zytcurrent.org/ and follow instructions..."
 msgstr ""
 "Avant d'envoyer un mail à Zygrib, vous devez entrer votre login et votre "
 "code.\n"
@@ -126,50 +127,13 @@ msgstr "Pieds"
 msgid "Forecast Model "
 msgstr "Model des prévisions"
 #
-msgid "GRIB Data at Cursor"
-msgstr "Valeurs des données sous la souris"
-#
-msgid "GRIB Display Control"
-msgstr "Gestionnaire d'affichage GRIB"
-#
-msgid "GRIB PlugIn for OpenCPN"
-msgstr "Complément \"Météo\" d'affichage des fichiers GRIB pour OpenCPN"
-#
-msgid ""
-"GRIB PlugIn for OpenCPN\n"
-"Provides basic GRIB file overlay capabilities for several GRIB file types.\n"
-"\n"
-"Supported GRIB file types include:\n"
-"- wind direction and speed\n"
-"- significant wave height\n"
-"- sea surface temperature\n"
-"- surface current direction and speed."
-msgstr ""
-"Complément \"Météo\" pour l'affichage des fichiers GRIB par OpenCPN\n"
-"Fournit un affichage de base des fichiers GRIB pour plusieurs types de "
-"fichiers.\n"
-"\n"
-"Supporte les types de fichiers GRIB suivants :\n"
-"- Vent : Direction et vitesse\n"
-"- Hauteur significative des vagues\n"
-"- Température de surface de la mer\n"
-"- Courant de surface : Direction et vitesse."
-#
 msgid "Generic"
 msgstr "Générique"
 #
-msgid "Get this Code in zyGrib's forum ( This is not your password! )"
+#, fuzzy
+msgid "Get this Code in zytcurrent's forum ( This is not your password! )"
 msgstr ""
 "Obtenir ce code dans le forum de Zygrib ( Ce n'est pas votre mot de passe )"
-#
-msgid "Grib"
-msgstr "Grib"
-#
-msgid "Grib Preferences"
-msgstr "Préférences"
-#
-msgid "Grib Settings"
-msgstr "Préférences GRIB"
 #
 msgid "Hours"
 msgstr "heures"
@@ -177,7 +141,8 @@ msgstr "heures"
 msgid "Inches"
 msgstr "Pouces"
 #
-msgid "Interpolate between gribs"
+#, fuzzy
+msgid "Interpolate between tcurrents"
 msgstr "Interpoler entre GRIB"
 #
 msgid "Interval"
@@ -297,7 +262,8 @@ msgstr "Temp. eau"
 msgid "Sea Temperature(surf.)"
 msgstr "Température de l'eau(Surf.)"
 #
-msgid "Select a GRIB file"
+#, fuzzy
+msgid "Select a tcurrent file"
 msgstr "Sélectionnez un fichier GRIB"
 #
 msgid "Send"
@@ -325,7 +291,7 @@ msgstr "Espacement"
 msgid "Start Options"
 msgstr "Zone horaire"
 #
-msgid "Start at the first forecast in GRIB file"
+msgid "Start at the first forecast in tcurrent file"
 msgstr ""
 #
 msgid "Start at the nearest forecast to current time"
@@ -350,7 +316,8 @@ msgstr ""
 "d'afficher les données pour un autre zone horaire.\n"
 "S'il vous plait, considerez que ces valeurs seront interpolées."
 #
-msgid "This is your zyGrib's forum access Login"
+#, fuzzy
+msgid "This is your zytcurrent's forum access Login"
 msgstr "Ceci est votre login d'accès au forum de Zygrib"
 #
 msgid "Time Options"
@@ -445,120 +412,209 @@ msgstr "mph"
 msgid "playback"
 msgstr "Mode d'affichage"
 #
-msgid "zyGrib Code"
+#, fuzzy
+msgid "tcurrent"
+msgstr "Courant"
+#
+#, fuzzy
+msgid "tcurrent Data at Cursor"
+msgstr "Valeurs des données sous la souris"
+#
+#, fuzzy
+msgid "tcurrent Display Control"
+msgstr "Gestionnaire d'affichage GRIB"
+#
+#, fuzzy
+msgid "tcurrent PlugIn for OpenCPN"
+msgstr "Complément \"Météo\" d'affichage des fichiers GRIB pour OpenCPN"
+#
+#, fuzzy
+msgid ""
+"tcurrent PlugIn for OpenCPN\n"
+"Provides basic tcurrent file overlay capabilities for several tcurrent file "
+"types.\n"
+"\n"
+"Supported tcurrent file types include:\n"
+"- wind direction and speed\n"
+"- significant wave height\n"
+"- sea surface temperature\n"
+"- surface current direction and speed."
+msgstr ""
+"Complément \"Météo\" pour l'affichage des fichiers GRIB par OpenCPN\n"
+"Fournit un affichage de base des fichiers GRIB pour plusieurs types de "
+"fichiers.\n"
+"\n"
+"Supporte les types de fichiers GRIB suivants :\n"
+"- Vent : Direction et vitesse\n"
+"- Hauteur significative des vagues\n"
+"- Température de surface de la mer\n"
+"- Courant de surface : Direction et vitesse."
+#
+#, fuzzy
+msgid "tcurrent Preferences"
+msgstr "Préférences"
+#
+#, fuzzy
+msgid "tcurrent Settings"
+msgstr "Préférences GRIB"
+#
+#, fuzzy
+msgid "zytcurrent Code"
 msgstr "Votre code Zygrib"
 #
-msgid "zyGrib Login"
+#, fuzzy
+msgid "zytcurrent Login"
 msgstr "Votre login Zygrib"
+#
 #
 #~ msgid " (Dup)"
 #~ msgstr " (Dup)"
 #
+#
 #~ msgid "0.2"
 #~ msgstr "0.2"
+#
 #
 #~ msgid "0.5"
 #~ msgstr "0.5"
 #
+#
 #~ msgid "0.8"
 #~ msgstr "0.8"
+#
 #
 #~ msgid "1"
 #~ msgstr "1"
 #
+#
 #~ msgid "1.6"
 #~ msgstr "1.6"
+#
 #
 #~ msgid "12"
 #~ msgstr "12"
 #
+#
 #~ msgid "2"
 #~ msgstr "2"
+#
 #
 #~ msgid "24"
 #~ msgstr "24"
 #
+#
 #~ msgid "3"
 #~ msgstr "3"
+#
 #
 #~ msgid "4"
 #~ msgstr "4"
 #
+#
 #~ msgid "5"
 #~ msgstr "5"
+#
 #
 #~ msgid "6"
 #~ msgstr "6"
 #
+#
 #~ msgid "7"
 #~ msgstr "7"
+#
 #
 #~ msgid "8"
 #~ msgstr "8"
 #
+#
 #~ msgid "Air Temperature"
 #~ msgstr "Température de l'air"
+#
 #
 #~ msgid "AirTemp"
 #~ msgstr "Temp. Air"
 #
+#
 #~ msgid "AirTemperature"
 #~ msgstr "Température de l'air"
+#
 #
 #~ msgid "COAMPS"
 #~ msgstr "COAMPS"
 #
+#
 #~ msgid "Celcius"
 #~ msgstr "Celsius"
+#
 #
 #~ msgid "Cloud"
 #~ msgstr "Nuage"
 #
+#
 #~ msgid "CloudCover"
 #~ msgstr "Couverture nuageuse"
+#
 #
 #~ msgid "Data available in the selected forecast model"
 #~ msgstr "Données demandées dans le modèle de prévision choisi"
 #
+#
 #~ msgid "Display Iso Temp. Lines"
 #~ msgstr "Afficher les isothermes"
+#
 #
 #~ msgid "GFS"
 #~ msgstr "GFS"
 #
+#
+#~ msgid "Grib"
+#~ msgstr "Grib"
+#
+#
 #~ msgid "Login you use to connect to Zygrib's forum"
 #~ msgstr "Login que vous utilisez pour vous connecter au forum de Zygrib."
+#
 #
 #~ msgid "Precipitation"
 #~ msgstr "Précipitation"
 #
+#
 #~ msgid "RTOFS"
 #~ msgstr "RTOFS"
+#
 #
 #~ msgid "Rain"
 #~ msgstr "Pluie"
 #
 #
+#
 #~ msgid "Ref : "
 #~ msgstr "Ref : "
+#
 #
 #~ msgid "Saildocs"
 #~ msgstr "Saildocs"
 #
+#
 #~ msgid "Sea Temperature"
 #~ msgstr "Température de l'eau"
+#
 #
 #~ msgid "SeaTemp"
 #~ msgstr "Temp. eau"
 #
+#
 #~ msgid "SeaTemperature"
 #~ msgstr "Température de l'eau"
+#
 #
 #~ msgid "Wave"
 #~ msgstr "Vague"
 #
+#
 #~ msgid "WindGust"
 #~ msgstr "Rafale de vent"
+#
 #
 #~ msgid "ZyGrib"
 #~ msgstr "ZyGrib"

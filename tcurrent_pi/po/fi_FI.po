@@ -46,8 +46,8 @@ msgid "Barbed Arrows"
 msgstr ""
 #
 msgid ""
-"Before sending an email to Zygrib you have to enter your Login and Code.\n"
-"Please visit www.zygrib.org/ and follow instructions..."
+"Before sending an email to Zytcurrent you have to enter your Login and Code.\n"
+"Please visit www.zytcurrent.org/ and follow instructions..."
 msgstr ""
 #
 msgid "Building Isobar map"
@@ -149,48 +149,10 @@ msgstr ""
 msgid "Forecast Model "
 msgstr ""
 #
-msgid "GRIB Data at Cursor"
-msgstr ""
-#
-msgid "GRIB Display Control"
-msgstr "GRIB Näyttöohjaus"
-#
-msgid "GRIB PlugIn for OpenCPN"
-msgstr "GRIB moduuli OpenCPN:lle"
-#
-msgid ""
-"GRIB PlugIn for OpenCPN\n"
-"Provides basic GRIB file overlay capabilities for several GRIB file types.\n"
-"\n"
-"Supported GRIB file types include:\n"
-"- wind direction and speed\n"
-"- significant wave height\n"
-"- sea surface temperature\n"
-"- surface current direction and speed."
-msgstr ""
-"GRIB moduuli  OpenCPN:lle\n"
-"Näyttää kartalla GRIB-tiedon usean tyyppisistä tiedostoista.\n"
-"\n"
-"Tukee seuraavia GRIB-tiedon sisältöjä:\n"
-"- tuulen suunta ja nopeus\n"
-"- merkitsevä aallonkorkeus\n"
-"- pintaveden lämpötila\n"
-"-virran nopeus ja suunta"
-#
 msgid "Generic"
 msgstr ""
 #
-msgid "Get this Code in zyGrib's forum ( This is not your password! )"
-msgstr ""
-#
-msgid "Grib"
-msgstr "Grib"
-#
-#, fuzzy
-msgid "Grib Preferences"
-msgstr "GRIB asetukset"
-#
-msgid "Grib Settings"
+msgid "Get this Code in zytcurrent's forum ( This is not your password! )"
 msgstr ""
 #
 msgid "Hours"
@@ -199,7 +161,7 @@ msgstr ""
 msgid "Inches"
 msgstr ""
 #
-msgid "Interpolate between gribs"
+msgid "Interpolate between tcurrents"
 msgstr ""
 #
 msgid "Interval"
@@ -322,7 +284,7 @@ msgid "Sea Temperature(surf.)"
 msgstr ""
 #
 #, fuzzy
-msgid "Select a GRIB file"
+msgid "Select a tcurrent file"
 msgstr "Valitse GRIB-hakemisto"
 #
 msgid "Send"
@@ -349,7 +311,7 @@ msgstr ""
 msgid "Start Options"
 msgstr ""
 #
-msgid "Start at the first forecast in GRIB file"
+msgid "Start at the first forecast in tcurrent file"
 msgstr ""
 #
 msgid "Start at the nearest forecast to current time"
@@ -369,7 +331,7 @@ msgid ""
 "Please consider that the values will be interpolated."
 msgstr ""
 #
-msgid "This is your zyGrib's forum access Login"
+msgid "This is your zytcurrent's forum access Login"
 msgstr ""
 #
 msgid "Time Options"
@@ -453,11 +415,70 @@ msgstr ""
 msgid "playback"
 msgstr ""
 #
-msgid "zyGrib Code"
+#, fuzzy
+msgid "tcurrent"
+msgstr "Virran nopeus, solmua"
+#
+msgid "tcurrent Data at Cursor"
 msgstr ""
 #
-msgid "zyGrib Login"
+#, fuzzy
+msgid "tcurrent Display Control"
+msgstr "GRIB Näyttöohjaus"
+#
+#, fuzzy
+msgid "tcurrent PlugIn for OpenCPN"
+msgstr "GRIB moduuli OpenCPN:lle"
+#
+#, fuzzy
+msgid ""
+"tcurrent PlugIn for OpenCPN\n"
+"Provides basic tcurrent file overlay capabilities for several tcurrent file "
+"types.\n"
+"\n"
+"Supported tcurrent file types include:\n"
+"- wind direction and speed\n"
+"- significant wave height\n"
+"- sea surface temperature\n"
+"- surface current direction and speed."
 msgstr ""
+"GRIB moduuli  OpenCPN:lle\n"
+"Näyttää kartalla GRIB-tiedon usean tyyppisistä tiedostoista.\n"
+"\n"
+"Tukee seuraavia GRIB-tiedon sisältöjä:\n"
+"- tuulen suunta ja nopeus\n"
+"- merkitsevä aallonkorkeus\n"
+"- pintaveden lämpötila\n"
+"-virran nopeus ja suunta"
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#, fuzzy
+msgid "tcurrent Preferences"
+msgstr "GRIB asetukset"
+#
+msgid "tcurrent Settings"
+msgstr ""
+#
+msgid "zytcurrent Code"
+msgstr ""
+#
+msgid "zytcurrent Login"
+msgstr ""
+#
 #
 #
 #
@@ -479,9 +500,11 @@ msgstr ""
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Data Display Preferences"
 #~ msgstr "GRIB asetukset"
+#
 #
 #
 #
@@ -514,8 +537,19 @@ msgstr ""
 #
 #
 #
+#
 #~ msgid "GRIB File Directory"
 #~ msgstr "GRIB-tiedostohakemisto"
+#
+#
+#~ msgid "Grib"
+#~ msgstr "Grib"
+#
+#
+#, fuzzy
+#~ msgid "Grib Preferences"
+#~ msgstr "GRIB asetukset"
+#
 #
 #
 #
@@ -524,6 +558,7 @@ msgstr ""
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Air Temp.(2m) GRIB"
 #~ msgstr "Zoomaa ulos nähdäksesi GRIB pintalämpötilan"
+#
 #
 #
 #
@@ -539,9 +574,11 @@ msgstr ""
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Clouds Cover GRIB"
 #~ msgstr "Zoomaa ulos nähdäksesi GRIB virtatiedot"
+#
 #
 #
 #
@@ -555,9 +592,11 @@ msgstr ""
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Total Rainfall GRIB"
 #~ msgstr "Zoomaa ulos nähdäksesi GRIB sadetiedon"
+#
 #
 #
 #
@@ -567,24 +606,6 @@ msgstr ""
 #~ msgid "Pressure (MSL)"
 #~ msgstr "Ilampaine, mbar"
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#, fuzzy
-#~ msgid "Request Preferences"
-#~ msgstr "GRIB asetukset"
 #
 #
 #
@@ -614,6 +635,7 @@ msgstr ""
 #
 #~ msgid "Show GRIB icon"
 #~ msgstr "Näytä GRIB-ikoni"
+#
 #
 #
 #
@@ -650,8 +672,10 @@ msgstr ""
 #
 #
 #
+#
 #~ msgid "WARNING:  QuickScat GRIB data is %d hours old."
 #~ msgstr "VAROITUS:  QuickScat GRIB data on %d tuntia vanhaa."
+#
 #
 #
 #
@@ -665,6 +689,7 @@ msgstr ""
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Wind Speed and Direction(10m)"
 #~ msgstr "Tuulen suunta"
@@ -673,9 +698,11 @@ msgstr ""
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Wind Speed(10m)"
 #~ msgstr "Tuulen nopeus, solmua"
+#
 #
 #
 #

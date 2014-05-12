@@ -46,8 +46,8 @@ msgstr "Pilar med hakar"
 #
 #, fuzzy
 msgid ""
-"Before sending an email to Zygrib you have to enter your Login and Code.\n"
-"Please visit www.zygrib.org/ and follow instructions..."
+"Before sending an email to Zytcurrent you have to enter your Login and Code.\n"
+"Please visit www.zytcurrent.org/ and follow instructions..."
 msgstr ""
 "Innan du skickar epost till Zygrib måste du ange dina inloggningsuppgifter.\n"
 "Besök www.zygrib.org/ och läs instruktion..."
@@ -152,49 +152,12 @@ msgstr "Fot"
 msgid "Forecast Model "
 msgstr "Prognosmodell"
 #
-msgid "GRIB Data at Cursor"
-msgstr "GRIB-data vid markör"
-#
-msgid "GRIB Display Control"
-msgstr "GRIB Visningskontroll"
-#
-msgid "GRIB PlugIn for OpenCPN"
-msgstr "GRIB-modul för OpenCPN"
-#
-msgid ""
-"GRIB PlugIn for OpenCPN\n"
-"Provides basic GRIB file overlay capabilities for several GRIB file types.\n"
-"\n"
-"Supported GRIB file types include:\n"
-"- wind direction and speed\n"
-"- significant wave height\n"
-"- sea surface temperature\n"
-"- surface current direction and speed."
-msgstr ""
-"GRIB-modul för OpenCPN\n"
-"Visar överlagrad GRIB-information för ett flertal filtyper.\n"
-"\n"
-"Stöd för GRIB-information inkluderar:\n"
-"- vindriktning och hastighet\n"
-"- signifikant våghöjd\n"
-"- ytvattentemperatur\n"
-"-  strömhastighet och riktning"
-#
 msgid "Generic"
 msgstr "Generell"
 #
 #, fuzzy
-msgid "Get this Code in zyGrib's forum ( This is not your password! )"
+msgid "Get this Code in zytcurrent's forum ( This is not your password! )"
 msgstr "Hämta din kod i Zygrib's forum (Detta är inte ditt lösenord!)"
-#
-msgid "Grib"
-msgstr "Grib"
-#
-msgid "Grib Preferences"
-msgstr "GRIB Inställningar"
-#
-msgid "Grib Settings"
-msgstr "Grib-inställningar"
 #
 msgid "Hours"
 msgstr "Timmar"
@@ -202,7 +165,8 @@ msgstr "Timmar"
 msgid "Inches"
 msgstr "Tum"
 #
-msgid "Interpolate between gribs"
+#, fuzzy
+msgid "Interpolate between tcurrents"
 msgstr "Interpolera mellan grib"
 #
 msgid "Interval"
@@ -327,7 +291,8 @@ msgstr "Vattentemperatur"
 msgid "Sea Temperature(surf.)"
 msgstr "Vattentemperatur(ytan)"
 #
-msgid "Select a GRIB file"
+#, fuzzy
+msgid "Select a tcurrent file"
 msgstr "Välj en GRIB-fil"
 #
 msgid "Send"
@@ -355,7 +320,7 @@ msgstr "Avstånd"
 msgid "Start Options"
 msgstr "Tidsinställningar"
 #
-msgid "Start at the first forecast in GRIB file"
+msgid "Start at the first forecast in tcurrent file"
 msgstr ""
 #
 msgid "Start at the nearest forecast to current time"
@@ -381,7 +346,7 @@ msgstr ""
 "för andra tider.\n"
 "Tänk på att dessa värden kommer att interpoleras."
 #
-msgid "This is your zyGrib's forum access Login"
+msgid "This is your zytcurrent's forum access Login"
 msgstr ""
 #
 msgid "Time Options"
@@ -477,12 +442,73 @@ msgid "playback"
 msgstr "Spela upp"
 #
 #, fuzzy
-msgid "zyGrib Code"
+msgid "tcurrent"
+msgstr "Ström"
+#
+#, fuzzy
+msgid "tcurrent Data at Cursor"
+msgstr "GRIB-data vid markör"
+#
+#, fuzzy
+msgid "tcurrent Display Control"
+msgstr "GRIB Visningskontroll"
+#
+#, fuzzy
+msgid "tcurrent PlugIn for OpenCPN"
+msgstr "GRIB-modul för OpenCPN"
+#
+#, fuzzy
+msgid ""
+"tcurrent PlugIn for OpenCPN\n"
+"Provides basic tcurrent file overlay capabilities for several tcurrent file "
+"types.\n"
+"\n"
+"Supported tcurrent file types include:\n"
+"- wind direction and speed\n"
+"- significant wave height\n"
+"- sea surface temperature\n"
+"- surface current direction and speed."
+msgstr ""
+"GRIB-modul för OpenCPN\n"
+"Visar överlagrad GRIB-information för ett flertal filtyper.\n"
+"\n"
+"Stöd för GRIB-information inkluderar:\n"
+"- vindriktning och hastighet\n"
+"- signifikant våghöjd\n"
+"- ytvattentemperatur\n"
+"-  strömhastighet och riktning"
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#, fuzzy
+msgid "tcurrent Preferences"
+msgstr "GRIB Inställningar"
+#
+#, fuzzy
+msgid "tcurrent Settings"
+msgstr "Grib-inställningar"
+#
+#, fuzzy
+msgid "zytcurrent Code"
 msgstr "Ditt ZyGrib lösenord"
 #
 #, fuzzy
-msgid "zyGrib Login"
+msgid "zytcurrent Login"
 msgstr "Ditt ZyGrib användarnamn"
+#
 #
 #
 #~ msgid " (Dup)"
@@ -500,85 +526,110 @@ msgstr "Ditt ZyGrib användarnamn"
 #
 #
 #
+#
 #~ msgid " data"
 #~ msgstr "data"
+#
 #
 #~ msgid "0.2"
 #~ msgstr "0.2"
 #
+#
 #~ msgid "0.5"
 #~ msgstr "0.5"
+#
 #
 #~ msgid "0.8"
 #~ msgstr "0.8"
 #
+#
 #~ msgid "1"
 #~ msgstr "1"
+#
 #
 #~ msgid "1.6"
 #~ msgstr "1.6"
 #
+#
 #~ msgid "12"
 #~ msgstr "12"
+#
 #
 #~ msgid "2"
 #~ msgstr "2"
 #
+#
 #~ msgid "24"
 #~ msgstr "24"
+#
 #
 #~ msgid "3"
 #~ msgstr "3"
 #
+#
 #~ msgid "4"
 #~ msgstr "4"
+#
 #
 #~ msgid "5"
 #~ msgstr "5"
 #
+#
 #~ msgid "6"
 #~ msgstr "6"
+#
 #
 #~ msgid "7"
 #~ msgstr "7"
 #
+#
 #~ msgid "8"
 #~ msgstr "8"
+#
 #
 #
 #~ msgid "Action"
 #~ msgstr "Åtgärd"
 #
 #
+#
 #~ msgid "Air Temperature"
 #~ msgstr "Lufttemperatur"
+#
 #
 #
 #~ msgid "AirTemp"
 #~ msgstr "Lufttemp"
 #
 #
+#
 #~ msgid "AirTemperature"
 #~ msgstr "Lufttemperatur"
 #
+#
 #~ msgid "COAMPS"
 #~ msgstr "COAMPS"
+#
 #
 #
 #~ msgid "Celcius"
 #~ msgstr "Celcius"
 #
 #
+#
 #~ msgid "Cloud"
 #~ msgstr "Moln"
+#
 #
 #
 #~ msgid "CloudCover"
 #~ msgstr "Molntäcke"
 #
 #
+#
 #~ msgid "Clouds Cover"
 #~ msgstr "Molntäcke"
+#
 #
 #
 #~ msgid "Current(Surf.)"
@@ -588,26 +639,33 @@ msgstr "Ditt ZyGrib användarnamn"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Data Display Preferences"
 #~ msgstr "GRIB Inställningar"
 #
+#
 #~ msgid "Data available in the selected forecast model"
 #~ msgstr "Tillgängliga data i den valda prognosmodellen"
 #
+#
 #~ msgid "Display Iso Temp. Lines"
 #~ msgstr "Visa Iso templinjer"
+#
 #
 #
 #~ msgid "Error"
 #~ msgstr "Fel"
 #
 #
+#
 #~ msgid "Failed to send mail message"
 #~ msgstr "Mislyckades att skicka epost"
 #
+#
 #~ msgid "GFS"
 #~ msgstr "GFS"
+#
 #
 #
 #
@@ -640,39 +698,57 @@ msgstr "Ditt ZyGrib användarnamn"
 #
 #
 #
+#
 #~ msgid "GRIB File Directory"
 #~ msgstr "GRIB Filkatalog"
+#
+#
+#~ msgid "Grib"
+#~ msgstr "Grib"
+#
+#
+#~ msgid "Grib Preferences"
+#~ msgstr "GRIB Inställningar"
+#
 #
 #
 #~ msgid "KPH"
 #~ msgstr "km/t"
 #
+#
 #~ msgid "Login you use to connect to Zygrib's forum"
 #~ msgstr "Inloggning som du använder för att ansluta till Zygrib's forum"
+#
 #
 #
 #~ msgid "M/S"
 #~ msgstr "m/s"
 #
 #
+#
 #~ msgid "MPH"
 #~ msgstr "mph"
+#
 #
 #
 #~ msgid "MyLabel"
 #~ msgstr "Egen beteckning"
 #
 #
+#
 #~ msgid "OpenCpn failed to logon! Please verify your eMail environment"
 #~ msgstr "OpenCpn kunde inte logga in! Kontrollera din epostinställning"
+#
 #
 #
 #~ msgid "Parameters"
 #~ msgstr "Parametrar"
 #
 #
+#
 #~ msgid "Period"
 #~ msgstr "Period"
+#
 #
 #
 #
@@ -686,9 +762,11 @@ msgstr "Ditt ZyGrib användarnamn"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed CURRENT GRIB"
 #~ msgstr "Zooma ut eller öka skalan för att visa GRIB regninformation"
+#
 #
 #
 #
@@ -702,9 +780,11 @@ msgstr "Ditt ZyGrib användarnamn"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Sea Surf.Temp. GRIB"
 #~ msgstr "Zooma ut eller öka skalan för att visa GRIB yttemperatur"
+#
 #
 #
 #
@@ -715,8 +795,10 @@ msgstr "Ditt ZyGrib användarnamn"
 #~ msgstr "Zooma ut eller öka skalan för att visa GRIB regninformation"
 #
 #
+#
 #~ msgid "Precipitation"
 #~ msgstr "Nederbörd"
+#
 #
 #
 #
@@ -727,57 +809,48 @@ msgstr "Ditt ZyGrib användarnamn"
 #~ msgstr "Lufttryck, mBar"
 #
 #
+#
 #~ msgid "Quickscat"
 #~ msgstr "Quickscat"
 #
+#
 #~ msgid "RTOFS"
 #~ msgstr "RTOFS"
+#
 #
 #
 #~ msgid "Rain"
 #~ msgstr "Regn"
 #
 #
+#
 #~ msgid "Ref : "
 #~ msgstr "Ref : "
+#
 #
 #
 #~ msgid "Request Pofile"
 #~ msgstr "Begär Pofil"
 #
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#, fuzzy
-#~ msgid "Request Preferences"
-#~ msgstr "GRIB Inställningar"
-#
 #~ msgid "Saildocs"
 #~ msgstr "Saildocs"
+#
 #
 #
 #~ msgid "Sea Temperature"
 #~ msgstr "Vattentemperatur"
 #
 #
+#
 #~ msgid "SeaTemp"
 #~ msgstr "Vattentemp"
 #
 #
+#
 #~ msgid "SeaTemperature"
 #~ msgstr "Vattentemperatur"
+#
 #
 #
 #
@@ -834,8 +907,10 @@ msgstr "Ditt ZyGrib användarnamn"
 #
 #
 #
+#
 #~ msgid "Show metres/sec for Wind Speed"
 #~ msgstr "Visa m/s för vindstyrka"
+#
 #
 #
 #
@@ -845,15 +920,19 @@ msgstr "Ditt ZyGrib användarnamn"
 #~ msgid "Sign.Wave Height"
 #~ msgstr "Signifikant våghöjd, m"
 #
+#
 #~ msgid "WW3-GLOBAL"
 #~ msgstr "WW3-GLOBAL"
+#
 #
 #~ msgid "WW3-MEDIT"
 #~ msgstr "WW3-MEDIT"
 #
 #
+#
 #~ msgid "Wave"
 #~ msgstr "Våghöjd"
+#
 #
 #
 #
@@ -864,8 +943,10 @@ msgstr "Ditt ZyGrib användarnamn"
 #~ msgstr "Vindriktning"
 #
 #
+#
 #~ msgid "Wind Scat"
 #~ msgstr "Vind Scat"
+#
 #
 #
 #
@@ -879,25 +960,31 @@ msgstr "Ditt ZyGrib användarnamn"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Wind Speed(10m)"
 #~ msgstr "Vindstyrka, m/s."
+#
 #
 #
 #~ msgid "WindGust"
 #~ msgstr "Vindby"
 #
 #
+#
 #~ msgid "Zone"
 #~ msgstr "Zone"
+#
 #
 #
 #~ msgid "ZyGrib"
 #~ msgstr "ZyGrib"
 #
 #
+#
 #~ msgid "eMail error"
 #~ msgstr "epostfel"
+#
 #
 #~ msgid "size"
 #~ msgstr "storlek"

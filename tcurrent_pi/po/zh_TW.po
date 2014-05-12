@@ -47,8 +47,8 @@ msgid "Barbed Arrows"
 msgstr "箭頭"
 #
 msgid ""
-"Before sending an email to Zygrib you have to enter your Login and Code.\n"
-"Please visit www.zygrib.org/ and follow instructions..."
+"Before sending an email to Zytcurrent you have to enter your Login and Code.\n"
+"Please visit www.zytcurrent.org/ and follow instructions..."
 msgstr ""
 #
 msgid "Building Isobar map"
@@ -159,53 +159,11 @@ msgstr "英呎"
 msgid "Forecast Model "
 msgstr ""
 #
-msgid "GRIB Data at Cursor"
-msgstr "游標位置的 GRIB 資料"
-#
-#
-msgid "GRIB Display Control"
-msgstr "GRIB 顯示控制"
-#
-#
-msgid "GRIB PlugIn for OpenCPN"
-msgstr "OpenCPN GRIB 插件"
-#
-#
-msgid ""
-"GRIB PlugIn for OpenCPN\n"
-"Provides basic GRIB file overlay capabilities for several GRIB file types.\n"
-"\n"
-"Supported GRIB file types include:\n"
-"- wind direction and speed\n"
-"- significant wave height\n"
-"- sea surface temperature\n"
-"- surface current direction and speed."
-msgstr ""
-"OpenCPN GRIB 氣象資料插件\n"
-"提供基本 GRIB 氣象資料檔案疊圖顯示功能.\n"
-"\n"
-"支援 GRIB 檔案格式包括:\n"
-"- 風向風速\n"
-"- significant波高\n"
-"- 海平面溫度\n"
-"- 海面流向與流速."
-#
 msgid "Generic"
 msgstr "一般"
 #
-msgid "Get this Code in zyGrib's forum ( This is not your password! )"
+msgid "Get this Code in zytcurrent's forum ( This is not your password! )"
 msgstr ""
-#
-#
-msgid "Grib"
-msgstr "Grib"
-#
-#
-msgid "Grib Preferences"
-msgstr "GRIB 偏好設定"
-#
-msgid "Grib Settings"
-msgstr "Grib 設定"
 #
 msgid "Hours"
 msgstr ""
@@ -213,7 +171,8 @@ msgstr ""
 msgid "Inches"
 msgstr "英吋"
 #
-msgid "Interpolate between gribs"
+#, fuzzy
+msgid "Interpolate between tcurrents"
 msgstr "Interpolate between gribs"
 #
 #
@@ -349,7 +308,8 @@ msgid "Sea Temperature(surf.)"
 msgstr "海水溫度"
 #
 #
-msgid "Select a GRIB file"
+#, fuzzy
+msgid "Select a tcurrent file"
 msgstr "選擇 GRIB 檔案"
 #
 #
@@ -377,7 +337,7 @@ msgstr "間距"
 msgid "Start Options"
 msgstr ""
 #
-msgid "Start at the first forecast in GRIB file"
+msgid "Start at the first forecast in tcurrent file"
 msgstr ""
 #
 msgid "Start at the nearest forecast to current time"
@@ -397,7 +357,7 @@ msgid ""
 "Please consider that the values will be interpolated."
 msgstr ""
 #
-msgid "This is your zyGrib's forum access Login"
+msgid "This is your zytcurrent's forum access Login"
 msgstr ""
 #
 msgid "Time Options"
@@ -497,11 +457,76 @@ msgstr ""
 msgid "playback"
 msgstr "播放"
 #
-msgid "zyGrib Code"
+#
+#, fuzzy
+msgid "tcurrent"
+msgstr "海流"
+#
+#, fuzzy
+msgid "tcurrent Data at Cursor"
+msgstr "游標位置的 GRIB 資料"
+#
+#
+#, fuzzy
+msgid "tcurrent Display Control"
+msgstr "GRIB 顯示控制"
+#
+#
+#, fuzzy
+msgid "tcurrent PlugIn for OpenCPN"
+msgstr "OpenCPN GRIB 插件"
+#
+#
+#, fuzzy
+msgid ""
+"tcurrent PlugIn for OpenCPN\n"
+"Provides basic tcurrent file overlay capabilities for several tcurrent file "
+"types.\n"
+"\n"
+"Supported tcurrent file types include:\n"
+"- wind direction and speed\n"
+"- significant wave height\n"
+"- sea surface temperature\n"
+"- surface current direction and speed."
+msgstr ""
+"OpenCPN GRIB 氣象資料插件\n"
+"提供基本 GRIB 氣象資料檔案疊圖顯示功能.\n"
+"\n"
+"支援 GRIB 檔案格式包括:\n"
+"- 風向風速\n"
+"- significant波高\n"
+"- 海平面溫度\n"
+"- 海面流向與流速."
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#, fuzzy
+msgid "tcurrent Preferences"
+msgstr "GRIB 偏好設定"
+#
+#, fuzzy
+msgid "tcurrent Settings"
+msgstr "Grib 設定"
+#
+msgid "zytcurrent Code"
 msgstr ""
 #
-msgid "zyGrib Login"
+msgid "zytcurrent Login"
 msgstr ""
+#
 #
 #
 #
@@ -521,8 +546,10 @@ msgstr ""
 #
 #
 #
+#
 #~ msgid " data"
 #~ msgstr "資料"
+#
 #
 #
 #
@@ -530,12 +557,15 @@ msgstr ""
 #~ msgstr "動作"
 #
 #
+#
 #~ msgid "Celcius"
 #~ msgstr "攝氏"
 #
 #
+#
 #~ msgid "Cloud"
 #~ msgstr "雲"
+#
 #
 #
 #
@@ -546,12 +576,15 @@ msgstr ""
 #~ msgstr "GRIB 偏好設定"
 #
 #
+#
 #~ msgid "Error"
 #~ msgstr "錯誤"
 #
 #
+#
 #~ msgid "Failed to send mail message"
 #~ msgstr "傳送郵件失敗"
+#
 #
 #
 #
@@ -585,24 +618,40 @@ msgstr ""
 #
 #
 #
+#
 #~ msgid "GRIB File Directory"
 #~ msgstr "GRIB 檔案目錄"
+#
+#
+#
+#~ msgid "Grib"
+#~ msgstr "Grib"
+#
+#
+#
+#~ msgid "Grib Preferences"
+#~ msgstr "GRIB 偏好設定"
+#
 #
 #
 #~ msgid "KPH"
 #~ msgstr "每小時公里"
 #
 #
+#
 #~ msgid "M/S"
 #~ msgstr "公尺/秒"
+#
 #
 #
 #~ msgid "MPH"
 #~ msgstr "每小時英哩"
 #
 #
+#
 #~ msgid "MyLabel"
 #~ msgstr "我的標籤"
+#
 #
 #
 #~ msgid "OpenCpn failed to logon! Please verify your eMail environment"
@@ -610,8 +659,10 @@ msgstr ""
 #
 #
 #
+#
 #~ msgid "Parameters"
 #~ msgstr "參數"
+#
 #
 #
 #
@@ -622,9 +673,11 @@ msgstr ""
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Air Temp.(2m) GRIB"
 #~ msgstr "請放大畫面以顯示 suppressed SEATEMP GRIB"
+#
 #
 #
 #
@@ -640,9 +693,11 @@ msgstr ""
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Clouds Cover GRIB"
 #~ msgstr "請放大畫面以顯示 suppressed OCEAN CURRENT GRIB"
+#
 #
 #
 #
@@ -656,13 +711,16 @@ msgstr ""
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Total Rainfall GRIB"
 #~ msgstr "請放大畫面以顯示 suppressed CRAIN GRIB"
 #
 #
+#
 #~ msgid "Precipitation"
 #~ msgstr "凝結"
+#
 #
 #
 #
@@ -673,8 +731,10 @@ msgstr ""
 #~ msgstr "氣壓, mBar"
 #
 #
+#
 #~ msgid "Quickscat"
 #~ msgstr "Quickscat"
+#
 #
 #
 #
@@ -683,27 +743,10 @@ msgstr ""
 #
 #
 #
+#
 #~ msgid "Request Pofile"
 #~ msgstr "請求設定檔"
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#, fuzzy
-#~ msgid "Request Preferences"
-#~ msgstr "GRIB 偏好設定"
 #
 #
 #~ msgid "SeaTemp"
@@ -735,8 +778,10 @@ msgstr ""
 #
 #
 #
+#
 #~ msgid "Show GRIB icon"
 #~ msgstr "顯示 GRIB 圖示"
+#
 #
 #
 #
@@ -773,8 +818,10 @@ msgstr ""
 #
 #
 #
+#
 #~ msgid "WARNING:  QuickScat GRIB data is %d hours old."
 #~ msgstr "警告:  QuickScat GRIB 資料為 %d 小時前資料."
+#
 #
 #
 #
@@ -785,8 +832,10 @@ msgstr ""
 #~ msgstr "風向"
 #
 #
+#
 #~ msgid "Wind Scat"
 #~ msgstr "Wind Scat"
+#
 #
 #
 #
@@ -800,14 +849,17 @@ msgstr ""
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Wind Speed(10m)"
 #~ msgstr "風速,  Kts."
 #
 #
 #
+#
 #~ msgid "Zone"
 #~ msgstr "區域"
+#
 #
 #
 #~ msgid "eMail error"

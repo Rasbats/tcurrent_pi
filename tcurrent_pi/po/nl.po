@@ -44,9 +44,10 @@ msgstr ""
 msgid "Barbed Arrows"
 msgstr "Windpijlen"
 #
+#, fuzzy
 msgid ""
-"Before sending an email to Zygrib you have to enter your Login and Code.\n"
-"Please visit www.zygrib.org/ and follow instructions..."
+"Before sending an email to Zytcurrent you have to enter your Login and Code.\n"
+"Please visit www.zytcurrent.org/ and follow instructions..."
 msgstr ""
 "Voor het zenden van een e-mail naar zyGrib uw login en code invoeren.\n"
 " Ga naar www.zyGrib.org/ en volg de instructies op ..."
@@ -153,49 +154,12 @@ msgstr "voet"
 msgid "Forecast Model "
 msgstr "Verwachtingsmodel"
 #
-msgid "GRIB Data at Cursor"
-msgstr "GRIB-gegevens bij cursor"
-#
-#
-msgid "GRIB Display Control"
-msgstr "GRIB Weergaveopties"
-#
-msgid "GRIB PlugIn for OpenCPN"
-msgstr "GRIB PlugIn voor OpenCPN"
-#
-msgid ""
-"GRIB PlugIn for OpenCPN\n"
-"Provides basic GRIB file overlay capabilities for several GRIB file types.\n"
-"\n"
-"Supported GRIB file types include:\n"
-"- wind direction and speed\n"
-"- significant wave height\n"
-"- sea surface temperature\n"
-"- surface current direction and speed."
-msgstr ""
-"GRIB PlugIn voor OpenCPN\n"
-"Geeft kaartoverlay van GRIB gegevens voor verschillende bestandtypes.\n"
-"\n"
-"Ondersteunde GRIB bestandtypes zijn:\n"
-"- windrichting en snelheid\n"
-"- significante golfhoogte\n"
-"- oppervlaktetemperatuur zeewater\n"
-"- stroomrichting en -snelheid."
-#
 msgid "Generic"
 msgstr "Generiek"
 #
-msgid "Get this Code in zyGrib's forum ( This is not your password! )"
+#, fuzzy
+msgid "Get this Code in zytcurrent's forum ( This is not your password! )"
 msgstr "Zet deze code in het zyGrib-forum (dit is niet uw wachtwoord!)"
-#
-msgid "Grib"
-msgstr "Grib"
-#
-msgid "Grib Preferences"
-msgstr "Gribvoorkeuren"
-#
-msgid "Grib Settings"
-msgstr "GRIB-instellingen"
 #
 msgid "Hours"
 msgstr "uren"
@@ -203,7 +167,8 @@ msgstr "uren"
 msgid "Inches"
 msgstr "inch"
 #
-msgid "Interpolate between gribs"
+#, fuzzy
+msgid "Interpolate between tcurrents"
 msgstr "Interpoleer tussen gribs"
 #
 msgid "Interval"
@@ -332,7 +297,8 @@ msgid "Sea Temperature(surf.)"
 msgstr "Zeewateroppervl.temp."
 #
 #
-msgid "Select a GRIB file"
+#, fuzzy
+msgid "Select a tcurrent file"
 msgstr "Selecteer een GRIB-bestand"
 #
 msgid "Send"
@@ -360,7 +326,7 @@ msgstr "tussenafstand"
 msgid "Start Options"
 msgstr "Tijdopties"
 #
-msgid "Start at the first forecast in GRIB file"
+msgid "Start at the first forecast in tcurrent file"
 msgstr ""
 #
 msgid "Start at the nearest forecast to current time"
@@ -386,7 +352,8 @@ msgstr ""
 "een ander tijdinterval te tonen. Besef dat de waardes zullen worden "
 "geinterpoleerd."
 #
-msgid "This is your zyGrib's forum access Login"
+#, fuzzy
+msgid "This is your zytcurrent's forum access Login"
 msgstr "Dit is uw login voor het zyGrib-forum"
 #
 msgid "Time Options"
@@ -479,11 +446,76 @@ msgstr "mph"
 msgid "playback"
 msgstr "Terugspelen"
 #
-msgid "zyGrib Code"
+#
+#, fuzzy
+msgid "tcurrent"
+msgstr "Stroomsnelheid"
+#
+#, fuzzy
+msgid "tcurrent Data at Cursor"
+msgstr "GRIB-gegevens bij cursor"
+#
+#
+#, fuzzy
+msgid "tcurrent Display Control"
+msgstr "GRIB Weergaveopties"
+#
+#, fuzzy
+msgid "tcurrent PlugIn for OpenCPN"
+msgstr "GRIB PlugIn voor OpenCPN"
+#
+#, fuzzy
+msgid ""
+"tcurrent PlugIn for OpenCPN\n"
+"Provides basic tcurrent file overlay capabilities for several tcurrent file "
+"types.\n"
+"\n"
+"Supported tcurrent file types include:\n"
+"- wind direction and speed\n"
+"- significant wave height\n"
+"- sea surface temperature\n"
+"- surface current direction and speed."
+msgstr ""
+"GRIB PlugIn voor OpenCPN\n"
+"Geeft kaartoverlay van GRIB gegevens voor verschillende bestandtypes.\n"
+"\n"
+"Ondersteunde GRIB bestandtypes zijn:\n"
+"- windrichting en snelheid\n"
+"- significante golfhoogte\n"
+"- oppervlaktetemperatuur zeewater\n"
+"- stroomrichting en -snelheid."
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#, fuzzy
+msgid "tcurrent Preferences"
+msgstr "GRIB voorkeuren"
+#
+#, fuzzy
+msgid "tcurrent Settings"
+msgstr "GRIB-instellingen"
+#
+#, fuzzy
+msgid "zytcurrent Code"
 msgstr "zyGrib code"
 #
-msgid "zyGrib Login"
+#, fuzzy
+msgid "zytcurrent Login"
 msgstr "zyGrib login"
+#
 #
 #
 #~ msgid " (Dup)"
@@ -502,16 +534,20 @@ msgstr "zyGrib login"
 #
 #
 #
+#
 #~ msgid " data"
 #~ msgstr "gegevens"
+#
 #
 #
 #~ msgid "Action"
 #~ msgstr "Actie"
 #
 #
+#
 #~ msgid "Celcius"
 #~ msgstr "Celsius"
+#
 #
 #
 #~ msgid "Cloud"
@@ -521,20 +557,25 @@ msgstr "zyGrib login"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Data Display Preferences"
 #~ msgstr "GRIB voorkeuren"
 #
+#
 #~ msgid "Display Iso Temp. Lines"
 #~ msgstr "Toon isothermen"
+#
 #
 #
 #~ msgid "Error"
 #~ msgstr "Fout"
 #
 #
+#
 #~ msgid "Failed to send mail message"
 #~ msgstr "Kon mailbericht niet versturen"
+#
 #
 #
 #
@@ -569,36 +610,53 @@ msgstr "zyGrib login"
 #
 #
 #
+#
 #~ msgid "GRIB File Directory"
 #~ msgstr "Map voor GRIB bestand"
+#
+#
+#~ msgid "Grib"
+#~ msgstr "Grib"
+#
+#
+#~ msgid "Grib Preferences"
+#~ msgstr "Gribvoorkeuren"
+#
 #
 #
 #~ msgid "KPH"
 #~ msgstr "km/u"
 #
 #
+#
 #~ msgid "M/S"
 #~ msgstr "m/sec"
+#
 #
 #
 #~ msgid "MPH"
 #~ msgstr "mijl/u"
 #
 #
+#
 #~ msgid "MyLabel"
 #~ msgstr "MijnLabel"
+#
 #
 #
 #~ msgid "OpenCpn failed to logon! Please verify your eMail environment"
 #~ msgstr "OpenCPN logon mislukt! Controleer uw e-mail instellingen."
 #
 #
+#
 #~ msgid "Parameters"
 #~ msgstr "Parameters"
 #
 #
+#
 #~ msgid "Period"
 #~ msgstr "Periode"
+#
 #
 #
 #
@@ -614,9 +672,11 @@ msgstr "zyGrib login"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed CURRENT GRIB"
 #~ msgstr "Zoom uit of verklein schaal om onderdrukte CRAIN GRIB te zien."
+#
 #
 #
 #
@@ -632,9 +692,11 @@ msgstr "zyGrib login"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Sea Surf.Temp. GRIB"
 #~ msgstr "Zoom uit of verklein schaal om onderdrukte SEATEMP GRIB te zien."
+#
 #
 #
 #
@@ -646,8 +708,10 @@ msgstr "zyGrib login"
 #~ msgstr "Zoom uit of verklein schaal om onderdrukte CRAIN GRIB te zien."
 #
 #
+#
 #~ msgid "Precipitation"
 #~ msgstr "Neerslag"
+#
 #
 #
 #
@@ -659,12 +723,15 @@ msgstr "zyGrib login"
 #~ msgstr "luchtdruk (hPa)"
 #
 #
+#
 #~ msgid "Quickscat"
 #~ msgstr "Quickscat"
 #
 #
+#
 #~ msgid "Ref : "
 #~ msgstr "Ref:"
+#
 #
 #
 #~ msgid "Request Pofile"
@@ -672,26 +739,9 @@ msgstr "zyGrib login"
 #
 #
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#, fuzzy
-#~ msgid "Request Preferences"
-#~ msgstr "GRIB voorkeuren"
-#
-#
 #~ msgid "SeaTemp"
 #~ msgstr "ZeeTemp"
+#
 #
 #
 #
@@ -749,8 +799,10 @@ msgstr "zyGrib login"
 #
 #
 #
+#
 #~ msgid "Show metres/sec for Wind Speed"
 #~ msgstr "Toon windsnelheid in m/sec"
+#
 #
 #
 #
@@ -766,13 +818,16 @@ msgstr "zyGrib login"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Wind Direction(10m)"
 #~ msgstr "windrichting"
 #
 #
+#
 #~ msgid "Wind Scat"
 #~ msgstr "Windscat"
+#
 #
 #
 #
@@ -788,13 +843,16 @@ msgstr "zyGrib login"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Wind Speed(10m)"
 #~ msgstr "windsnelheid (m/sec)"
 #
 #
+#
 #~ msgid "Zone"
 #~ msgstr "Zone"
+#
 #
 #
 #~ msgid "eMail error"

@@ -45,8 +45,8 @@ msgid "Barbed Arrows"
 msgstr ""
 #
 msgid ""
-"Before sending an email to Zygrib you have to enter your Login and Code.\n"
-"Please visit www.zygrib.org/ and follow instructions..."
+"Before sending an email to Zytcurrent you have to enter your Login and Code.\n"
+"Please visit www.zytcurrent.org/ and follow instructions..."
 msgstr ""
 #
 msgid "Building Isobar map"
@@ -148,49 +148,10 @@ msgstr ""
 msgid "Forecast Model "
 msgstr ""
 #
-msgid "GRIB Data at Cursor"
-msgstr ""
-#
-msgid "GRIB Display Control"
-msgstr "GRIB kijelzés vezérlés"
-#
-msgid "GRIB PlugIn for OpenCPN"
-msgstr "OpenCPN GRIB modul"
-#
-msgid ""
-"GRIB PlugIn for OpenCPN\n"
-"Provides basic GRIB file overlay capabilities for several GRIB file types.\n"
-"\n"
-"Supported GRIB file types include:\n"
-"- wind direction and speed\n"
-"- significant wave height\n"
-"- sea surface temperature\n"
-"- surface current direction and speed."
-msgstr ""
-"A GRIB OpenCPN modul\n"
-"alapvető GRIB állomány kijezését teszi lehetővé különböző GRIB fájl "
-"típusokkal.\n"
-"\n"
-"Támogatott GRIB fájl típusok:\n"
-"- szél irány és sebesség\n"
-"- hullám magasság\n"
-"- tenger felszíni hőmérséklete\n"
-"- felszíni áramlás iránya és sebessége."
-#
 msgid "Generic"
 msgstr ""
 #
-msgid "Get this Code in zyGrib's forum ( This is not your password! )"
-msgstr ""
-#
-msgid "Grib"
-msgstr ""
-#
-#, fuzzy
-msgid "Grib Preferences"
-msgstr "BRIB beállítások"
-#
-msgid "Grib Settings"
+msgid "Get this Code in zytcurrent's forum ( This is not your password! )"
 msgstr ""
 #
 msgid "Hours"
@@ -199,7 +160,7 @@ msgstr ""
 msgid "Inches"
 msgstr ""
 #
-msgid "Interpolate between gribs"
+msgid "Interpolate between tcurrents"
 msgstr ""
 #
 msgid "Interval"
@@ -324,7 +285,7 @@ msgid "Sea Temperature(surf.)"
 msgstr ""
 #
 #, fuzzy
-msgid "Select a GRIB file"
+msgid "Select a tcurrent file"
 msgstr "GRIB könyvtár kiválasztása"
 #
 msgid "Send"
@@ -351,7 +312,7 @@ msgstr ""
 msgid "Start Options"
 msgstr ""
 #
-msgid "Start at the first forecast in GRIB file"
+msgid "Start at the first forecast in tcurrent file"
 msgstr ""
 #
 msgid "Start at the nearest forecast to current time"
@@ -371,7 +332,7 @@ msgid ""
 "Please consider that the values will be interpolated."
 msgstr ""
 #
-msgid "This is your zyGrib's forum access Login"
+msgid "This is your zytcurrent's forum access Login"
 msgstr ""
 #
 msgid "Time Options"
@@ -455,11 +416,71 @@ msgstr ""
 msgid "playback"
 msgstr ""
 #
-msgid "zyGrib Code"
+#, fuzzy
+msgid "tcurrent"
+msgstr "Áramlat sebessége, csomó."
+#
+msgid "tcurrent Data at Cursor"
 msgstr ""
 #
-msgid "zyGrib Login"
+#, fuzzy
+msgid "tcurrent Display Control"
+msgstr "GRIB kijelzés vezérlés"
+#
+#, fuzzy
+msgid "tcurrent PlugIn for OpenCPN"
+msgstr "OpenCPN GRIB modul"
+#
+#, fuzzy
+msgid ""
+"tcurrent PlugIn for OpenCPN\n"
+"Provides basic tcurrent file overlay capabilities for several tcurrent file "
+"types.\n"
+"\n"
+"Supported tcurrent file types include:\n"
+"- wind direction and speed\n"
+"- significant wave height\n"
+"- sea surface temperature\n"
+"- surface current direction and speed."
 msgstr ""
+"A GRIB OpenCPN modul\n"
+"alapvető GRIB állomány kijezését teszi lehetővé különböző GRIB fájl "
+"típusokkal.\n"
+"\n"
+"Támogatott GRIB fájl típusok:\n"
+"- szél irány és sebesség\n"
+"- hullám magasság\n"
+"- tenger felszíni hőmérséklete\n"
+"- felszíni áramlás iránya és sebessége."
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#, fuzzy
+msgid "tcurrent Preferences"
+msgstr "BRIB beállítások"
+#
+msgid "tcurrent Settings"
+msgstr ""
+#
+msgid "zytcurrent Code"
+msgstr ""
+#
+msgid "zytcurrent Login"
+msgstr ""
+#
 #
 #
 #
@@ -476,6 +497,7 @@ msgstr ""
 #, fuzzy
 #~ msgid " data"
 #~ msgstr "GRIB adat"
+#
 #
 #
 #
@@ -511,8 +533,15 @@ msgstr ""
 #
 #
 #
+#
 #~ msgid "GRIB File Directory"
 #~ msgstr "GRIB fájl könyvtár"
+#
+#
+#, fuzzy
+#~ msgid "Grib Preferences"
+#~ msgstr "BRIB beállítások"
+#
 #
 #
 #
@@ -528,11 +557,13 @@ msgstr ""
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed CURRENT GRIB"
 #~ msgstr ""
 #~ "Zoomolj, vagy válts nagyobb méretarányra az elnyomott CRAIN GRIB "
 #~ "megjelenítéséhez"
+#
 #
 #
 #
@@ -548,11 +579,13 @@ msgstr ""
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Sea Surf.Temp. GRIB"
 #~ msgstr ""
 #~ "Zoomolj, vagy válts nagyobb méretarányra az elnyomott SEATEMP GRIB "
 #~ "megjelenítéséhez"
+#
 #
 #
 #
@@ -568,28 +601,11 @@ msgstr ""
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Pressure (MSL)"
 #~ msgstr "Légnyomás, mBar"
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#, fuzzy
-#~ msgid "Request Preferences"
-#~ msgstr "BRIB beállítások"
 #
 #
 #
@@ -646,8 +662,10 @@ msgstr ""
 #
 #
 #
+#
 #~ msgid "Show metres/sec for Wind Speed"
 #~ msgstr "Szélsebesség méter/sec-ben mutatása"
+#
 #
 #
 #
@@ -661,9 +679,11 @@ msgstr ""
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Wind Direction(10m)"
 #~ msgstr "Szél irány"
+#
 #
 #
 #
@@ -677,9 +697,11 @@ msgstr ""
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Wind Speed(10m)"
 #~ msgstr "Szél sebesség, m/s."
+#
 #
 #
 #

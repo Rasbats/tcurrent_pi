@@ -1,0 +1,82 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: tcurrent_pi 3.2.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-05-12 17:12+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/tcurrentUIDialog.cpp:294 src/tcurrentUIDialog.cpp:766
+msgid " "
+msgstr ""
+
+#: src/tcurrentUIDialog.cpp:763 src/tcurrentUIDialog.cpp:776
+msgid "HW"
+msgstr ""
+
+#: src/tcurrentUIDialog.cpp:763 src/tcurrentUIDialog.cpp:771
+msgid "LW"
+msgstr ""
+
+#: src/tcurrentUIDialogBase.cpp:90
+msgid "Now"
+msgstr ""
+
+#: src/tcurrentUIDialogBase.cpp:97
+msgid "Previous"
+msgstr ""
+
+#: src/tcurrentUIDialogBase.cpp:103
+msgid "Next"
+msgstr ""
+
+#: src/tcurrentUIDialogBase.cpp:183
+msgid "Display tidal rates (knots)"
+msgstr ""
+
+#: src/tcurrentUIDialogBase.cpp:186
+msgid "Display tidal direction"
+msgstr ""
+
+#: src/tcurrentUIDialogBase.cpp:189
+msgid "Fill Colour"
+msgstr ""
+
+#: src/tcurrentUIDialogBase.h:124
+msgid "Tidal Current Control"
+msgstr ""
+
+#: src/tcurrentUIDialogBase.h:179
+msgid "tcurrent Settings"
+msgstr ""
+
+#: src/tcurrentUIDialogBase.h:208
+msgid "Preferences"
+msgstr ""
+
+#: src/tcurrent_pi.cpp:107
+msgid "tcurrent"
+msgstr ""
+
+#: src/tcurrent_pi.cpp:168
+msgid "tcurrent PlugIn for OpenCPN"
+msgstr ""
+
+#: src/tcurrent_pi.cpp:174
+msgid ""
+"tcurrent PlugIn for OpenCPN\n"
+"Provides an overlay of Tidal Current (Stream) Arrows.\n"
+"\n"
+"\t\t\t   "
+msgstr ""
