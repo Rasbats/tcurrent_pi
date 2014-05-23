@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: opencpn 1.3.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-17 19:30-0500\n"
+"POT-Creation-Date: 2014-05-23 14:33+0100\n"
 "PO-Revision-Date: 2010-03-31 01:12+0300\n"
 "Last-Translator: \n"
 "Language-Team: Eugene Polyan <epolyan@gmail.com>\n"
@@ -19,276 +19,100 @@ msgstr ""
 "X-Poedit-Country: RUSSIAN FEDERATION\n"
 "X-Poedit-SourceCharset: utf-8\n"
 #
-msgid " (Max size )"
+msgid " "
 msgstr ""
 #
-msgid " Mo )"
+msgid "/Settings/tcurrent"
 msgstr ""
 #
-msgid "( Max "
+msgid "???"
 msgstr ""
 #
-msgid "Address used to send request eMail. (Mandatory for LINUX)"
+msgid "About Tidal Arrows"
 msgstr ""
 #
-msgid "Air Temp"
+msgid "About these Tidal Arrows"
 msgstr ""
 #
-msgid "Air Temperature(2m)"
+msgid "Choose Date/Time"
 msgstr ""
 #
-msgid "Apply"
+msgid "Display tidal direction"
 msgstr ""
 #
-msgid "Authorize Interpolation to start at current time"
+msgid "Display tidal rates (knots)"
 msgstr ""
 #
-msgid "Barbed Arrows"
+msgid "Fill Colour"
 msgstr ""
 #
-msgid ""
-"Before sending an email to Zytcurrent you have to enter your Login and Code.\n"
-"Please visit www.zytcurrent.org/ and follow instructions..."
+msgid "HARMONIC"
 msgstr ""
 #
-msgid "Building Isobar map"
+msgid "HW"
 msgstr ""
 #
-msgid "CAPE"
+msgid "HW +6"
 msgstr ""
 #
-msgid "Celsius"
+msgid "HW -6"
 msgstr ""
 #
-msgid "Cloud Cover"
+msgid "HW+6"
 msgstr ""
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#, fuzzy
-msgid "Colors"
-msgstr "Закрыть"
-#
-msgid "Continue..."
+msgid "HW-6"
 msgstr ""
 #
-msgid "Copy First Cumulative Missing Record"
+msgid "High Water"
 msgstr ""
 #
-msgid "Copy Missing Wave Records"
+msgid "LOC"
 msgstr ""
 #
-msgid "Current"
-msgstr ""
-#
-msgid "Data available"
-msgstr ""
-#
-#
-msgid "Days"
-msgstr ""
-#
-msgid "Deg"
-msgstr ""
-#
-msgid "Direction Arrows"
-msgstr ""
-#
-msgid "Display"
-msgstr ""
-#
-msgid "Display Iso CAPE"
-msgstr ""
-#
-msgid "Display Isobars"
-msgstr ""
-#
-msgid "Display Isotachs"
-msgstr ""
-#
-msgid "Display Isotherms"
-msgstr ""
-#
-#
-msgid "Error:  Can't read this File!"
-msgstr ""
-#
-msgid "Error:  File does not exist!"
-msgstr ""
-#
-msgid "Error:  No valid data in this file!"
-msgstr ""
-#
-msgid "Estimated File Size"
-msgstr ""
-#
-msgid "Fahrenheit"
-msgstr ""
-#
-msgid "Feet"
-msgstr ""
-#
-msgid "Forecast Model "
-msgstr ""
-#
-msgid "Generic"
-msgstr ""
-#
-msgid "Get this Code in zytcurrent's forum ( This is not your password! )"
-msgstr ""
-#
-msgid "Hours"
-msgstr ""
-#
-msgid "Inches"
-msgstr ""
-#
-msgid "Interpolate between tcurrents"
-msgstr ""
-#
-#
-msgid "Interval"
-msgstr ""
-#
-msgid "IsoBars"
-msgstr ""
-#
-msgid "Knots"
-msgstr ""
-#
-msgid "Load File Options"
-msgstr ""
-#
-msgid "Load the Last Opened File"
-msgstr ""
-#
-msgid "Load the More Recent File in Directory"
-msgstr ""
-#
-#
-msgid "Local Time"
-msgstr ""
-#
-msgid "Loop Mode"
-msgstr ""
-#
-msgid "MAIL Error: MAPI32.DLL is not installed or invalid on this computer!"
-msgstr ""
-#
-msgid "Mail"
-msgstr ""
-#
-msgid "Mail To "
-msgstr ""
-#
-msgid "Meters"
-msgstr ""
-#
-msgid "MilliBars"
-msgstr ""
-#
-msgid "Millimeters"
-msgstr ""
-#
-msgid "N/A"
+msgid "LW"
 msgstr ""
 #
 msgid "Next"
 msgstr ""
 #
+msgid "No Tidal Data"
+msgstr ""
+#
+msgid "No tidal data"
+msgstr ""
+#
+msgid "No tidal data for this port"
+msgstr ""
+#
+msgid "No tidal data found"
+msgstr ""
+#
+msgid "None"
+msgstr ""
+#
 msgid "Now"
 msgstr ""
 #
-msgid "Numbers"
+msgid "Please choose a new date"
 msgstr ""
 #
-msgid "Open File"
+msgid "Port finder"
 msgstr ""
 #
-msgid "Overlay Transparency"
+msgid "Port not found"
 msgstr ""
 #
-msgid "OverlayMap"
+msgid "Preferences"
 msgstr ""
-#
-msgid "Percentage"
-msgstr ""
-#
-msgid "Play"
-msgstr ""
-#
-#
-#
-#
-#
-#, fuzzy
-msgid "Please Zoom or Scale Out to view invisible overlays:"
-msgstr "Уменьшите масштаб для просмотра скртых меток HTSGW GRIB"
-#
-#
-#
-#
-#
-#, fuzzy
-msgid "Pressure"
-msgstr "Давление, мБар"
 #
 msgid "Previous"
 msgstr ""
 #
-msgid "Profile"
+msgid "Select High Water"
 msgstr ""
 #
-msgid "Rainfall"
-msgstr ""
-#
-msgid "Range"
-msgstr ""
-#
-msgid "Request"
-msgstr ""
-#
-msgid ""
-"Request can't be sent. Please verify your email systeme parameters.\n"
-"You should also have a look at your log file.\n"
-"Save or Cancel to finish..."
-msgstr ""
-#
-#
-msgid "Resolution"
-msgstr ""
-#
-msgid "Save"
-msgstr ""
-#
-msgid "Sea Temp"
-msgstr ""
-#
-msgid "Sea Temperature(surf.)"
+msgid "Standard Port"
 msgstr ""
 #
 #
@@ -296,185 +120,92 @@ msgstr ""
 #
 #
 #, fuzzy
-msgid "Select a tcurrent file"
-msgstr "Каталог файлов GRIB"
+msgid "Tidal Current Control"
+msgstr "Настройки отображения информации GRIB"
 #
-#
-msgid "Send"
-msgstr ""
-#
-msgid "Sender eMail Address"
-msgstr ""
-#
-msgid "Settings"
-msgstr ""
-#
-msgid "Size"
-msgstr ""
-#
-msgid "Slices per Update"
-msgstr ""
-#
-msgid "Slices per hour"
-msgstr ""
-#
-msgid "Spacing"
-msgstr ""
-#
-msgid "Start Options"
-msgstr ""
-#
-msgid "Start at the first forecast in tcurrent file"
-msgstr ""
-#
-msgid "Start at the nearest forecast to current time"
-msgstr ""
-#
-msgid "Stop"
+msgid "Tidal Data"
 msgstr ""
 #
 msgid ""
-"The file size limit is overcome!\n"
-"You can zoom in and/or change parameters..."
+"Tidal Data for UKHO Tidal Diamonds\n"
+"--------------------------------------------------------------\n"
+"The standard OpenCPN distribution has tidal data for the\n"
+"following ports, which this plugin uses:\n"
+"\n"
+"PLYMOUTH (DEVONPORT)\n"
+"PORTSMOUTH\n"
+"DOVER\n"
+"SHEERNESS\n"
+"LOWESTOFT\n"
+"IMMINGHAM\n"
+"LEITH\n"
+"ABERDEEN\n"
+"WICK\n"
+"LERWICK\n"
+"ULLAPOOL\n"
+"LIVERPOOL (GLADSTONE DOCK)\n"
+"HOLYHEAD\n"
+"MILFORD HAVEN\n"
+"PORT OF BRISTOL (AVONMOUTH)\n"
+"ST. HELIER\n"
+"\n"
+"Use this data with caution.\n"
+"Use in conjunction with UKHO Tidal Stream Atlases and tidal diamonds\n"
+"\n"
+"--------------------------------------------------------------------\n"
+"\n"
+"Note: 1 Rates shown are for a position corresponding to the centre\n"
+"of the base of the arrow. Tidal rate is shown as knots.\n"
+"Note: 2 Rates are calculated by using the method shown in UKHO Tidal\n"
+"Stream Atlases. This is based on the average range for the day\n"
 msgstr ""
-#
-msgid ""
-"This file contains data for particular time intervals but you have chosen to "
-"display different intervals.\n"
-"Please consider that the values will be interpolated."
-msgstr ""
-#
-msgid "This is your zytcurrent's forum access Login"
-msgstr ""
-#
-msgid "Time Options"
-msgstr ""
-#
-msgid "Time Range"
-msgstr ""
-#
 #
 msgid "UTC"
 msgstr ""
 #
-#
-msgid "Units"
-msgstr ""
-#
-msgid "Updates per Second"
-msgstr ""
-#
-msgid "Use Gradual Colors"
-msgstr ""
-#
-#
-#
-#
-#
-msgid "Use High Definition Graphics"
-msgstr "Использовать графику с высоким разрешением"
-#
-msgid "Warning!"
-msgstr ""
-#
-msgid "Warning:  Empty directory!"
-msgstr ""
-#
-msgid "Waves"
-msgstr ""
-#
-msgid "WavesModel"
-msgstr ""
-#
-#
-msgid "Wind"
-msgstr ""
-#
-msgid "Wind Gust"
-msgstr ""
-#
-msgid "Write and send eMail request"
-msgstr ""
-#
-msgid ""
-"You have chosen to authorize interpolation.\n"
-"Don't forget that data displayed at current time will not be real but "
-"interpolated!"
-msgstr ""
-#
-msgid ""
-"Your request is ready. An email is prepared in your email environment. \n"
-"You have just to verify and send it...\n"
-"Save or Cancel to finish...or Continue..."
-msgstr ""
-#
-msgid ""
-"Your request was sent \n"
-"(if your system has an MTA configured and is able to send email).\n"
-"Save or Cancel to finish...or Continue..."
-msgstr ""
-#
-msgid "inHG"
-msgstr ""
-#
-msgid "j/kg"
-msgstr ""
-#
-msgid "km/h"
-msgstr ""
-#
-msgid "m/s"
-msgstr ""
-#
-msgid "mmHG"
-msgstr ""
-#
-msgid "mph"
-msgstr ""
-#
-msgid "playback"
+msgid "Using Tide/Current data from:  "
 msgstr ""
 #
 msgid "tcurrent"
 msgstr ""
-#
-msgid "tcurrent Data at Cursor"
-msgstr ""
-#
-#
-#
-#
-#
-#, fuzzy
-msgid "tcurrent Display Control"
-msgstr "Настройки отображения информации GRIB"
 #
 msgid "tcurrent PlugIn for OpenCPN"
 msgstr ""
 #
 msgid ""
 "tcurrent PlugIn for OpenCPN\n"
-"Provides basic tcurrent file overlay capabilities for several tcurrent file "
-"types.\n"
+"Provides an overlay of Tidal Current (Stream) Arrows.\n"
 "\n"
-"Supported tcurrent file types include:\n"
-"- wind direction and speed\n"
-"- significant wave height\n"
-"- sea surface temperature\n"
-"- surface current direction and speed."
-msgstr ""
-#
-msgid "tcurrent Preferences"
+"\t\t\t   "
 msgstr ""
 #
 msgid "tcurrent Settings"
 msgstr ""
 #
-msgid "zytcurrent Code"
+msgid "tcurrentPort"
 msgstr ""
 #
-msgid "zytcurrent Login"
+msgid "tcurrentUseDirection"
 msgstr ""
+#
+msgid "tcurrentUseFillColour"
+msgstr ""
+#
+msgid "tcurrentUseRate"
+msgstr ""
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 #
 #
 #
@@ -494,8 +225,12 @@ msgstr ""
 #
 #
 #, fuzzy
-#~ msgid " data"
-#~ msgstr "Данные GRIB"
+#~ msgid "Colors"
+#~ msgstr "Закрыть"
+#
+#
+#
+#
 #
 #
 #
@@ -506,6 +241,10 @@ msgstr ""
 #
 #~ msgid "GRIB"
 #~ msgstr "GRIB"
+#
+#
+#
+#
 #
 #
 #
@@ -549,8 +288,28 @@ msgstr ""
 #
 #
 #, fuzzy
+#~ msgid "Please Zoom or Scale Out to view invisible overlays:"
+#~ msgstr "Уменьшите масштаб для просмотра скртых меток HTSGW GRIB"
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Air Temp.(2m) GRIB"
 #~ msgstr "Уменьшите масштаб для просмотра скртых меток HTSGW GRIB"
+#
+#
+#
+#
 #
 #
 #
@@ -574,6 +333,10 @@ msgstr ""
 #
 #
 #
+#
+#
+#
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Clouds Cover GRIB"
 #~ msgstr "Уменьшите масштаб для просмотра скртых меток CRAIN GRIB"
@@ -586,9 +349,17 @@ msgstr ""
 #
 #
 #
+#
+#
+#
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Sea Surf.Temp. GRIB"
 #~ msgstr "Уменьшите масштаб для просмотра скртых меток HTSGW GRIB"
+#
+#
+#
+#
 #
 #
 #
@@ -611,8 +382,40 @@ msgstr ""
 #
 #
 #, fuzzy
+#~ msgid "Pressure"
+#~ msgstr "Давление, мБар"
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#, fuzzy
 #~ msgid "Pressure (MSL)"
 #~ msgstr "Давление, мБар"
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#, fuzzy
+#~ msgid "Select a tcurrent file"
+#~ msgstr "Каталог файлов GRIB"
+#
+#
+#
+#
 #
 #
 #
@@ -655,9 +458,28 @@ msgstr ""
 #
 #
 #
+#
+#
+#
+#
 #, fuzzy
 #~ msgid "Sign.Wave Height"
 #~ msgstr "Характерная высота волны, м"
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#~ msgid "Use High Definition Graphics"
+#~ msgstr "Использовать графику с высоким разрешением"
+#
+#
+#
+#
 #
 #
 #
@@ -701,6 +523,10 @@ msgstr ""
 #
 #
 #
+#
+#
+#
+#
 #, fuzzy
 #~ msgid "Wind Direction(10m)"
 #~ msgstr "Направление ветра"
@@ -713,9 +539,17 @@ msgstr ""
 #
 #
 #
+#
+#
+#
+#
 #, fuzzy
 #~ msgid "Wind Speed and Direction(10m)"
 #~ msgstr "Направление ветра"
+#
+#
+#
+#
 #
 #
 #
@@ -759,5 +593,33 @@ msgstr ""
 #
 #
 #
+#
+#
+#
+#
 #~ msgid "Wind Speed, Kts."
 #~ msgstr "Скорость ветра, узл."
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#, fuzzy
+#~ msgid "tcdata"
+#~ msgstr "Данные GRIB"

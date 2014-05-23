@@ -24,7 +24,7 @@
  ***************************************************************************
  *
  */
-
+#include <wx/intl.h>
 #include "wx/wx.h"
 #include "wx/tokenzr.h"
 #include "wx/datetime.h"
@@ -53,6 +53,7 @@
 #include <fstream>
 #include <windows.h>
 #include <memory.h> 
+
 
 enum
 {
@@ -95,9 +96,9 @@ static wxString TToString( const wxDateTime date_time, const int time_zone )
     t.MakeFromTimezone( wxDateTime::UTC );
     if( t.IsDST() ) t.Subtract( wxTimeSpan( 1, 0, 0, 0 ) );
     switch( time_zone ) {
-        case 0: return t.Format( _T(" %a %d-%b-%Y  %H:%M "), wxDateTime::Local ) + _T("LOC");//:%S
+        case 0: return t.Format( _T(" %a %d-%b-%Y  %H:%M "), wxDateTime::Local ) + _("LOC");//:%S
         case 1:
-        default: return t.Format( _T(" %a %d-%b-%Y %H:%M  "), wxDateTime::UTC ) + _T("UTC");
+        default: return t.Format( _T(" %a %d-%b-%Y %H:%M  "), wxDateTime::UTC ) + _("UTC");
     }
 }
 
@@ -116,13 +117,13 @@ tcurrentUIDialog::tcurrentUIDialog(wxWindow *parent, tcurrent_pi *ppi)
     wxFileConfig *pConf = GetOCPNConfigObject();
 
     if(pConf) {
-        pConf->SetPath ( _T ( "/Settings/tcurrent" ) );
+        pConf->SetPath ( _ ( "/Settings/tcurrent" ) );
 
-		pConf->Read ( _T ( "tcurrentUseRate" ), &m_bUseRate );
-        pConf->Read ( _T ( "tcurrentUseDirection" ), &m_bUseDirection);
-		pConf->Read ( _T ( "tcurrentUseFillColour" ), &m_bUseFillColour);
+		pConf->Read ( _ ( "tcurrentUseRate" ), &m_bUseRate );
+        pConf->Read ( _ ( "tcurrentUseDirection" ), &m_bUseDirection);
+		pConf->Read ( _ ( "tcurrentUseFillColour" ), &m_bUseFillColour);
 
-		pConf->Read ( _T ( "tcurrentPort" ), &m_PortSelected);
+		pConf->Read ( _ ( "tcurrentPort" ), &m_PortSelected);
     }
 
     m_bpPrev->SetBitmap(wxBitmap( prev1 ));
@@ -149,15 +150,15 @@ tcurrentUIDialog::~tcurrentUIDialog()
     wxFileConfig *pConf = GetOCPNConfigObject();;
 
     if(pConf) {
-        pConf->SetPath ( _T ( "/Settings/tcurrent" ) );
+        pConf->SetPath ( _ ( "/Settings/tcurrent" ) );
 
-		pConf->Write ( _T ( "tcurrentUseRate" ), m_bUseRate );
-		pConf->Write ( _T ( "tcurrentUseDirection" ), m_bUseDirection );
-		pConf->Write ( _T ( "tcurrentUseFillColour" ), m_bUseFillColour );
+		pConf->Write ( _ ( "tcurrentUseRate" ), m_bUseRate );
+		pConf->Write ( _ ( "tcurrentUseDirection" ), m_bUseDirection );
+		pConf->Write ( _ ( "tcurrentUseFillColour" ), m_bUseFillColour );
 
 		int c = m_choice1->GetSelection();
 		wxString myP = m_choice1->GetString(c);
-		pConf->Write ( _T ( "tcurrentPort" ), myP );  
+		pConf->Write ( _ ( "tcurrentPort" ), myP );  
 
     }
 }
@@ -214,19 +215,19 @@ void tcurrentUIDialog::OpenFile(bool newestFile)
 	back_id   = 5;
 	m_myChoice = 0;
 
-	label_array[0] = wxT("HW-6");
+	label_array[0] = _("HW-6");
 	label_array[1] = wxT("HW-5");
 	label_array[2] = wxT("HW-4");
 	label_array[3] = wxT("HW-3");
 	label_array[4] = wxT("HW-2");
 	label_array[5] = wxT("HW-1");
-	label_array[6] = wxT("High Water");
+	label_array[6] = _("High Water");
 	label_array[7] = wxT("HW+1");
 	label_array[8] = wxT("HW+2");
 	label_array[9] = wxT("HW+3");
 	label_array[10] = wxT("HW+4");
 	label_array[11] = wxT("HW+5");
-	label_array[12] = wxT("HW+6");
+	label_array[12] = _("HW+6");
 
 }
 
@@ -236,9 +237,9 @@ void tcurrentUIDialog::OnStartSetupHW()
 	wxString s = m_choice1->GetString(m);
 	m_portXML = FindPortXMLUsingChoice(s);
 
-	if (m_portXML ==  _T(""))
+	if (m_portXML ==  _(""))
 	{
-		wxMessageBox(_T("Port not found"), _T("Port finder"));
+		wxMessageBox(_("Port not found"), _("Port finder"));
 		return;	
 	}
 
@@ -246,9 +247,9 @@ void tcurrentUIDialog::OnStartSetupHW()
 
 	if (i == 0)
 	{
-		wxMessageBox(_T("No tidal data"));
+		wxMessageBox(_("No tidal data"));
 		m_staticText2->SetLabel(_T(""));
-		m_staticText211->SetLabel(_T("High Water"));
+		m_staticText211->SetLabel(_("High Water"));
 		button_id = 6;
 		return;
 	}
@@ -263,7 +264,7 @@ void tcurrentUIDialog::OnStartSetupHW()
 
 		m_myChoice = myDateSelection;
 		m_staticText2->SetLabel(st_mydate);
-		m_staticText211->SetLabel(_T("High Water"));
+		m_staticText211->SetLabel(_("High Water"));
 		button_id = 6;
 		return;
 	}			
@@ -289,9 +290,9 @@ void tcurrentUIDialog::OnNow( wxCommandEvent& event )
 		m_staticText2->SetLabel(label_array[button_id]);
 		
 		wxDateTime this_now = wxDateTime::Now();
-		wxString s0 = this_now.Format( _T ( "%a %d %b %Y"));
+		wxString s0 = this_now.Format( _T( "%a %d %b %Y"));
 		wxString s1 = this_now.Format(_T("%H:%M"));			
-		wxString s2 = s0 + _(" ") + s1;			
+		wxString s2 = s0 + _T(" ") + s1;			
 						
 		m_staticText211->SetLabel(s2);
 
@@ -406,7 +407,7 @@ void tcurrentUIDialog::OnDateSelChanged(wxDateEvent& event)
 
 	if (i == 0)
 	{
-		wxMessageBox(_T("No tidal data"));
+		wxMessageBox(_("No tidal data"));
 		return;
 	}
 	CalcHW(i);
@@ -426,7 +427,7 @@ void tcurrentUIDialog::OnPortChanged(wxCommandEvent& event)
 	 if (i == 0)
 	 {		 
 		 m_choice2->Clear();
-		 wxMessageBox(_T("No tidal data found"),_T("Tidal Data"));
+		 wxMessageBox(_("No tidal data found"),_("Tidal Data"));
 		 return;
 	 }
 	 else
@@ -448,7 +449,7 @@ void tcurrentUIDialog::SetDateForNowButton()
 
 	if (m_portXML ==  _T(""))
 	{
-		wxMessageBox(_T("Port not found"), _T("Port finder"));
+		wxMessageBox(_("Port not found"), _("Port finder"));
 		return;	
 	}
 
@@ -457,9 +458,9 @@ void tcurrentUIDialog::SetDateForNowButton()
 
 	if (id == 0)
 	{
-		wxMessageBox(_T("No tidal data"));
+		wxMessageBox(_("No tidal data"));
 		m_staticText2->SetLabel(_T(""));
-		m_staticText211->SetLabel(_T("High Water"));
+		m_staticText211->SetLabel(_("High Water"));
 		button_id = 6;
 		back_id = 5;
 		next_id = 7;
@@ -568,7 +569,7 @@ PortTides tcurrentUIDialog::PopulatePortTides(wxString PortName)
 			
 			i++;
 		}
-		myPortTides.m_portName = _T("None");
+		myPortTides.m_portName = _("None");
 		return myPortTides;
 }
 
@@ -593,7 +594,7 @@ wxString tcurrentUIDialog::FindPortXMLUsingChoice(wxString inPortName)
 			i++;
 		}
 
-		return _T("");
+		return _("");
 }
 
 int tcurrentUIDialog::FindPortIDUsingChoice(wxString inPortName)
@@ -631,11 +632,11 @@ void tcurrentUIDialog::LoadHarmonics()
       wxString TCDir;
       TCDir = *pTC_Dir;
       
-      wxLogMessage(_T("Using Tide/Current data from:  ") + TCDir);
+      wxLogMessage(_("Using Tide/Current data from:  ") + TCDir);
 	  wxString cache_locn = TCDir; 
 
 	  wxString harm2test = TCDir;
-      harm2test.Append( _T("HARMONIC") );
+      harm2test.Append( _("HARMONIC") );
 	
 	  ptcmgr = new TCMgr(TCDir, cache_locn);     	
 }
@@ -665,7 +666,7 @@ void tcurrentUIDialog::CalcHW(int PortCode)
 
 	if (PortCode == 0)
 	{
-		wxMessageBox(_T("No tidal data for this port"), _T("No Tidal Data"));
+		wxMessageBox(_("No tidal data for this port"), _("No Tidal Data"));
 		return;
 	}
 	//    Figure out this computer timezone minute offset
@@ -752,7 +753,7 @@ void tcurrentUIDialog::CalcHW(int PortCode)
                                                       wxString s, s1, s2;
                                                       tcd.Set( tctime + ( m_corr_mins * 60 ) ) ;
 
-													  s2 = tcd.Format ( _T ( "%A %d %B %Y"));
+													  s2 = tcd.Format ( _T( "%A %d %B %Y"));
                                                       s.Printf(tcd.Format(_T("%H:%M  ")));													 
 
                                                       s1.Printf( _T("%05.2f "),tcvalue);    												  
@@ -871,7 +872,7 @@ int tcurrentUIDialog::CalcHoursFromHWNow()
 	//m_myChoice = c;
 
 	//wxString str_countPts =  wxString::Format(wxT("%f"), (double)myDiff);
-    // wxMessageBox(str_countPts,_T("count_hours"));
+    // wxMessageBox(str_countPts,_("count_hours"));
 	int f = round( myTest);   
 
 
@@ -930,7 +931,7 @@ int tcurrentUIDialog::round(double c)
 		}
 	}
 	//wxString str_countPts =  wxString::Format(wxT("%d"), (int)c);
-    // wxMessageBox(str_countPts,_T("count_hours"));
+    // wxMessageBox(str_countPts,_("count_hours"));
 	return c;
 }
 
@@ -992,7 +993,7 @@ bool tcurrentUIDialog::LoadStandardPorts()
 						wxEXTRA = wxString::FromUTF8(f->GetText());						
 				        my_port.EXTRA = wxEXTRA;
 						my_port.IDX = wxEXTRA;
-						//wxMessageBox(my_position.lon,_T("myLon"));
+						//wxMessageBox(my_position.lon,_("myLon"));
 					    my_ports.push_back(my_port);
 					}  
 
@@ -1155,7 +1156,7 @@ void tcurrentUIDialog::OnChooseTideButton(wxCommandEvent & event)
 
 	if (m_portXML ==  _T(""))
 	{
-		wxMessageBox(_T("Port not found"), _T("Port finder"));
+		wxMessageBox(_("Port not found"), _("Port finder"));
 		return;	
 	}
 
@@ -1166,9 +1167,9 @@ void tcurrentUIDialog::OnChooseTideButton(wxCommandEvent & event)
 	{
 		// No tidal data
 		m_staticText2->SetLabel(_T(""));
-		m_staticText211->SetLabel(_T("High Water"));
+		m_staticText211->SetLabel(_("High Water"));
 		button_id = 6;
-		st_mydate = _T("");
+		st_mydate = _("");
 	}
 	else
 	{
@@ -1200,7 +1201,7 @@ void tcurrentUIDialog::OnChooseTideButton(wxCommandEvent & event)
 			m_myChoice = m_choice2->GetSelection() - 1;
 			m_ts = wxTimeSpan::Hours(6) ;
 			m_dt.Subtract(m_ts);
-			wxString s = m_dt.Format( _T ( "%a %d %b %Y %H:%M"));
+			wxString s = m_dt.Format( _T( "%a %d %b %Y %H:%M"));
 			if (st_mydate == _T(""))
 				m_staticText2->SetLabel(_T(""));
 			else
@@ -1214,7 +1215,7 @@ void tcurrentUIDialog::OnChooseTideButton(wxCommandEvent & event)
 			m_myChoice = m_choice2->GetSelection() + 1;
 		    m_ts = wxTimeSpan::Hours(6) ;
 			m_dt.Add(m_ts);
-			wxString s = m_dt.Format( _T ( "%a %d %b %Y %H:%M"));
+			wxString s = m_dt.Format( _T( "%a %d %b %Y %H:%M"));
 			if (st_mydate == _T(""))
 				m_staticText2->SetLabel(_T(""));
 			else
@@ -1290,7 +1291,7 @@ void tcurrentUIDialog::OnPrev( wxCommandEvent& event )
 			st_mydate = m_choice2->GetString(m_myChoice);
 			m_dt.ParseDateTime(st_mydate);
 			m_dt.Add(wxTimeSpan::Hours(6));
-			s = m_dt.Format( _T ( "%a %d %b %Y %H:%M "));
+			s = m_dt.Format( _T( "%a %d %b %Y %H:%M "));
 			break;				
 			}
 		}
@@ -1304,7 +1305,7 @@ void tcurrentUIDialog::OnPrev( wxCommandEvent& event )
 			st_mydate = m_choice2->GetString(myDateSelection);
 			m_dt.ParseDateTime(st_mydate);
 			m_dt.Subtract(wxTimeSpan::Hours(6));
-			s = m_dt.Format( _T ( "%a %d %b %Y %H:%M "));
+			s = m_dt.Format( _T( "%a %d %b %Y %H:%M "));
 
 			if (myDateSelection > 0)
 			{
@@ -1322,7 +1323,7 @@ void tcurrentUIDialog::OnPrev( wxCommandEvent& event )
 			m_dt.ParseDateTime(st_mydate);
 			m_dt.Subtract(wxTimeSpan::Hours(6));
 			m_dt.Add(wxTimeSpan::Hours(button_id));
-			s = m_dt.Format( _T ( "%a %d %b %Y %H:%M "));
+			s = m_dt.Format( _T( "%a %d %b %Y %H:%M "));
 			next_id = button_id + 1; // to make change from forward to back work
 		}		
 	} // End switch	 
@@ -1400,7 +1401,7 @@ void tcurrentUIDialog::OnNext( wxCommandEvent& event )
 				st_mydate = m_choice2->GetString(myDateSelection);
 				m_dt.ParseDateTime(st_mydate);
 				m_dt.Add(wxTimeSpan::Hours(6));
-				s = m_dt.Format( _T ( "%a %d %b %Y %H:%M "));
+				s = m_dt.Format( _T( "%a %d %b %Y %H:%M "));
 			    break;			    
 		}
 		case 0:						
@@ -1410,7 +1411,7 @@ void tcurrentUIDialog::OnNext( wxCommandEvent& event )
 				{
 					if (st_mydate != _T(""))
 					{
-					wxMessageBox(_T("Please choose a new date"));
+					wxMessageBox(_("Please choose a new date"));
 					return;
 					}
 				}
@@ -1421,7 +1422,7 @@ void tcurrentUIDialog::OnNext( wxCommandEvent& event )
 				st_mydate = m_choice2->GetString(m_myChoice);
 				m_dt.ParseDateTime(st_mydate);
 				m_dt.Subtract(wxTimeSpan::Hours(6));
-				s = m_dt.Format( _T ( "%a %d %b %Y %H:%M "));           
+				s = m_dt.Format( _T( "%a %d %b %Y %H:%M "));           
 				break;
 				}
 		}
@@ -1434,7 +1435,7 @@ void tcurrentUIDialog::OnNext( wxCommandEvent& event )
 			m_dt.ParseDateTime(st_mydate);
 			m_dt.Subtract(wxTimeSpan::Hours(6));
 			m_dt.Add(wxTimeSpan::Hours(button_id));
-			s = m_dt.Format( _T ( "%a %d %b %Y %H:%M "));
+			s = m_dt.Format( _T( "%a %d %b %Y %H:%M "));
 			back_id = next_id - 2;  // to make the forward back work
 		}		
 	} // End switch	    
@@ -1452,37 +1453,8 @@ void tcurrentUIDialog::OnNext( wxCommandEvent& event )
 
 void tcurrentUIDialog::About(wxCommandEvent& event)
 {
-       wxMessageBox(wxString::Format(
-_T("Tidal Data for UKHO Tidal Diamonds\n")
-_T("--------------------------------------------------------------\n")
-_T("The standard OpenCPN distribution has tidal data for the\n")
-_T("following ports, which this plugin uses:\n")
-_T("\n")
-_T("PLYMOUTH (DEVONPORT)\n")   
-_T("PORTSMOUTH\n")
-_T("DOVER\n")
-_T("SHEERNESS\n")  
-_T("LOWESTOFT\n") 
-_T("IMMINGHAM\n")
-_T("LEITH\n") 
-_T("ABERDEEN\n")
-_T("WICK\n")   
-_T("LERWICK\n")
-_T("ULLAPOOL\n")
-_T("LIVERPOOL (GLADSTONE DOCK)\n")
-_T("HOLYHEAD\n")
-_T("MILFORD HAVEN\n")
-_T("PORT OF BRISTOL (AVONMOUTH)\n")  
-_T("ST. HELIER\n")
-_T("\n")
-_T("Use this data with caution.\n")
-_T("Use in conjunction with UKHO Tidal Stream Atlases and tidal diamonds\n")
-_T("\n")                
-_T("--------------------------------------------------------------------\n")
-_T("\n")
-_T("Note: 1 Rates shown are for a position corresponding to the centre\n")
-_T("of the base of the arrow. Tidal rate is shown as knots.\n")
-_T("Note: 2 Rates are calculated by using the method shown in UKHO Tidal\n")
-_T("Stream Atlases. This is based on the average range for the day\n")
-     ), _T("About Tidal Arrows"), wxOK | wxICON_INFORMATION, this);
+	
+       wxMessageBox(
+_("Tidal Data for UKHO Tidal Diamonds\n--------------------------------------------------------------\nThe standard OpenCPN distribution has tidal data for the\nfollowing ports, which this plugin uses:\n\nPLYMOUTH (DEVONPORT)\nPORTSMOUTH\nDOVER\nSHEERNESS\nLOWESTOFT\nIMMINGHAM\nLEITH\nABERDEEN\nWICK\nLERWICK\nULLAPOOL\nLIVERPOOL (GLADSTONE DOCK)\nHOLYHEAD\nMILFORD HAVEN\nPORT OF BRISTOL (AVONMOUTH)\nST. HELIER\n\nUse this data with caution.\nUse in conjunction with UKHO Tidal Stream Atlases and tidal diamonds\n\n--------------------------------------------------------------------\n\nNote: 1 Rates shown are for a position corresponding to the centre\nof the base of the arrow. Tidal rate is shown as knots.\nNote: 2 Rates are calculated by using the method shown in UKHO Tidal\nStream Atlases. This is based on the average range for the day\n")
+     , _("About Tidal Arrows"), wxOK | wxICON_INFORMATION, this);
 }

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: grib_pi 2.2.1111\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-17 19:30-0500\n"
+"POT-Creation-Date: 2014-05-23 14:33+0100\n"
 "PO-Revision-Date: 2010-12-09 22:34+0200\n"
 "Last-Translator: Asko Laite <alaite@netti.fi>\n"
 "Language-Team: Asko Laite <alaite@netti.fi>\n"
@@ -18,466 +18,177 @@ msgstr ""
 "X-Poedit-Language: Finnish\n"
 "X-Poedit-Country: FINLAND\n"
 #
-msgid " (Max size )"
-msgstr ""
-#
-msgid " Mo )"
-msgstr ""
-#
-msgid "( Max "
-msgstr ""
-#
-msgid "Address used to send request eMail. (Mandatory for LINUX)"
-msgstr ""
-#
-msgid "Air Temp"
-msgstr ""
-#
-msgid "Air Temperature(2m)"
-msgstr ""
-#
-msgid "Apply"
-msgstr ""
-#
-msgid "Authorize Interpolation to start at current time"
-msgstr ""
-#
-msgid "Barbed Arrows"
-msgstr ""
-#
-msgid ""
-"Before sending an email to Zytcurrent you have to enter your Login and Code.\n"
-"Please visit www.zytcurrent.org/ and follow instructions..."
-msgstr ""
-#
-msgid "Building Isobar map"
-msgstr ""
-#
-msgid "CAPE"
-msgstr ""
-#
-msgid "Celsius"
-msgstr ""
-#
-msgid "Cloud Cover"
-msgstr ""
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#, fuzzy
-msgid "Colors"
-msgstr "&Sulje"
-#
-msgid "Continue..."
-msgstr ""
-#
-msgid "Copy First Cumulative Missing Record"
-msgstr ""
-#
-msgid "Copy Missing Wave Records"
+msgid " "
 msgstr ""
 #
 #, fuzzy
-msgid "Current"
+msgid "/Settings/tcurrent"
 msgstr "Virran nopeus, solmua"
 #
-msgid "Data available"
+msgid "???"
 msgstr ""
 #
-msgid "Days"
+msgid "About Tidal Arrows"
 msgstr ""
 #
-msgid "Deg"
+msgid "About these Tidal Arrows"
 msgstr ""
 #
-msgid "Direction Arrows"
+msgid "Choose Date/Time"
 msgstr ""
 #
-msgid "Display"
+msgid "Display tidal direction"
 msgstr ""
 #
-msgid "Display Iso CAPE"
+msgid "Display tidal rates (knots)"
 msgstr ""
 #
-msgid "Display Isobars"
+msgid "Fill Colour"
 msgstr ""
 #
-msgid "Display Isotachs"
+msgid "HARMONIC"
 msgstr ""
 #
-msgid "Display Isotherms"
+msgid "HW"
 msgstr ""
 #
-msgid "Error:  Can't read this File!"
+msgid "HW +6"
 msgstr ""
 #
-msgid "Error:  File does not exist!"
+msgid "HW -6"
 msgstr ""
 #
-msgid "Error:  No valid data in this file!"
+msgid "HW+6"
 msgstr ""
 #
-msgid "Estimated File Size"
+msgid "HW-6"
 msgstr ""
 #
-msgid "Fahrenheit"
+msgid "High Water"
 msgstr ""
 #
-msgid "Feet"
+msgid "LOC"
 msgstr ""
 #
-msgid "Forecast Model "
-msgstr ""
-#
-msgid "Generic"
-msgstr ""
-#
-msgid "Get this Code in zytcurrent's forum ( This is not your password! )"
-msgstr ""
-#
-msgid "Hours"
-msgstr ""
-#
-msgid "Inches"
-msgstr ""
-#
-msgid "Interpolate between tcurrents"
-msgstr ""
-#
-msgid "Interval"
-msgstr ""
-#
-msgid "IsoBars"
-msgstr ""
-#
-msgid "Knots"
-msgstr ""
-#
-msgid "Load File Options"
-msgstr ""
-#
-msgid "Load the Last Opened File"
-msgstr ""
-#
-msgid "Load the More Recent File in Directory"
-msgstr ""
-#
-msgid "Local Time"
-msgstr ""
-#
-msgid "Loop Mode"
-msgstr ""
-#
-msgid "MAIL Error: MAPI32.DLL is not installed or invalid on this computer!"
-msgstr ""
-#
-msgid "Mail"
-msgstr ""
-#
-msgid "Mail To "
-msgstr ""
-#
-msgid "Meters"
-msgstr ""
-#
-msgid "MilliBars"
-msgstr ""
-#
-msgid "Millimeters"
-msgstr ""
-#
-msgid "N/A"
+msgid "LW"
 msgstr ""
 #
 msgid "Next"
 msgstr ""
 #
+msgid "No Tidal Data"
+msgstr ""
+#
+msgid "No tidal data"
+msgstr ""
+#
+msgid "No tidal data for this port"
+msgstr ""
+#
+msgid "No tidal data found"
+msgstr ""
+#
+msgid "None"
+msgstr ""
+#
 msgid "Now"
 msgstr ""
 #
-msgid "Numbers"
+msgid "Please choose a new date"
 msgstr ""
 #
-msgid "Open File"
+msgid "Port finder"
 msgstr ""
 #
-msgid "Overlay Transparency"
+msgid "Port not found"
 msgstr ""
 #
-msgid "OverlayMap"
-msgstr ""
-#
-msgid "Percentage"
-msgstr ""
-#
-msgid "Play"
-msgstr ""
 #
 #, fuzzy
-msgid "Please Zoom or Scale Out to view invisible overlays:"
-msgstr "Zoomaa ulos nähdäksesi GRIB merkitsevän aallonkorkeuden"
-#
-#, fuzzy
-msgid "Pressure"
-msgstr "Ilampaine, mbar"
+msgid "Preferences"
+msgstr "GRIB asetukset"
 #
 msgid "Previous"
 msgstr ""
 #
-msgid "Profile"
+msgid "Select High Water"
 msgstr ""
 #
-msgid "Rainfall"
-msgstr ""
-#
-msgid "Range"
-msgstr ""
-#
-msgid "Request"
-msgstr ""
-#
-msgid ""
-"Request can't be sent. Please verify your email systeme parameters.\n"
-"You should also have a look at your log file.\n"
-"Save or Cancel to finish..."
-msgstr ""
-#
-msgid "Resolution"
-msgstr ""
-#
-msgid "Save"
-msgstr ""
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#, fuzzy
-msgid "Sea Temp"
-msgstr "Meriveden pintalämpötila, C"
-#
-msgid "Sea Temperature(surf.)"
+msgid "Standard Port"
 msgstr ""
 #
 #, fuzzy
-msgid "Select a tcurrent file"
-msgstr "Valitse GRIB-hakemisto"
+msgid "Tidal Current Control"
+msgstr "GRIB Näyttöohjaus"
 #
-msgid "Send"
-msgstr ""
-#
-msgid "Sender eMail Address"
-msgstr ""
-#
-msgid "Settings"
-msgstr ""
-#
-msgid "Size"
-msgstr ""
-#
-msgid "Slices per Update"
-msgstr ""
-#
-msgid "Slices per hour"
-msgstr ""
-#
-msgid "Spacing"
-msgstr ""
-#
-msgid "Start Options"
-msgstr ""
-#
-msgid "Start at the first forecast in tcurrent file"
-msgstr ""
-#
-msgid "Start at the nearest forecast to current time"
-msgstr ""
-#
-msgid "Stop"
+msgid "Tidal Data"
 msgstr ""
 #
 msgid ""
-"The file size limit is overcome!\n"
-"You can zoom in and/or change parameters..."
-msgstr ""
-#
-msgid ""
-"This file contains data for particular time intervals but you have chosen to "
-"display different intervals.\n"
-"Please consider that the values will be interpolated."
-msgstr ""
-#
-msgid "This is your zytcurrent's forum access Login"
-msgstr ""
-#
-msgid "Time Options"
-msgstr ""
-#
-msgid "Time Range"
+"Tidal Data for UKHO Tidal Diamonds\n"
+"--------------------------------------------------------------\n"
+"The standard OpenCPN distribution has tidal data for the\n"
+"following ports, which this plugin uses:\n"
+"\n"
+"PLYMOUTH (DEVONPORT)\n"
+"PORTSMOUTH\n"
+"DOVER\n"
+"SHEERNESS\n"
+"LOWESTOFT\n"
+"IMMINGHAM\n"
+"LEITH\n"
+"ABERDEEN\n"
+"WICK\n"
+"LERWICK\n"
+"ULLAPOOL\n"
+"LIVERPOOL (GLADSTONE DOCK)\n"
+"HOLYHEAD\n"
+"MILFORD HAVEN\n"
+"PORT OF BRISTOL (AVONMOUTH)\n"
+"ST. HELIER\n"
+"\n"
+"Use this data with caution.\n"
+"Use in conjunction with UKHO Tidal Stream Atlases and tidal diamonds\n"
+"\n"
+"--------------------------------------------------------------------\n"
+"\n"
+"Note: 1 Rates shown are for a position corresponding to the centre\n"
+"of the base of the arrow. Tidal rate is shown as knots.\n"
+"Note: 2 Rates are calculated by using the method shown in UKHO Tidal\n"
+"Stream Atlases. This is based on the average range for the day\n"
 msgstr ""
 #
 msgid "UTC"
 msgstr ""
 #
-msgid "Units"
-msgstr ""
-#
-msgid "Updates per Second"
-msgstr ""
-#
-msgid "Use Gradual Colors"
-msgstr ""
-#
-msgid "Use High Definition Graphics"
-msgstr "Käytä tarkkuusgrafiikkaa"
-#
-msgid "Warning!"
-msgstr ""
-#
-msgid "Warning:  Empty directory!"
-msgstr ""
-#
-msgid "Waves"
-msgstr ""
-#
-msgid "WavesModel"
-msgstr ""
-#
-msgid "Wind"
-msgstr ""
-#
-msgid "Wind Gust"
-msgstr ""
-#
-msgid "Write and send eMail request"
-msgstr ""
-#
-msgid ""
-"You have chosen to authorize interpolation.\n"
-"Don't forget that data displayed at current time will not be real but "
-"interpolated!"
-msgstr ""
-#
-msgid ""
-"Your request is ready. An email is prepared in your email environment. \n"
-"You have just to verify and send it...\n"
-"Save or Cancel to finish...or Continue..."
-msgstr ""
-#
-msgid ""
-"Your request was sent \n"
-"(if your system has an MTA configured and is able to send email).\n"
-"Save or Cancel to finish...or Continue..."
-msgstr ""
-#
-msgid "inHG"
-msgstr ""
-#
-msgid "j/kg"
-msgstr ""
-#
-msgid "km/h"
-msgstr ""
-#
-msgid "m/s"
-msgstr ""
-#
-msgid "mmHG"
-msgstr ""
-#
-msgid "mph"
-msgstr ""
-#
-msgid "playback"
+msgid "Using Tide/Current data from:  "
 msgstr ""
 #
 #, fuzzy
 msgid "tcurrent"
 msgstr "Virran nopeus, solmua"
 #
-msgid "tcurrent Data at Cursor"
-msgstr ""
-#
-#, fuzzy
-msgid "tcurrent Display Control"
-msgstr "GRIB Näyttöohjaus"
-#
 #, fuzzy
 msgid "tcurrent PlugIn for OpenCPN"
 msgstr "GRIB moduuli OpenCPN:lle"
 #
-#, fuzzy
 msgid ""
 "tcurrent PlugIn for OpenCPN\n"
-"Provides basic tcurrent file overlay capabilities for several tcurrent file "
-"types.\n"
+"Provides an overlay of Tidal Current (Stream) Arrows.\n"
 "\n"
-"Supported tcurrent file types include:\n"
-"- wind direction and speed\n"
-"- significant wave height\n"
-"- sea surface temperature\n"
-"- surface current direction and speed."
+"\t\t\t   "
 msgstr ""
-"GRIB moduuli  OpenCPN:lle\n"
-"Näyttää kartalla GRIB-tiedon usean tyyppisistä tiedostoista.\n"
-"\n"
-"Tukee seuraavia GRIB-tiedon sisältöjä:\n"
-"- tuulen suunta ja nopeus\n"
-"- merkitsevä aallonkorkeus\n"
-"- pintaveden lämpötila\n"
-"-virran nopeus ja suunta"
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#, fuzzy
-msgid "tcurrent Preferences"
-msgstr "GRIB asetukset"
 #
 msgid "tcurrent Settings"
 msgstr ""
 #
-msgid "zytcurrent Code"
-msgstr ""
+#, fuzzy
+msgid "tcurrentPort"
+msgstr "Virran nopeus, solmua"
 #
-msgid "zytcurrent Login"
-msgstr ""
+#
+#
+#
 #
 #
 #
@@ -493,8 +204,57 @@ msgstr ""
 #
 #
 #, fuzzy
-#~ msgid " data"
-#~ msgstr "GRIB Data"
+msgid "tcurrentUseDirection"
+msgstr "GRIB asetukset"
+#
+msgid "tcurrentUseFillColour"
+msgstr ""
+#
+#, fuzzy
+msgid "tcurrentUseRate"
+msgstr "Virran nopeus, solmua"
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#, fuzzy
+#~ msgid "Colors"
+#~ msgstr "&Sulje"
+#
+#
+#
+#
+#
+#, fuzzy
+#~ msgid "Current"
+#~ msgstr "Virran nopeus, solmua"
+#
+#
+#
+#
 #
 #
 #
@@ -504,6 +264,10 @@ msgstr ""
 #, fuzzy
 #~ msgid "Data Display Preferences"
 #~ msgstr "GRIB asetukset"
+#
+#
+#
+#
 #
 #
 #
@@ -538,17 +302,32 @@ msgstr ""
 #
 #
 #
+#
+#
+#
+#
 #~ msgid "GRIB File Directory"
 #~ msgstr "GRIB-tiedostohakemisto"
+#
+#
+#
+#
 #
 #
 #~ msgid "Grib"
 #~ msgstr "Grib"
 #
 #
+#
+#
+#
 #, fuzzy
-#~ msgid "Grib Preferences"
-#~ msgstr "GRIB asetukset"
+#~ msgid "Please Zoom or Scale Out to view invisible overlays:"
+#~ msgstr "Zoomaa ulos nähdäksesi GRIB merkitsevän aallonkorkeuden"
+#
+#
+#
+#
 #
 #
 #
@@ -558,6 +337,10 @@ msgstr ""
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Air Temp.(2m) GRIB"
 #~ msgstr "Zoomaa ulos nähdäksesi GRIB pintalämpötilan"
+#
+#
+#
+#
 #
 #
 #
@@ -575,9 +358,17 @@ msgstr ""
 #
 #
 #
+#
+#
+#
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Clouds Cover GRIB"
 #~ msgstr "Zoomaa ulos nähdäksesi GRIB virtatiedot"
+#
+#
+#
+#
 #
 #
 #
@@ -593,9 +384,25 @@ msgstr ""
 #
 #
 #
+#
+#
+#
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Total Rainfall GRIB"
 #~ msgstr "Zoomaa ulos nähdäksesi GRIB sadetiedon"
+#
+#
+#
+#
+#
+#, fuzzy
+#~ msgid "Pressure"
+#~ msgstr "Ilampaine, mbar"
+#
+#
+#
+#
 #
 #
 #
@@ -605,6 +412,34 @@ msgstr ""
 #, fuzzy
 #~ msgid "Pressure (MSL)"
 #~ msgstr "Ilampaine, mbar"
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#, fuzzy
+#~ msgid "Sea Temp"
+#~ msgstr "Meriveden pintalämpötila, C"
+#
+#
+#
+#
+#
+#, fuzzy
+#~ msgid "Select a tcurrent file"
+#~ msgstr "Valitse GRIB-hakemisto"
+#
+#
+#
+#
 #
 #
 #
@@ -641,9 +476,24 @@ msgstr ""
 #
 #
 #
+#
+#
+#
+#
 #, fuzzy
 #~ msgid "Sign.Wave Height"
 #~ msgstr "Merkitsevä aallonkorkeus, m"
+#
+#
+#
+#
+#
+#~ msgid "Use High Definition Graphics"
+#~ msgstr "Käytä tarkkuusgrafiikkaa"
+#
+#
+#
+#
 #
 #
 #
@@ -681,6 +531,10 @@ msgstr ""
 #
 #
 #
+#
+#
+#
+#
 #, fuzzy
 #~ msgid "Wind Direction(10m)"
 #~ msgstr "Tuulen suunta"
@@ -690,9 +544,17 @@ msgstr ""
 #
 #
 #
+#
+#
+#
+#
 #, fuzzy
 #~ msgid "Wind Speed and Direction(10m)"
 #~ msgstr "Tuulen suunta"
+#
+#
+#
+#
 #
 #
 #
@@ -730,5 +592,54 @@ msgstr ""
 #
 #
 #
+#
+#
+#
+#
 #~ msgid "Wind Speed, Kts."
 #~ msgstr "Tuulen nopeus, solmua"
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#, fuzzy
+#~ msgid "tcdata"
+#~ msgstr "GRIB Data"
+#
+#
+#
+#
+#
+#, fuzzy
+#~ msgid ""
+#~ "tcurrent PlugIn for OpenCPN\n"
+#~ "Provides basic tcurrent file overlay capabilities for several tcurrent "
+#~ "file types.\n"
+#~ "\n"
+#~ "Supported tcurrent file types include:\n"
+#~ "- wind direction and speed\n"
+#~ "- significant wave height\n"
+#~ "- sea surface temperature\n"
+#~ "- surface current direction and speed."
+#~ msgstr ""
+#~ "GRIB moduuli  OpenCPN:lle\n"
+#~ "Näyttää kartalla GRIB-tiedon usean tyyppisistä tiedostoista.\n"
+#~ "\n"
+#~ "Tukee seuraavia GRIB-tiedon sisältöjä:\n"
+#~ "- tuulen suunta ja nopeus\n"
+#~ "- merkitsevä aallonkorkeus\n"
+#~ "- pintaveden lämpötila\n"
+#~ "-virran nopeus ja suunta"

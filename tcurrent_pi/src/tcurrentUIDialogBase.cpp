@@ -17,7 +17,7 @@ tcurrentUIDialogBase::tcurrentUIDialogBase( wxWindow* parent, wxWindowID id, con
 	bSizer1 = new wxBoxSizer( wxVERTICAL );
 
 	wxStaticBoxSizer* sbSizer2;
-	sbSizer2 = new wxStaticBoxSizer( new wxStaticBox( this, wxID_ANY, wxT("Standard Port") ), wxHORIZONTAL );
+	sbSizer2 = new wxStaticBoxSizer( new wxStaticBox( this, wxID_ANY, _("Standard Port") ), wxHORIZONTAL );
 	
 	sbSizer2->SetMinSize( wxSize( 215, -1 ) ); 
 
@@ -29,7 +29,7 @@ tcurrentUIDialogBase::tcurrentUIDialogBase( wxWindow* parent, wxWindowID id, con
 	bSizer1->Add( sbSizer2, 0, 0, 5 );
 	
 	wxStaticBoxSizer* sbSizer3;
-	sbSizer3 = new wxStaticBoxSizer( new wxStaticBox( this, wxID_ANY, wxT("Choose Date/Time") ), wxHORIZONTAL );
+	sbSizer3 = new wxStaticBoxSizer( new wxStaticBox( this, wxID_ANY, _("Choose Date/Time") ), wxHORIZONTAL );
 	
 	sbSizer3->SetMinSize( wxSize( -1,30 ) ); 
 	m_datePicker1 = new wxDatePickerCtrl( this, wxID_ANY, wxDefaultDateTime, wxDefaultPosition, wxDefaultSize, wxDP_DROPDOWN );
@@ -37,14 +37,14 @@ tcurrentUIDialogBase::tcurrentUIDialogBase( wxWindow* parent, wxWindowID id, con
 
 	sbSizer3->Add( 15, 0, 1, wxEXPAND, 5 );
 		// Start About Information Button
-	m_button33 = new wxButton( this, wxID_ANY , wxT("???"), wxDefaultPosition, wxSize( 40,-1 ), 0 );
-	m_button33->SetToolTip(wxT("About these Tidal Arrows"));	
+	m_button33 = new wxButton( this, wxID_ANY , _("???"), wxDefaultPosition, wxSize( 40,-1 ), 0 );
+	m_button33->SetToolTip(_("About these Tidal Arrows"));	
 	sbSizer3->Add( m_button33, 0, wxALL, 5 );
 
 	bSizer1->Add( sbSizer3, 0, wxEXPAND, 5 );
 	
 	wxStaticBoxSizer* sbSizer4;
-	sbSizer4 = new wxStaticBoxSizer( new wxStaticBox( this, wxID_ANY, wxT("Select High Water") ), wxVERTICAL );
+	sbSizer4 = new wxStaticBoxSizer( new wxStaticBox( this, wxID_ANY,_("Select High Water")), wxVERTICAL );
 	
 	sbSizer4->SetMinSize( wxSize( -1,50 ) ); 
 	
@@ -63,19 +63,19 @@ tcurrentUIDialogBase::tcurrentUIDialogBase( wxWindow* parent, wxWindowID id, con
 	wxBoxSizer* bSizer3;
 	bSizer3 = new wxBoxSizer( wxHORIZONTAL );
 
-	m_button5 = new wxButton( this, 6, wxT("HW"), wxDefaultPosition, wxSize( 40,-1 ), 0 );
+	m_button5 = new wxButton( this, 6, _("HW"), wxDefaultPosition, wxSize( 40,-1 ), 0 );
 	bSizer3->Add( m_button5, 0, wxALL, 5 );
 	
 	m_button5->Connect( wxEVT_COMMAND_BUTTON_CLICKED,
            wxCommandEventHandler( tcurrentUIDialogBase::OnChooseTideButton), NULL, this );
    	
-	m_button4 = new wxButton( this, 0 , wxT("HW -6"), wxDefaultPosition, wxSize( 40,-1 ), 0 );
+	m_button4 = new wxButton( this, 0 , _("HW -6"), wxDefaultPosition, wxSize( 40,-1 ), 0 );
 	bSizer3->Add( m_button4, 0, wxALL, 5 );
 
 	m_button4->Connect( wxEVT_COMMAND_BUTTON_CLICKED,
             wxCommandEventHandler( tcurrentUIDialogBase::OnChooseTideButton), NULL, this );
 	
-	m_button6 = new wxButton( this, 12 , wxT("HW +6"), wxDefaultPosition, wxSize( 40,-1 ), 0 );
+	m_button6 = new wxButton( this, 12 , _("HW +6"), wxDefaultPosition, wxSize( 40,-1 ), 0 );
 	bSizer3->Add( m_button6, 0, wxALL, 5 );
 
 	m_button6->Connect( wxEVT_COMMAND_BUTTON_CLICKED,
