@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tcurrent_pi 3.2.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-05-23 14:33+0100\n"
+"POT-Creation-Date: 2014-05-24 05:03+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -51,10 +51,50 @@ msgstr ""
 msgid "HW-6"
 msgstr ""
 
+#: src/tcurrentUIDialog.cpp:219
+msgid "HW-5"
+msgstr ""
+
+#: src/tcurrentUIDialog.cpp:220
+msgid "HW-4"
+msgstr ""
+
+#: src/tcurrentUIDialog.cpp:221
+msgid "HW-3"
+msgstr ""
+
+#: src/tcurrentUIDialog.cpp:222
+msgid "HW-2"
+msgstr ""
+
+#: src/tcurrentUIDialog.cpp:223
+msgid "HW-1"
+msgstr ""
+
 #: src/tcurrentUIDialog.cpp:224 src/tcurrentUIDialog.cpp:252
 #: src/tcurrentUIDialog.cpp:267 src/tcurrentUIDialog.cpp:463
 #: src/tcurrentUIDialog.cpp:1170
 msgid "High Water"
+msgstr ""
+
+#: src/tcurrentUIDialog.cpp:225
+msgid "HW+1"
+msgstr ""
+
+#: src/tcurrentUIDialog.cpp:226
+msgid "HW+2"
+msgstr ""
+
+#: src/tcurrentUIDialog.cpp:227
+msgid "HW+3"
+msgstr ""
+
+#: src/tcurrentUIDialog.cpp:228
+msgid "HW+4"
+msgstr ""
+
+#: src/tcurrentUIDialog.cpp:229
+msgid "HW+5"
 msgstr ""
 
 #: src/tcurrentUIDialog.cpp:230

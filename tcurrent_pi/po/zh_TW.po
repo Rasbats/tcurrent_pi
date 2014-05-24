@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: grib_pi 3.3.814\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-05-23 14:33+0100\n"
+"POT-Creation-Date: 2014-05-24 05:03+0100\n"
 "PO-Revision-Date: 2013-09-25 15:53+0800\n"
 "Last-Translator: Eddie Pai <eddie.pai@gmail.com>\n"
 "Language-Team: Eddie Pai <eddie.pai@gmail.com>\n"
@@ -59,7 +59,37 @@ msgstr ""
 msgid "HW -6"
 msgstr ""
 #
+msgid "HW+1"
+msgstr ""
+#
+msgid "HW+2"
+msgstr ""
+#
+msgid "HW+3"
+msgstr ""
+#
+msgid "HW+4"
+msgstr ""
+#
+msgid "HW+5"
+msgstr ""
+#
 msgid "HW+6"
+msgstr ""
+#
+msgid "HW-1"
+msgstr ""
+#
+msgid "HW-2"
+msgstr ""
+#
+msgid "HW-3"
+msgstr ""
+#
+msgid "HW-4"
+msgstr ""
+#
+msgid "HW-5"
 msgstr ""
 #
 msgid "HW-6"
@@ -215,8 +245,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid " (Dup)"
 #~ msgstr " (Dup)"
+#
 #
 #
 #
@@ -232,8 +264,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Air Temp"
 #~ msgstr "大氣溫度"
+#
 #
 #
 #
@@ -247,6 +281,7 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Barbed Arrows"
 #~ msgstr "箭頭"
 #
@@ -254,8 +289,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Building Isobar map"
 #~ msgstr "建立等壓線圖"
+#
 #
 #
 #
@@ -272,8 +309,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Cloud"
 #~ msgstr "雲"
+#
 #
 #
 #
@@ -309,6 +348,7 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Colors"
 #~ msgstr "顏色"
 #
@@ -316,8 +356,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Copy First Cumulative Missing Record"
 #~ msgstr "複製首先累積遺失的記錄"
+#
 #
 #
 #
@@ -331,8 +373,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Current"
 #~ msgstr "海流"
+#
 #
 #
 #
@@ -352,8 +396,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Days"
 #~ msgstr "天"
+#
 #
 #
 #
@@ -368,6 +414,7 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Direction Arrows"
 #~ msgstr "方向箭頭"
 #
@@ -375,8 +422,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Display"
 #~ msgstr "顯示"
+#
 #
 #
 #
@@ -390,9 +439,11 @@ msgstr "海流"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Display Isobars"
 #~ msgstr "顯示"
+#
 #
 #
 #
@@ -408,8 +459,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Error"
 #~ msgstr "錯誤"
+#
 #
 #
 #
@@ -423,8 +476,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Error:  File does not exist!"
 #~ msgstr "錯誤: 檔案不存在!"
+#
 #
 #
 #
@@ -439,8 +494,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Fahrenheit"
 #~ msgstr "華氏"
+#
 #
 #
 #
@@ -455,8 +512,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Feet"
 #~ msgstr "英呎"
+#
 #
 #
 #
@@ -500,8 +559,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "GRIB File Directory"
 #~ msgstr "GRIB 檔案目錄"
+#
 #
 #
 #
@@ -516,6 +577,7 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Grib"
 #~ msgstr "Grib"
 #
@@ -523,8 +585,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Inches"
 #~ msgstr "英吋"
+#
 #
 #
 #
@@ -539,8 +603,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Interval"
 #~ msgstr "間隔"
+#
 #
 #
 #
@@ -556,8 +622,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "KPH"
 #~ msgstr "每小時公里"
+#
 #
 #
 #
@@ -571,8 +639,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Local Time"
 #~ msgstr "本地時間"
+#
 #
 #
 #
@@ -587,8 +657,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "M/S"
 #~ msgstr "公尺/秒"
+#
 #
 #
 #
@@ -604,8 +676,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "MPH"
 #~ msgstr "每小時英哩"
+#
 #
 #
 #
@@ -621,9 +695,11 @@ msgstr "海流"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Mail To "
 #~ msgstr "送郵件給"
+#
 #
 #
 #
@@ -636,8 +712,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "MilliBars"
 #~ msgstr "毫巴"
+#
 #
 #
 #
@@ -652,8 +730,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "MyLabel"
 #~ msgstr "我的標籤"
+#
 #
 #
 #
@@ -666,8 +746,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Numbers"
 #~ msgstr "Numbers"
+#
 #
 #
 #
@@ -682,8 +764,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "OpenCpn failed to logon! Please verify your eMail environment"
 #~ msgstr "OpenCPN 登入失敗! 請檢查您的電子郵件設定"
+#
 #
 #
 #
@@ -692,6 +776,7 @@ msgstr "海流"
 #, fuzzy
 #~ msgid "Overlay Transparency"
 #~ msgstr "疊圖"
+#
 #
 #
 #
@@ -707,8 +792,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Parameters"
 #~ msgstr "參數"
+#
 #
 #
 #
@@ -724,6 +811,7 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Period"
 #~ msgstr "週期"
 #
@@ -731,8 +819,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Play"
 #~ msgstr "播放"
+#
 #
 #
 #
@@ -752,9 +842,11 @@ msgstr "海流"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Air Temp.(2m) GRIB"
 #~ msgstr "請放大畫面以顯示 suppressed SEATEMP GRIB"
+#
 #
 #
 #
@@ -780,9 +872,11 @@ msgstr "海流"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Clouds Cover GRIB"
 #~ msgstr "請放大畫面以顯示 suppressed OCEAN CURRENT GRIB"
+#
 #
 #
 #
@@ -806,9 +900,11 @@ msgstr "海流"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Total Rainfall GRIB"
 #~ msgstr "請放大畫面以顯示 suppressed CRAIN GRIB"
+#
 #
 #
 #
@@ -824,8 +920,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Pressure"
 #~ msgstr "氣壓"
+#
 #
 #
 #
@@ -846,8 +944,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Quickscat"
 #~ msgstr "Quickscat"
+#
 #
 #
 #
@@ -856,6 +956,7 @@ msgstr "海流"
 #, fuzzy
 #~ msgid "Rainfall"
 #~ msgstr "雨"
+#
 #
 #
 #
@@ -871,8 +972,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Ref : "
 #~ msgstr "參考:"
+#
 #
 #
 #
@@ -888,8 +991,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Request Pofile"
 #~ msgstr "請求設定檔"
+#
 #
 #
 #
@@ -912,8 +1017,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Sea Temp"
 #~ msgstr "海水溫度"
+#
 #
 #
 #
@@ -929,8 +1036,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "SeaTemp"
 #~ msgstr "海水溫度"
+#
 #
 #
 #
@@ -946,6 +1055,7 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Send"
 #~ msgstr "發送"
 #
@@ -953,8 +1063,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Settings"
 #~ msgstr "設定"
+#
 #
 #
 #
@@ -999,9 +1111,11 @@ msgstr "海流"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Sign.Wave Height"
 #~ msgstr "Significant波高, m"
+#
 #
 #
 #
@@ -1014,8 +1128,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Slices per Update"
 #~ msgstr "分隔每個更新"
+#
 #
 #
 #
@@ -1028,6 +1144,7 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Spacing"
 #~ msgstr "間距"
 #
@@ -1035,8 +1152,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Stop"
 #~ msgstr "停止"
+#
 #
 #
 #
@@ -1051,8 +1170,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Units"
 #~ msgstr "單位"
+#
 #
 #
 #
@@ -1065,8 +1186,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Use Gradual Colors"
 #~ msgstr "使用漸層顏色"
+#
 #
 #
 #
@@ -1108,8 +1231,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "WARNING:  QuickScat GRIB data is %d hours old."
 #~ msgstr "警告:  QuickScat GRIB 資料為 %d 小時前資料."
+#
 #
 #
 #
@@ -1124,9 +1249,11 @@ msgstr "海流"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "WavesModel"
 #~ msgstr "模型"
+#
 #
 #
 #
@@ -1145,9 +1272,11 @@ msgstr "海流"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Wind Direction(10m)"
 #~ msgstr "風向"
+#
 #
 #
 #
@@ -1162,8 +1291,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Wind Scat"
 #~ msgstr "Wind Scat"
+#
 #
 #
 #
@@ -1187,9 +1318,11 @@ msgstr "海流"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Wind Speed(10m)"
 #~ msgstr "風速,  Kts."
+#
 #
 #
 #
@@ -1204,6 +1337,7 @@ msgstr "海流"
 #~ msgstr ""
 #~ "您的請求電子郵件已準備完成. 按下'發送'鍵來傳送.\n"
 #~ "按OK繼續 ..."
+#
 #
 #
 #
@@ -1226,8 +1360,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "Zone"
 #~ msgstr "區域"
+#
 #
 #
 #
@@ -1242,6 +1378,7 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "mmHG"
 #~ msgstr "毫米水銀柱"
 #
@@ -1249,8 +1386,10 @@ msgstr "海流"
 #
 #
 #
+#
 #~ msgid "playback"
 #~ msgstr "播放"
+#
 #
 #
 #
@@ -1277,9 +1416,11 @@ msgstr "海流"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "tcurrent Data at Cursor"
 #~ msgstr "游標位置的 GRIB 資料"
+#
 #
 #
 #
@@ -1306,6 +1447,7 @@ msgstr "海流"
 #~ "- significant波高\n"
 #~ "- 海平面溫度\n"
 #~ "- 海面流向與流速."
+#
 #
 #
 #

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: grib_pi 2.6.1718\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-05-23 14:33+0100\n"
+"POT-Creation-Date: 2014-05-24 05:03+0100\n"
 "PO-Revision-Date: 2013-01-10 15:09+0100\n"
 "Last-Translator: opencpn.es <opencpn.es@gmx.com>\n"
 "Language-Team: SpanishTeam LaTabernadelPuerto.com <opencpn.es@gmx.com>\n"
@@ -59,7 +59,37 @@ msgstr ""
 msgid "HW -6"
 msgstr ""
 #
+msgid "HW+1"
+msgstr ""
+#
+msgid "HW+2"
+msgstr ""
+#
+msgid "HW+3"
+msgstr ""
+#
+msgid "HW+4"
+msgstr ""
+#
+msgid "HW+5"
+msgstr ""
+#
 msgid "HW+6"
+msgstr ""
+#
+msgid "HW-1"
+msgstr ""
+#
+msgid "HW-2"
+msgstr ""
+#
+msgid "HW-3"
+msgstr ""
+#
+msgid "HW-4"
+msgstr ""
+#
+msgid "HW-5"
 msgstr ""
 #
 msgid "HW-6"
@@ -251,9 +281,11 @@ msgstr "Velocidad Actual, Nds."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Colors"
 #~ msgstr "&Cerrar"
+#
 #
 #
 #
@@ -274,9 +306,11 @@ msgstr "Velocidad Actual, Nds."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Data Display Preferences"
 #~ msgstr "Preferencias GRIB"
+#
 #
 #
 #
@@ -323,8 +357,10 @@ msgstr "Velocidad Actual, Nds."
 #
 #
 #
+#
 #~ msgid "GRIB File Directory"
 #~ msgstr "Carpeta Ficheros GRIB"
+#
 #
 #
 #
@@ -340,9 +376,11 @@ msgstr "Velocidad Actual, Nds."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view invisible overlays:"
 #~ msgstr "Ajuste Zoom o Escala para ver HTSGW GRIB eliminado"
+#
 #
 #
 #
@@ -370,9 +408,11 @@ msgstr "Velocidad Actual, Nds."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed CURRENT GRIB"
 #~ msgstr "Ajuste Zoom o Escala para ver CRAIN GRIB eliminado"
+#
 #
 #
 #
@@ -400,9 +440,11 @@ msgstr "Velocidad Actual, Nds."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Sea Surf.Temp. GRIB"
 #~ msgstr "Ajuste Zoom o Escala para ver SEATEMP GRIB eliminado"
+#
 #
 #
 #
@@ -425,9 +467,11 @@ msgstr "Velocidad Actual, Nds."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Pressure"
 #~ msgstr "Presión, mBar"
+#
 #
 #
 #
@@ -458,6 +502,7 @@ msgstr "Velocidad Actual, Nds."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Sea Temp"
 #~ msgstr "Temperatura Superficie Mar, C"
@@ -468,9 +513,11 @@ msgstr "Velocidad Actual, Nds."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Select a tcurrent file"
 #~ msgstr "Seleccionar Carpeta GRIB"
+#
 #
 #
 #
@@ -539,8 +586,10 @@ msgstr "Velocidad Actual, Nds."
 #
 #
 #
+#
 #~ msgid "Show metres/sec for Wind Speed"
 #~ msgstr "Mostrar metros/seg para Velocidad Viento"
+#
 #
 #
 #
@@ -563,8 +612,10 @@ msgstr "Velocidad Actual, Nds."
 #
 #
 #
+#
 #~ msgid "Use High Definition Graphics"
 #~ msgstr "Usar Gráficos Alta Definición"
+#
 #
 #
 #
@@ -592,6 +643,7 @@ msgstr "Velocidad Actual, Nds."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Wind Speed and Direction(10m)"
 #~ msgstr "Dirección Viento"
@@ -607,9 +659,11 @@ msgstr "Velocidad Actual, Nds."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Wind Speed(10m)"
 #~ msgstr "Velocidad Viento, m/seg."
+#
 #
 #
 #
@@ -665,9 +719,11 @@ msgstr "Velocidad Actual, Nds."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "tcdata"
 #~ msgstr "Datos GRIB"
+#
 #
 #
 #

@@ -216,17 +216,17 @@ void tcurrentUIDialog::OpenFile(bool newestFile)
 	m_myChoice = 0;
 
 	label_array[0] = _("HW-6");
-	label_array[1] = wxT("HW-5");
-	label_array[2] = wxT("HW-4");
-	label_array[3] = wxT("HW-3");
-	label_array[4] = wxT("HW-2");
-	label_array[5] = wxT("HW-1");
+	label_array[1] = _("HW-5");
+	label_array[2] = _("HW-4");
+	label_array[3] = _("HW-3");
+	label_array[4] = _("HW-2");
+	label_array[5] = _("HW-1");
 	label_array[6] = _("High Water");
-	label_array[7] = wxT("HW+1");
-	label_array[8] = wxT("HW+2");
-	label_array[9] = wxT("HW+3");
-	label_array[10] = wxT("HW+4");
-	label_array[11] = wxT("HW+5");
+	label_array[7] = _("HW+1");
+	label_array[8] = _("HW+2");
+	label_array[9] = _("HW+3");
+	label_array[10] = _("HW+4");
+	label_array[11] = _("HW+5");
 	label_array[12] = _("HW+6");
 
 }

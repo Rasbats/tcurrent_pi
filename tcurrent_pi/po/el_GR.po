@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: grib_pi 2.2.1207\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-05-23 14:33+0100\n"
+"POT-Creation-Date: 2014-05-24 05:03+0100\n"
 "PO-Revision-Date: 2010-12-20 18:23+0200\n"
 "Last-Translator: ΓΙΑΝΝΗΣ <ogog1@otenet.gr>\n"
 "Language-Team: \n"
@@ -57,7 +57,37 @@ msgstr ""
 msgid "HW -6"
 msgstr ""
 #
+msgid "HW+1"
+msgstr ""
+#
+msgid "HW+2"
+msgstr ""
+#
+msgid "HW+3"
+msgstr ""
+#
+msgid "HW+4"
+msgstr ""
+#
+msgid "HW+5"
+msgstr ""
+#
 msgid "HW+6"
+msgstr ""
+#
+msgid "HW-1"
+msgstr ""
+#
+msgid "HW-2"
+msgstr ""
+#
+msgid "HW-3"
+msgstr ""
+#
+msgid "HW-4"
+msgstr ""
+#
+msgid "HW-5"
 msgstr ""
 #
 msgid "HW-6"
@@ -246,9 +276,11 @@ msgstr "Τρέχουσα Ταχύτητα, Kts. "
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Colors"
 #~ msgstr "&Κλείσιμο"
+#
 #
 #
 #
@@ -268,9 +300,11 @@ msgstr "Τρέχουσα Ταχύτητα, Kts. "
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Data Display Preferences"
 #~ msgstr "Ιδιότητες GRIB"
+#
 #
 #
 #
@@ -314,6 +348,7 @@ msgstr "Τρέχουσα Ταχύτητα, Kts. "
 #
 #
 #
+#
 #~ msgid "GRIB File Directory"
 #~ msgstr "Φάκελος Αρχείων GRIB"
 #
@@ -323,8 +358,10 @@ msgstr "Τρέχουσα Ταχύτητα, Kts. "
 #
 #
 #
+#
 #~ msgid "Grib"
 #~ msgstr "Grib"
+#
 #
 #
 #
@@ -344,9 +381,11 @@ msgstr "Τρέχουσα Ταχύτητα, Kts. "
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Air Temp.(2m) GRIB"
 #~ msgstr "Παρακαλώ μεγένθυνε ή σμίκρυνε για να δείς καλυμμένα SEATEMP GRIB"
+#
 #
 #
 #
@@ -373,10 +412,12 @@ msgstr "Τρέχουσα Ταχύτητα, Kts. "
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Clouds Cover GRIB"
 #~ msgstr ""
 #~ "Παρακαλώ μεγένθυνε ή σμίκρυνε για να δείς καλυμμένα OCEAN CURRENT GRIB"
+#
 #
 #
 #
@@ -400,6 +441,7 @@ msgstr "Τρέχουσα Ταχύτητα, Kts. "
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Total Rainfall GRIB"
 #~ msgstr "Παρακαλώ μεγένθυνε ή σμίκρυνε για να δείς καλυμμένα CRAIN GRIB"
@@ -409,9 +451,11 @@ msgstr "Τρέχουσα Ταχύτητα, Kts. "
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Pressure"
 #~ msgstr "Ατμ. Πίεση, mBar"
+#
 #
 #
 #
@@ -439,6 +483,7 @@ msgstr "Τρέχουσα Ταχύτητα, Kts. "
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Sea Temp"
 #~ msgstr "Θερμοκρασία Επιφανείας, C "
@@ -448,9 +493,11 @@ msgstr "Τρέχουσα Ταχύτητα, Kts. "
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Select a tcurrent file"
 #~ msgstr "Διάλεξε φάκελο αρχείων GRIB"
+#
 #
 #
 #
@@ -495,6 +542,7 @@ msgstr "Τρέχουσα Ταχύτητα, Kts. "
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Sign.Wave Height"
 #~ msgstr "Διακριτό ύψος Κύματος, m(μέτρα) "
@@ -504,8 +552,10 @@ msgstr "Τρέχουσα Ταχύτητα, Kts. "
 #
 #
 #
+#
 #~ msgid "Use High Definition Graphics"
 #~ msgstr "Χρησιμοποίησε Γραφικά Υψηλής Ευκρίνιας"
+#
 #
 #
 #
@@ -553,9 +603,11 @@ msgstr "Τρέχουσα Ταχύτητα, Kts. "
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Wind Direction(10m)"
 #~ msgstr "Διεύθυνση Ανέμου"
+#
 #
 #
 #
@@ -579,9 +631,11 @@ msgstr "Τρέχουσα Ταχύτητα, Kts. "
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Wind Speed(10m)"
 #~ msgstr "Ταχύτητα Ανέμου, Kts"
+#
 #
 #
 #
@@ -634,9 +688,11 @@ msgstr "Τρέχουσα Ταχύτητα, Kts. "
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "tcdata"
 #~ msgstr "Στοιχεία GRIB"
+#
 #
 #
 #

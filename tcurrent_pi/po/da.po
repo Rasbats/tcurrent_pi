@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Open CPN 1.3.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-05-23 14:33+0100\n"
+"POT-Creation-Date: 2014-05-24 05:03+0100\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Ole E. Mikkelsen <oem@live.dk>\n"
 "Language-Team: \n"
@@ -54,7 +54,37 @@ msgstr ""
 msgid "HW -6"
 msgstr ""
 #
+msgid "HW+1"
+msgstr ""
+#
+msgid "HW+2"
+msgstr ""
+#
+msgid "HW+3"
+msgstr ""
+#
+msgid "HW+4"
+msgstr ""
+#
+msgid "HW+5"
+msgstr ""
+#
 msgid "HW+6"
+msgstr ""
+#
+msgid "HW-1"
+msgstr ""
+#
+msgid "HW-2"
+msgstr ""
+#
+msgid "HW-3"
+msgstr ""
+#
+msgid "HW-4"
+msgstr ""
+#
+msgid "HW-5"
 msgstr ""
 #
 msgid "HW-6"
@@ -225,6 +255,7 @@ msgstr "Hastighed, knob"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Colors"
 #~ msgstr "&Luk"
@@ -235,9 +266,11 @@ msgstr "Hastighed, knob"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Current"
 #~ msgstr "Hastighed, knob"
+#
 #
 #
 #
@@ -284,8 +317,10 @@ msgstr "Hastighed, knob"
 #
 #
 #
+#
 #~ msgid "GRIB File Directory"
 #~ msgstr "Meteorologi(GRIB) folder"
+#
 #
 #
 #
@@ -308,9 +343,11 @@ msgstr "Hastighed, knob"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Air Temp.(2m) GRIB"
 #~ msgstr "Zoom eller skaler ud for at se skjult HTSGW GRIB"
+#
 #
 #
 #
@@ -340,9 +377,11 @@ msgstr "Hastighed, knob"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Clouds Cover GRIB"
 #~ msgstr "Zoom eller skaler ud for at se skjult CRAIN GRIB"
+#
 #
 #
 #
@@ -370,6 +409,7 @@ msgstr "Hastighed, knob"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Total Rainfall GRIB"
 #~ msgstr "Zoom eller skaler ud for at se skjult CRAIN GRIB"
@@ -380,9 +420,11 @@ msgstr "Hastighed, knob"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Pressure"
 #~ msgstr "Tryk, mBar"
+#
 #
 #
 #
@@ -413,6 +455,7 @@ msgstr "Hastighed, knob"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Sea Temp"
 #~ msgstr "Havoverflade temperatur, C"
@@ -423,9 +466,11 @@ msgstr "Hastighed, knob"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Select a tcurrent file"
 #~ msgstr "Meteorologi(GRIB) folder"
+#
 #
 #
 #
@@ -474,6 +519,7 @@ msgstr "Hastighed, knob"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Sign.Wave Height"
 #~ msgstr "Signifikant bølgehøjde, m"
@@ -484,8 +530,10 @@ msgstr "Hastighed, knob"
 #
 #
 #
+#
 #~ msgid "Use High Definition Graphics"
 #~ msgstr "Brug højopløsningsgrafik"
+#
 #
 #
 #
@@ -535,6 +583,7 @@ msgstr "Hastighed, knob"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Wind Direction(10m)"
 #~ msgstr "Vindretning"
@@ -550,9 +599,11 @@ msgstr "Hastighed, knob"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Wind Speed and Direction(10m)"
 #~ msgstr "Vindretning"
+#
 #
 #
 #
@@ -602,8 +653,10 @@ msgstr "Hastighed, knob"
 #
 #
 #
+#
 #~ msgid "Wind Speed, Kts."
 #~ msgstr "Vindhastighed, knob"
+#
 #
 #
 #

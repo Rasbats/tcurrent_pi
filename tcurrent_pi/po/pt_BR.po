@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: opencpn 2.1.0b620\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-05-23 14:33+0100\n"
+"POT-Creation-Date: 2014-05-24 05:03+0100\n"
 "PO-Revision-Date: 2010-06-25 19:44-0300\n"
 "Last-Translator: Eloi Barros <eloibarros@hotmail.com>\n"
 "Language-Team: \n"
@@ -61,7 +61,37 @@ msgstr ""
 msgid "HW -6"
 msgstr ""
 #
+msgid "HW+1"
+msgstr ""
+#
+msgid "HW+2"
+msgstr ""
+#
+msgid "HW+3"
+msgstr ""
+#
+msgid "HW+4"
+msgstr ""
+#
+msgid "HW+5"
+msgstr ""
+#
 msgid "HW+6"
+msgstr ""
+#
+msgid "HW-1"
+msgstr ""
+#
+msgid "HW-2"
+msgstr ""
+#
+msgid "HW-3"
+msgstr ""
+#
+msgid "HW-4"
+msgstr ""
+#
+msgid "HW-5"
 msgstr ""
 #
 msgid "HW-6"
@@ -232,6 +262,7 @@ msgstr "Velocidade da Corrente, Nós."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Colors"
 #~ msgstr "Fechar"
@@ -242,9 +273,11 @@ msgstr "Velocidade da Corrente, Nós."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Current"
 #~ msgstr "Velocidade da Corrente, Nós."
+#
 #
 #
 #
@@ -291,8 +324,10 @@ msgstr "Velocidade da Corrente, Nós."
 #
 #
 #
+#
 #~ msgid "GRIB File Directory"
 #~ msgstr "Diretório de Arquivos GRIB"
+#
 #
 #
 #
@@ -315,9 +350,11 @@ msgstr "Velocidade da Corrente, Nós."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Air Temp.(2m) GRIB"
 #~ msgstr "Por favor Afaste ou Diminua a Escala para ver SEATEMP GRIB suprimido"
+#
 #
 #
 #
@@ -348,10 +385,12 @@ msgstr "Velocidade da Corrente, Nós."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Clouds Cover GRIB"
 #~ msgstr ""
 #~ "Por favor Afaste ou Diminua a Escala para ver OCEAN CURRENT GRIB suprimido"
+#
 #
 #
 #
@@ -379,6 +418,7 @@ msgstr "Velocidade da Corrente, Nós."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Total Rainfall GRIB"
 #~ msgstr "Por favor Afaste ou Diminua a Escala para ver CRAIN GRIB suprimido"
@@ -389,9 +429,11 @@ msgstr "Velocidade da Corrente, Nós."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Pressure"
 #~ msgstr "Pressão, hPa"
+#
 #
 #
 #
@@ -422,6 +464,7 @@ msgstr "Velocidade da Corrente, Nós."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Sea Temp"
 #~ msgstr "Temperatura da Superfície do Mar, C"
@@ -432,9 +475,11 @@ msgstr "Velocidade da Corrente, Nós."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Select a tcurrent file"
 #~ msgstr "Selecionar Diretório de Arquivos GRIB"
+#
 #
 #
 #
@@ -483,6 +528,7 @@ msgstr "Velocidade da Corrente, Nós."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Sign.Wave Height"
 #~ msgstr "Altura Significativa das Ondas, m"
@@ -493,8 +539,10 @@ msgstr "Velocidade da Corrente, Nós."
 #
 #
 #
+#
 #~ msgid "Use High Definition Graphics"
 #~ msgstr "Usar Gráficos de Alta Definição"
+#
 #
 #
 #
@@ -544,6 +592,7 @@ msgstr "Velocidade da Corrente, Nós."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Wind Direction(10m)"
 #~ msgstr "Direção do Vento"
@@ -559,9 +608,11 @@ msgstr "Velocidade da Corrente, Nós."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Wind Speed and Direction(10m)"
 #~ msgstr "Direção do Vento"
+#
 #
 #
 #
@@ -611,8 +662,10 @@ msgstr "Velocidade da Corrente, Nós."
 #
 #
 #
+#
 #~ msgid "Wind Speed, Kts."
 #~ msgstr "Veloc. do Vento, Nós"
+#
 #
 #
 #
