@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: opencpn 2.1.622\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-05-24 05:03+0100\n"
+"POT-Creation-Date: 2014-06-03 07:09+0100\n"
 "PO-Revision-Date: 2011-01-09 19:25+0200\n"
 "Last-Translator: Peep Prants <peep@prants.ee>\n"
 "Language-Team: OpenCPN ET <LL@li.org>\n"
@@ -15,9 +15,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-#
-msgid " "
-msgstr ""
 #
 #
 #, fuzzy
@@ -275,9 +272,11 @@ msgstr "Praegune kiirus, sõlme"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Colors"
 #~ msgstr "&Sulge"
+#
 #
 #
 #
@@ -299,9 +298,11 @@ msgstr "Praegune kiirus, sõlme"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Data Display Preferences"
 #~ msgstr "GRIP Seaded"
+#
 #
 #
 #
@@ -348,6 +349,7 @@ msgstr "Praegune kiirus, sõlme"
 #
 #
 #
+#
 #~ msgid "GRIB File Directory"
 #~ msgstr "GRIB faili asukoht"
 #
@@ -357,8 +359,10 @@ msgstr "Praegune kiirus, sõlme"
 #
 #
 #
+#
 #~ msgid "Grib"
 #~ msgstr "Grib"
+#
 #
 #
 #
@@ -381,9 +385,11 @@ msgstr "Praegune kiirus, sõlme"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Air Temp.(2m) GRIB"
 #~ msgstr "Palun vähenda mõõtkava nägemaks peidetud MERETEMPERATUURI"
+#
 #
 #
 #
@@ -413,9 +419,11 @@ msgstr "Praegune kiirus, sõlme"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Clouds Cover GRIB"
 #~ msgstr "Palun vähenda mõõtkava nägemaks peidetud OOKEANI MOMENDI ILMA"
+#
 #
 #
 #
@@ -443,6 +451,7 @@ msgstr "Praegune kiirus, sõlme"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Total Rainfall GRIB"
 #~ msgstr "Palun vähenda mõõtkava nägemaks peidetud CRAIN ILMA"
@@ -453,9 +462,11 @@ msgstr "Praegune kiirus, sõlme"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Pressure"
 #~ msgstr "Õhurõhk, mBar"
+#
 #
 #
 #
@@ -486,6 +497,7 @@ msgstr "Praegune kiirus, sõlme"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Sea Temp"
 #~ msgstr "Veepinna temperatuur, C"
@@ -496,9 +508,11 @@ msgstr "Praegune kiirus, sõlme"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Select a tcurrent file"
 #~ msgstr "Vali GRIB-i asukoht"
+#
 #
 #
 #
@@ -547,6 +561,7 @@ msgstr "Praegune kiirus, sõlme"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Sign.Wave Height"
 #~ msgstr "Oluline laine kõrgus, m"
@@ -557,8 +572,10 @@ msgstr "Praegune kiirus, sõlme"
 #
 #
 #
+#
 #~ msgid "Use High Definition Graphics"
 #~ msgstr "Kasuta kõrgresulutsioonil graafikat"
+#
 #
 #
 #
@@ -608,9 +625,11 @@ msgstr "Praegune kiirus, sõlme"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Wind Direction(10m)"
 #~ msgstr "Tuule suund"
+#
 #
 #
 #
@@ -638,9 +657,11 @@ msgstr "Praegune kiirus, sõlme"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Wind Speed(10m)"
 #~ msgstr "Tuule kiirus, sõlmedes"
+#
 #
 #
 #
@@ -696,9 +717,11 @@ msgstr "Praegune kiirus, sõlme"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "tcdata"
 #~ msgstr "GRIB-i andmed"
+#
 #
 #
 #

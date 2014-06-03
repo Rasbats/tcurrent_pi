@@ -3,14 +3,12 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#: src/tcurrentUIDialog.cpp:240 src/tcurrentUIDialog.cpp:597
-#: src/tcurrentUIDialog.cpp:1172
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: tcurrent_pi 3.2.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-05-24 05:03+0100\n"
+"POT-Creation-Date: 2014-06-03 07:09+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -151,10 +149,6 @@ msgstr ""
 
 #: src/tcurrentUIDialog.cpp:764 src/tcurrentUIDialog.cpp:772
 msgid "LW"
-msgstr ""
-
-#: src/tcurrentUIDialog.cpp:767
-msgid " "
 msgstr ""
 
 #: src/tcurrentUIDialog.cpp:1414

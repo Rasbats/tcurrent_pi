@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-05-24 05:03+0100\n"
+"POT-Creation-Date: 2014-06-03 07:09+0100\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Marco Certelli <marco_certelli@yahoo.it>\n"
 "Language-Team: \n"
@@ -12,9 +12,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-Language: Italian\n"
 "X-Poedit-Country: ITALY\n"
-#
-msgid " "
-msgstr ""
 #
 #
 #
@@ -278,9 +275,11 @@ msgstr "Velocità Corrente (nodi)"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Colors"
 #~ msgstr "&Chiudi"
+#
 #
 #
 #
@@ -303,9 +302,11 @@ msgstr "Velocità Corrente (nodi)"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Data Display Preferences"
 #~ msgstr "Preferenze GRIB"
+#
 #
 #
 #
@@ -354,6 +355,7 @@ msgstr "Velocità Corrente (nodi)"
 #
 #
 #
+#
 #~ msgid "GRIB File Directory"
 #~ msgstr "Cartella dei File GRIB"
 #
@@ -363,8 +365,10 @@ msgstr "Velocità Corrente (nodi)"
 #
 #
 #
+#
 #~ msgid "Grib"
 #~ msgstr "Mostra Pannello GRIB"
+#
 #
 #
 #
@@ -389,9 +393,11 @@ msgstr "Velocità Corrente (nodi)"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Air Temp.(2m) GRIB"
 #~ msgstr "Zoom out o riduci scala per vedere SEATEMP soppressi"
+#
 #
 #
 #
@@ -423,9 +429,11 @@ msgstr "Velocità Corrente (nodi)"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Clouds Cover GRIB"
 #~ msgstr "Zoom out o riduci scala per vedere OCEAN CURRENT soppressi"
+#
 #
 #
 #
@@ -455,6 +463,7 @@ msgstr "Velocità Corrente (nodi)"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Total Rainfall GRIB"
 #~ msgstr "Zoom out o riduci scala per vedere CRAIN GRIB soppressi"
@@ -466,9 +475,11 @@ msgstr "Velocità Corrente (nodi)"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Pressure"
 #~ msgstr "Pressione (hPa)"
+#
 #
 #
 #
@@ -501,6 +512,7 @@ msgstr "Velocità Corrente (nodi)"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Sea Temp"
 #~ msgstr "Temperatura Acqua (°C)"
@@ -512,9 +524,11 @@ msgstr "Velocità Corrente (nodi)"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Select a tcurrent file"
 #~ msgstr "Seleziona Cartella dei file GRIB"
+#
 #
 #
 #
@@ -565,6 +579,7 @@ msgstr "Velocità Corrente (nodi)"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Sign.Wave Height"
 #~ msgstr "Onda, Altezza Signific. (m)"
@@ -576,8 +591,10 @@ msgstr "Velocità Corrente (nodi)"
 #
 #
 #
+#
 #~ msgid "Use High Definition Graphics"
 #~ msgstr "Usa grafica ad alta definizione"
+#
 #
 #
 #
@@ -629,9 +646,11 @@ msgstr "Velocità Corrente (nodi)"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Wind Direction(10m)"
 #~ msgstr "Direzione Vento (gradi)"
+#
 #
 #
 #
@@ -661,9 +680,11 @@ msgstr "Velocità Corrente (nodi)"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Wind Speed(10m)"
 #~ msgstr "Velocità Vento (nodi)"
+#
 #
 #
 #
@@ -721,9 +742,11 @@ msgstr "Velocità Corrente (nodi)"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "tcdata"
 #~ msgstr "Dati GRIB"
+#
 #
 #
 #

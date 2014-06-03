@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenCPN version 3.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-05-24 05:03+0100\n"
+"POT-Creation-Date: 2014-06-03 07:09+0100\n"
 "PO-Revision-Date: 2013-10-20 22:24+0100\n"
 "Last-Translator: Anders Arnell <anders.arnell@bredband.net>\n"
 "Language-Team: AB Torsk & Bäver <anders.arnell@bredband.net>\n"
@@ -16,9 +16,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.5.7\n"
-#
-msgid " "
-msgstr ""
 #
 #, fuzzy
 msgid "/Settings/tcurrent"
@@ -236,8 +233,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid " (Dup)"
 #~ msgstr " (Dup)"
+#
 #
 #
 #
@@ -252,6 +251,7 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid " Mo )"
 #~ msgstr " MB)"
 #
@@ -260,8 +260,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "( Max "
 #~ msgstr "( Max "
+#
 #
 #
 #
@@ -278,8 +280,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "0.5"
 #~ msgstr "0.5"
+#
 #
 #
 #
@@ -296,8 +300,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "1"
 #~ msgstr "1"
+#
 #
 #
 #
@@ -314,8 +320,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "12"
 #~ msgstr "12"
+#
 #
 #
 #
@@ -332,8 +340,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "24"
 #~ msgstr "24"
+#
 #
 #
 #
@@ -350,8 +360,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "4"
 #~ msgstr "4"
+#
 #
 #
 #
@@ -368,6 +380,7 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "6"
 #~ msgstr "6"
 #
@@ -377,8 +390,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "7"
 #~ msgstr "7"
+#
 #
 #
 #
@@ -396,8 +411,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Action"
 #~ msgstr "Åtgärd"
+#
 #
 #
 #
@@ -414,6 +431,7 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Air Temperature"
 #~ msgstr "Lufttemperatur"
 #
@@ -422,8 +440,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Air Temperature(2m)"
 #~ msgstr "Lufttemperatur(2m)"
+#
 #
 #
 #
@@ -442,6 +462,7 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "AirTemperature"
 #~ msgstr "Lufttemperatur"
 #
@@ -450,8 +471,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Barbed Arrows"
 #~ msgstr "Pilar med hakar"
+#
 #
 #
 #
@@ -473,6 +496,7 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Building Isobar map"
 #~ msgstr "Skapar isobar-karta"
 #
@@ -482,8 +506,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "COAMPS"
 #~ msgstr "COAMPS"
+#
 #
 #
 #
@@ -502,8 +528,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Cloud"
 #~ msgstr "Moln"
+#
 #
 #
 #
@@ -520,8 +548,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "CloudCover"
 #~ msgstr "Molntäcke"
+#
 #
 #
 #
@@ -560,8 +590,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Colors"
 #~ msgstr "Färger"
+#
 #
 #
 #
@@ -576,6 +608,7 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Copy Missing Wave Records"
 #~ msgstr "Kopiera saknad våginformation"
 #
@@ -584,8 +617,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Current"
 #~ msgstr "Ström"
+#
 #
 #
 #
@@ -607,9 +642,11 @@ msgstr "Ström"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Data Display Preferences"
 #~ msgstr "GRIB Inställningar"
+#
 #
 #
 #
@@ -625,8 +662,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Days"
 #~ msgstr "Dagar"
+#
 #
 #
 #
@@ -641,6 +680,7 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Direction Arrows"
 #~ msgstr "Riktningspilar"
 #
@@ -649,8 +689,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Display"
 #~ msgstr "Visa"
+#
 #
 #
 #
@@ -667,8 +709,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Display Iso Temp. Lines"
 #~ msgstr "Visa Iso templinjer"
+#
 #
 #
 #
@@ -683,9 +727,11 @@ msgstr "Ström"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Display Isotachs"
 #~ msgstr "Visa Isobarer"
+#
 #
 #
 #
@@ -703,8 +749,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Error"
 #~ msgstr "Fel"
+#
 #
 #
 #
@@ -719,8 +767,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Error:  File does not exist!"
 #~ msgstr "Fel: Filen finns inte!"
+#
 #
 #
 #
@@ -735,8 +785,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Estimated File Size"
 #~ msgstr "Beräknad filstorlek"
+#
 #
 #
 #
@@ -753,6 +805,7 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Failed to send mail message"
 #~ msgstr "Mislyckades att skicka epost"
 #
@@ -761,8 +814,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Feet"
 #~ msgstr "Fot"
+#
 #
 #
 #
@@ -778,8 +833,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "GFS"
 #~ msgstr "GFS"
+#
 #
 #
 #
@@ -824,6 +881,7 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "GRIB File Directory"
 #~ msgstr "GRIB Filkatalog"
 #
@@ -832,8 +890,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Generic"
 #~ msgstr "Generell"
+#
 #
 #
 #
@@ -850,8 +910,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Grib"
 #~ msgstr "Grib"
+#
 #
 #
 #
@@ -866,8 +928,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Inches"
 #~ msgstr "Tum"
+#
 #
 #
 #
@@ -883,8 +947,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Interval"
 #~ msgstr "Intervall"
+#
 #
 #
 #
@@ -902,8 +968,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "KPH"
 #~ msgstr "km/t"
+#
 #
 #
 #
@@ -918,8 +986,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Load File Options"
 #~ msgstr "Inställningar för laddning av fil"
+#
 #
 #
 #
@@ -935,8 +1005,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Load the More Recent File in Directory"
 #~ msgstr "Ladda nyare fil i katalogen"
+#
 #
 #
 #
@@ -952,8 +1024,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Login you use to connect to Zygrib's forum"
 #~ msgstr "Inloggning som du använder för att ansluta till Zygrib's forum"
+#
 #
 #
 #
@@ -970,8 +1044,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "M/S"
 #~ msgstr "m/s"
+#
 #
 #
 #
@@ -988,8 +1064,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "MPH"
 #~ msgstr "mph"
+#
 #
 #
 #
@@ -1004,8 +1082,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Mail To "
 #~ msgstr "Epost Till"
+#
 #
 #
 #
@@ -1020,8 +1100,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "MilliBars"
 #~ msgstr "MilliBar"
+#
 #
 #
 #
@@ -1038,8 +1120,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "MyLabel"
 #~ msgstr "Egen beteckning"
+#
 #
 #
 #
@@ -1054,8 +1138,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Numbers"
 #~ msgstr "Nummer"
+#
 #
 #
 #
@@ -1072,6 +1158,7 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "OpenCpn failed to logon! Please verify your eMail environment"
 #~ msgstr "OpenCpn kunde inte logga in! Kontrollera din epostinställning"
 #
@@ -1080,8 +1167,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Overlay Transparency"
 #~ msgstr "Transparent väderinformation"
+#
 #
 #
 #
@@ -1098,8 +1187,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Parameters"
 #~ msgstr "Parametrar"
+#
 #
 #
 #
@@ -1116,8 +1207,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Period"
 #~ msgstr "Period"
+#
 #
 #
 #
@@ -1132,9 +1225,11 @@ msgstr "Ström"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view invisible overlays:"
 #~ msgstr "Zooma ut eller öka skalan för att visa GRIB "
+#
 #
 #
 #
@@ -1160,9 +1255,11 @@ msgstr "Ström"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed CURRENT GRIB"
 #~ msgstr "Zooma ut eller öka skalan för att visa GRIB regninformation"
+#
 #
 #
 #
@@ -1188,9 +1285,11 @@ msgstr "Ström"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Sea Surf.Temp. GRIB"
 #~ msgstr "Zooma ut eller öka skalan för att visa GRIB yttemperatur"
+#
 #
 #
 #
@@ -1213,6 +1312,7 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Precipitation"
 #~ msgstr "Nederbörd"
 #
@@ -1221,8 +1321,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Pressure"
 #~ msgstr "Lufttryck"
+#
 #
 #
 #
@@ -1243,8 +1345,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Profile"
 #~ msgstr "Profil"
+#
 #
 #
 #
@@ -1262,8 +1366,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "RTOFS"
 #~ msgstr "RTOFS"
+#
 #
 #
 #
@@ -1280,8 +1386,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Rainfall"
 #~ msgstr "Regn"
+#
 #
 #
 #
@@ -1298,8 +1406,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Ref : "
 #~ msgstr "Ref : "
+#
 #
 #
 #
@@ -1316,8 +1426,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Request Pofile"
 #~ msgstr "Begär Pofil"
+#
 #
 #
 #
@@ -1338,8 +1450,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Resolution"
 #~ msgstr "Upplösning"
+#
 #
 #
 #
@@ -1355,8 +1469,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Save"
 #~ msgstr "Spara"
+#
 #
 #
 #
@@ -1381,6 +1497,7 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Sea Temperature"
 #~ msgstr "Vattentemperatur"
 #
@@ -1389,8 +1506,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Sea Temperature(surf.)"
 #~ msgstr "Vattentemperatur(ytan)"
+#
 #
 #
 #
@@ -1409,8 +1528,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "SeaTemperature"
 #~ msgstr "Vattentemperatur"
+#
 #
 #
 #
@@ -1426,6 +1547,7 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Send"
 #~ msgstr "Skicka"
 #
@@ -1434,8 +1556,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Settings"
 #~ msgstr "Inställningar"
+#
 #
 #
 #
@@ -1504,8 +1628,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Show metres/sec for Wind Speed"
 #~ msgstr "Visa m/s för vindstyrka"
+#
 #
 #
 #
@@ -1526,8 +1652,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Size"
 #~ msgstr "Storlek"
+#
 #
 #
 #
@@ -1542,6 +1670,7 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Slices per hour"
 #~ msgstr "Antal delar/timme"
 #
@@ -1550,8 +1679,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Spacing"
 #~ msgstr "Avstånd"
+#
 #
 #
 #
@@ -1567,8 +1698,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Stop"
 #~ msgstr "Stopp"
+#
 #
 #
 #
@@ -1581,6 +1714,7 @@ msgstr "Ström"
 #~ msgstr ""
 #~ "Gränsen för filstorlek har överskridits!\n"
 #~ "Du kan zooma in och/eller ändra parametrar..."
+#
 #
 #
 #
@@ -1602,8 +1736,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Time Options"
 #~ msgstr "Tidsinställningar"
+#
 #
 #
 #
@@ -1618,8 +1754,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Units"
 #~ msgstr "Enhet"
+#
 #
 #
 #
@@ -1634,6 +1772,7 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Use Gradual Colors"
 #~ msgstr "Använd gradvisa färger"
 #
@@ -1642,8 +1781,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Use High Definition Graphics"
 #~ msgstr "Använd högupplöst grafik"
+#
 #
 #
 #
@@ -1660,6 +1801,7 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "WW3-MEDIT"
 #~ msgstr "WW3-MEDIT"
 #
@@ -1668,8 +1810,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Warning!"
 #~ msgstr "Varning"
+#
 #
 #
 #
@@ -1686,8 +1830,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Wave"
 #~ msgstr "Våghöjd"
+#
 #
 #
 #
@@ -1702,6 +1848,7 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "WavesModel"
 #~ msgstr "Vågmodell"
 #
@@ -1710,8 +1857,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Wind"
 #~ msgstr "Vind"
+#
 #
 #
 #
@@ -1732,6 +1881,7 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Wind Gust"
 #~ msgstr "Vindby"
 #
@@ -1742,8 +1892,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Wind Scat"
 #~ msgstr "Vind Scat"
+#
 #
 #
 #
@@ -1769,9 +1921,11 @@ msgstr "Ström"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Wind Speed(10m)"
 #~ msgstr "Vindstyrka, m/s."
+#
 #
 #
 #
@@ -1788,9 +1942,11 @@ msgstr "Ström"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Write and send eMail request"
 #~ msgstr "Spara och skicka inställningar för GRIB-begäran"
+#
 #
 #
 #
@@ -1807,6 +1963,7 @@ msgstr "Ström"
 #~ "Klicka 'Sänd' för att skicka meddelandet.\n"
 #~ "Spara eller Avbryt för att fortsätta... eller nya parametrar för ett nytt "
 #~ "meddelande"
+#
 #
 #
 #
@@ -1831,8 +1988,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "Zone"
 #~ msgstr "Zone"
+#
 #
 #
 #
@@ -1851,8 +2010,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "eMail error"
 #~ msgstr "epostfel"
+#
 #
 #
 #
@@ -1867,8 +2028,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "m/s"
 #~ msgstr "m/s"
+#
 #
 #
 #
@@ -1883,6 +2046,7 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "mph"
 #~ msgstr "mph"
 #
@@ -1891,8 +2055,10 @@ msgstr "Ström"
 #
 #
 #
+#
 #~ msgid "playback"
 #~ msgstr "Spela upp"
+#
 #
 #
 #
@@ -1920,6 +2086,7 @@ msgstr "Ström"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "tcdata"
 #~ msgstr "data"
@@ -1929,9 +2096,11 @@ msgstr "Ström"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "tcurrent Data at Cursor"
 #~ msgstr "GRIB-data vid markör"
+#
 #
 #
 #
@@ -1979,6 +2148,7 @@ msgstr "Ström"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "tcurrent Preferences"
 #~ msgstr "GRIB Inställningar"
@@ -1988,9 +2158,11 @@ msgstr "Ström"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "zytcurrent Code"
 #~ msgstr "Ditt ZyGrib lösenord"
+#
 #
 #
 #

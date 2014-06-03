@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: opencpn 3.1.1224\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-05-24 05:03+0100\n"
+"POT-Creation-Date: 2014-06-03 07:09+0100\n"
 "PO-Revision-Date: 2013-10-19 19:29+0100\n"
 "Last-Translator: CarCode <carcode@me.com>\n"
 "Language-Team: Gerhard Mueller <carcode@me.com>\n"
@@ -17,9 +17,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Generator: Poedit 1.5.7\n"
-#
-msgid " "
-msgstr ""
 #
 #, fuzzy
 msgid "/Settings/tcurrent"
@@ -236,8 +233,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid " (Dup)"
 #~ msgstr " (Doppl)"
+#
 #
 #
 #
@@ -252,6 +251,7 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid " Mo )"
 #~ msgstr " MB )"
 #
@@ -260,8 +260,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "( Max "
 #~ msgstr "( Max "
+#
 #
 #
 #
@@ -278,8 +280,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "0.5"
 #~ msgstr "0.5"
+#
 #
 #
 #
@@ -296,8 +300,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "1"
 #~ msgstr "1"
+#
 #
 #
 #
@@ -314,8 +320,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "12"
 #~ msgstr "12"
+#
 #
 #
 #
@@ -332,8 +340,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "24"
 #~ msgstr "24"
+#
 #
 #
 #
@@ -350,8 +360,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "4"
 #~ msgstr "4"
+#
 #
 #
 #
@@ -368,8 +380,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "6"
 #~ msgstr "6"
+#
 #
 #
 #
@@ -386,8 +400,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "8"
 #~ msgstr "8"
+#
 #
 #
 #
@@ -403,6 +419,7 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Air Temperature"
 #~ msgstr "Luft-Temperatur"
 #
@@ -411,8 +428,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Air Temperature(2m)"
 #~ msgstr "Luft-Temperatur (2m)"
+#
 #
 #
 #
@@ -429,6 +448,7 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "AirTemperature"
 #~ msgstr "Luft-Temperatur"
 #
@@ -437,8 +457,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Barbed Arrows"
 #~ msgstr "Pfeil-Federn"
+#
 #
 #
 #
@@ -459,8 +481,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Building Isobar map"
 #~ msgstr "Erzeuge Isobar-Karte"
+#
 #
 #
 #
@@ -477,8 +501,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Celcius"
 #~ msgstr "Celsius"
+#
 #
 #
 #
@@ -494,8 +520,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Cloud Cover"
 #~ msgstr "Bewölkung"
+#
 #
 #
 #
@@ -512,8 +540,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Clouds Cover"
 #~ msgstr "Bewölkung"
+#
 #
 #
 #
@@ -528,6 +558,7 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Copy First Cumulative Missing Record"
 #~ msgstr "Kopiere ersten fehlenden kumulativen Datensatz"
 #
@@ -536,8 +567,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Copy Missing Wave Records"
 #~ msgstr "Kopiere fehlende Wellen-Daten"
+#
 #
 #
 #
@@ -553,8 +586,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Current(Surf.)"
 #~ msgstr "Strömung(Oberfl.)"
+#
 #
 #
 #
@@ -577,8 +612,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Data available in the selected forecast model"
 #~ msgstr "Daten verfügbar im gewählten Vorhersage-Modell"
+#
 #
 #
 #
@@ -593,8 +630,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Deg"
 #~ msgstr "Grad"
+#
 #
 #
 #
@@ -609,8 +648,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Display"
 #~ msgstr "Anzeige"
+#
 #
 #
 #
@@ -627,6 +668,7 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Display Iso Temp. Lines"
 #~ msgstr "Zeige Iso Temp. Linien"
 #
@@ -635,8 +677,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Display Isobars"
 #~ msgstr "Zeige Isobare"
+#
 #
 #
 #
@@ -652,9 +696,11 @@ msgstr "Strömung"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Display Isotherms"
 #~ msgstr "Zeige Isobare"
+#
 #
 #
 #
@@ -669,8 +715,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Error:  File does not exist!"
 #~ msgstr "Fehler: Datei gibt es nicht!"
+#
 #
 #
 #
@@ -685,8 +733,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Estimated File Size"
 #~ msgstr "Voraussichtl. Dateigröße"
+#
 #
 #
 #
@@ -701,8 +751,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Feet"
 #~ msgstr "Fuß"
+#
 #
 #
 #
@@ -718,8 +770,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "GFS"
 #~ msgstr "GFS"
+#
 #
 #
 #
@@ -766,6 +820,7 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "GRIB File Directory"
 #~ msgstr "Verzeichnis GRIB-Dateien"
 #
@@ -774,8 +829,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Generic"
 #~ msgstr "Allgemein"
+#
 #
 #
 #
@@ -792,8 +849,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Grib"
 #~ msgstr "GRIB"
+#
 #
 #
 #
@@ -808,8 +867,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Inches"
 #~ msgstr "Zoll"
+#
 #
 #
 #
@@ -825,8 +886,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Interval"
 #~ msgstr "Intervall"
+#
 #
 #
 #
@@ -842,6 +905,7 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Knots"
 #~ msgstr "Knoten"
 #
@@ -850,8 +914,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Load File Options"
 #~ msgstr "Lade Datei-Optionen"
+#
 #
 #
 #
@@ -867,8 +933,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Load the More Recent File in Directory"
 #~ msgstr "Lade neueste Datei im Verzeichnis"
+#
 #
 #
 #
@@ -884,6 +952,7 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Login you use to connect to Zygrib's forum"
 #~ msgstr "Ihr Login für das zyGrib-Forum"
 #
@@ -892,8 +961,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Loop Mode"
 #~ msgstr "Loop Modus"
+#
 #
 #
 #
@@ -910,8 +981,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Mail"
 #~ msgstr "Mail"
+#
 #
 #
 #
@@ -926,8 +999,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Meters"
 #~ msgstr "Meter"
+#
 #
 #
 #
@@ -942,8 +1017,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Millimeters"
 #~ msgstr "Millimeter"
+#
 #
 #
 #
@@ -958,8 +1035,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Numbers"
 #~ msgstr "Nummern"
+#
 #
 #
 #
@@ -974,8 +1053,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Overlay Transparency"
 #~ msgstr "Überlagerte Tranparenz"
+#
 #
 #
 #
@@ -990,8 +1071,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Percentage"
 #~ msgstr "Prozent"
+#
 #
 #
 #
@@ -1006,9 +1089,11 @@ msgstr "Strömung"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view invisible overlays:"
 #~ msgstr "Bitte auszoomen oder Maßstab verkleinern zur Anzeige ausgeblendeter "
+#
 #
 #
 #
@@ -1038,11 +1123,13 @@ msgstr "Strömung"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed CURRENT GRIB"
 #~ msgstr ""
 #~ "Zur Anzeige der ausgeblendeten GRIB Ozean-Strömung bitte herauszoom oder "
 #~ "Maßstab verkleinern."
+#
 #
 #
 #
@@ -1072,11 +1159,13 @@ msgstr "Strömung"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Sea Surf.Temp. GRIB"
 #~ msgstr ""
 #~ "Zur Anzeige der ausgeblendeten GRIB Wassertemperatur bitte herauszoom oder "
 #~ "Maßstab verkleinern."
+#
 #
 #
 #
@@ -1101,6 +1190,7 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Precipitation"
 #~ msgstr "Niederschlag"
 #
@@ -1109,8 +1199,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Pressure"
 #~ msgstr "Luftdruck"
+#
 #
 #
 #
@@ -1132,8 +1224,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Profile"
 #~ msgstr "Profil"
+#
 #
 #
 #
@@ -1150,6 +1244,7 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Rain"
 #~ msgstr "Regen"
 #
@@ -1158,8 +1253,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Rainfall"
 #~ msgstr "Regen"
+#
 #
 #
 #
@@ -1175,6 +1272,7 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Ref : "
 #~ msgstr "Ref : "
 #
@@ -1183,8 +1281,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Request"
 #~ msgstr "Anfrage"
+#
 #
 #
 #
@@ -1205,8 +1305,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Resolution"
 #~ msgstr "Auflösung"
+#
 #
 #
 #
@@ -1222,8 +1324,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Save"
 #~ msgstr "Speichern"
+#
 #
 #
 #
@@ -1239,6 +1343,7 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Sea Temperature"
 #~ msgstr "See-Temperatur"
 #
@@ -1247,8 +1352,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Sea Temperature(surf.)"
 #~ msgstr "See-Temperatur(Oberfl.)"
+#
 #
 #
 #
@@ -1265,8 +1372,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "SeaTemperature"
 #~ msgstr "Wassertemperatur"
+#
 #
 #
 #
@@ -1282,6 +1391,7 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Send"
 #~ msgstr "Senden"
 #
@@ -1290,8 +1400,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Settings"
 #~ msgstr "Einstellungen"
+#
 #
 #
 #
@@ -1340,9 +1452,11 @@ msgstr "Strömung"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Sign.Wave Height"
 #~ msgstr "Signifik. Wellenhöhe, m"
+#
 #
 #
 #
@@ -1357,8 +1471,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Slices per Update"
 #~ msgstr "Scheiben je Update"
+#
 #
 #
 #
@@ -1373,8 +1489,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Spacing"
 #~ msgstr "Abstand"
+#
 #
 #
 #
@@ -1390,8 +1508,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Stop"
 #~ msgstr "Stop"
+#
 #
 #
 #
@@ -1404,6 +1524,7 @@ msgstr "Strömung"
 #~ msgstr ""
 #~ "Dateigrößen-Grenze erreicht!\n"
 #~ "Sie können einzoomen und/oder Parameter ändern..."
+#
 #
 #
 #
@@ -1425,8 +1546,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Time Options"
 #~ msgstr "Zeit-Optionen"
+#
 #
 #
 #
@@ -1441,8 +1564,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Units"
 #~ msgstr "Einheiten"
+#
 #
 #
 #
@@ -1457,6 +1582,7 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Use Gradual Colors"
 #~ msgstr "Verwende abgestufte Farben"
 #
@@ -1465,8 +1591,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Use High Definition Graphics"
 #~ msgstr "Hochauflösende Grafik verwenden"
+#
 #
 #
 #
@@ -1510,8 +1638,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "WW3-GLOBAL"
 #~ msgstr "WW3-GLOBAL"
+#
 #
 #
 #
@@ -1527,8 +1657,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Warning!"
 #~ msgstr "Warnung!"
+#
 #
 #
 #
@@ -1544,8 +1676,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Wave"
 #~ msgstr "Wellen"
+#
 #
 #
 #
@@ -1560,6 +1694,7 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "WavesModel"
 #~ msgstr "Wellen-Modell"
 #
@@ -1568,8 +1703,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Wind"
 #~ msgstr "Wind"
+#
 #
 #
 #
@@ -1591,8 +1728,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "Wind Gust"
 #~ msgstr "Wind-Boe"
+#
 #
 #
 #
@@ -1620,9 +1759,11 @@ msgstr "Strömung"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Wind Speed(10m)"
 #~ msgstr "Windgeschwindigkeit, kn"
+#
 #
 #
 #
@@ -1638,9 +1779,11 @@ msgstr "Strömung"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Write and send eMail request"
 #~ msgstr "Schreibe und Sende Grib Abfrage-Einstellung"
+#
 #
 #
 #
@@ -1663,6 +1806,7 @@ msgstr "Strömung"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid ""
 #~ "Your request was sent \n"
@@ -1679,8 +1823,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "ZyGrib"
 #~ msgstr "zyGrib"
+#
 #
 #
 #
@@ -1695,8 +1841,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "m/s"
 #~ msgstr "m/s"
+#
 #
 #
 #
@@ -1711,8 +1859,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "mph"
 #~ msgstr "mph"
+#
 #
 #
 #
@@ -1728,8 +1878,10 @@ msgstr "Strömung"
 #
 #
 #
+#
 #~ msgid "size"
 #~ msgstr "Größe"
+#
 #
 #
 #
@@ -1745,9 +1897,11 @@ msgstr "Strömung"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "tcurrent Data at Cursor"
 #~ msgstr "Grib Daten am Cursor"
+#
 #
 #
 #
@@ -1797,6 +1951,7 @@ msgstr "Strömung"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "tcurrent Preferences"
 #~ msgstr "GRIB Einstellungen"
@@ -1806,9 +1961,11 @@ msgstr "Strömung"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "zytcurrent Code"
 #~ msgstr "Ihr zyGrib Code"
+#
 #
 #
 #

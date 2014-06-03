@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: grib_pi 2.2.1111\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-05-24 05:03+0100\n"
+"POT-Creation-Date: 2014-06-03 07:09+0100\n"
 "PO-Revision-Date: 2010-12-09 22:34+0200\n"
 "Last-Translator: Asko Laite <alaite@netti.fi>\n"
 "Language-Team: Asko Laite <alaite@netti.fi>\n"
@@ -17,9 +17,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-Language: Finnish\n"
 "X-Poedit-Country: FINLAND\n"
-#
-msgid " "
-msgstr ""
 #
 #, fuzzy
 msgid "/Settings/tcurrent"
@@ -271,9 +268,11 @@ msgstr "Virran nopeus, solmua"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Colors"
 #~ msgstr "&Sulje"
+#
 #
 #
 #
@@ -294,9 +293,11 @@ msgstr "Virran nopeus, solmua"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Data Display Preferences"
 #~ msgstr "GRIB asetukset"
+#
 #
 #
 #
@@ -341,6 +342,7 @@ msgstr "Virran nopeus, solmua"
 #
 #
 #
+#
 #~ msgid "GRIB File Directory"
 #~ msgstr "GRIB-tiedostohakemisto"
 #
@@ -350,8 +352,10 @@ msgstr "Virran nopeus, solmua"
 #
 #
 #
+#
 #~ msgid "Grib"
 #~ msgstr "Grib"
+#
 #
 #
 #
@@ -372,9 +376,11 @@ msgstr "Virran nopeus, solmua"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Air Temp.(2m) GRIB"
 #~ msgstr "Zoomaa ulos nähdäksesi GRIB pintalämpötilan"
+#
 #
 #
 #
@@ -402,9 +408,11 @@ msgstr "Virran nopeus, solmua"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Clouds Cover GRIB"
 #~ msgstr "Zoomaa ulos nähdäksesi GRIB virtatiedot"
+#
 #
 #
 #
@@ -430,6 +438,7 @@ msgstr "Virran nopeus, solmua"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Total Rainfall GRIB"
 #~ msgstr "Zoomaa ulos nähdäksesi GRIB sadetiedon"
@@ -439,9 +448,11 @@ msgstr "Virran nopeus, solmua"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Pressure"
 #~ msgstr "Ilampaine, mbar"
+#
 #
 #
 #
@@ -470,6 +481,7 @@ msgstr "Virran nopeus, solmua"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Sea Temp"
 #~ msgstr "Meriveden pintalämpötila, C"
@@ -479,9 +491,11 @@ msgstr "Virran nopeus, solmua"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Select a tcurrent file"
 #~ msgstr "Valitse GRIB-hakemisto"
+#
 #
 #
 #
@@ -528,6 +542,7 @@ msgstr "Virran nopeus, solmua"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Sign.Wave Height"
 #~ msgstr "Merkitsevä aallonkorkeus, m"
@@ -537,8 +552,10 @@ msgstr "Virran nopeus, solmua"
 #
 #
 #
+#
 #~ msgid "Use High Definition Graphics"
 #~ msgstr "Käytä tarkkuusgrafiikkaa"
+#
 #
 #
 #
@@ -586,9 +603,11 @@ msgstr "Virran nopeus, solmua"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Wind Direction(10m)"
 #~ msgstr "Tuulen suunta"
+#
 #
 #
 #
@@ -614,9 +633,11 @@ msgstr "Virran nopeus, solmua"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Wind Speed(10m)"
 #~ msgstr "Tuulen nopeus, solmua"
+#
 #
 #
 #
@@ -670,9 +691,11 @@ msgstr "Virran nopeus, solmua"
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "tcdata"
 #~ msgstr "GRIB Data"
+#
 #
 #
 #

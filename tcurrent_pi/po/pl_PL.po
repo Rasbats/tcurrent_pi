@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: grib_pi 2.2.1111\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-05-24 05:03+0100\n"
+"POT-Creation-Date: 2014-06-03 07:09+0100\n"
 "PO-Revision-Date: 2010-11-28 17:53+0100\n"
 "Last-Translator: Piotr Carlson <pjotrc@interia.pl>\n"
 "Language-Team: \n"
@@ -15,9 +15,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-#
-msgid " "
-msgstr ""
 #
 #
 #, fuzzy
@@ -277,9 +274,11 @@ msgstr "Prędkość prądu, w."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Colors"
 #~ msgstr "&Zamknij"
+#
 #
 #
 #
@@ -301,9 +300,11 @@ msgstr "Prędkość prądu, w."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Data Display Preferences"
 #~ msgstr "Preferencje GRIB"
+#
 #
 #
 #
@@ -349,6 +350,7 @@ msgstr "Prędkość prądu, w."
 #
 #
 #
+#
 #~ msgid "GRIB File Directory"
 #~ msgstr "Katalog plików GRIB"
 #
@@ -359,8 +361,10 @@ msgstr "Prędkość prądu, w."
 #
 #
 #
+#
 #~ msgid "Grib"
 #~ msgstr "Grib"
+#
 #
 #
 #
@@ -382,9 +386,11 @@ msgstr "Prędkość prądu, w."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Air Temp.(2m) GRIB"
 #~ msgstr "Zmniejsz skalę lub powiększenie by zobaczyć SEATEMP"
+#
 #
 #
 #
@@ -412,9 +418,11 @@ msgstr "Prędkość prądu, w."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Clouds Cover GRIB"
 #~ msgstr "Zmniejsz skalę lub powiększenie by zobaczyć OCEAN CURRENT"
+#
 #
 #
 #
@@ -440,6 +448,7 @@ msgstr "Prędkość prądu, w."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Total Rainfall GRIB"
 #~ msgstr "Zmniejsz skalę lub powiększenie by zobaczyć CRAIN"
@@ -450,9 +459,11 @@ msgstr "Prędkość prądu, w."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Pressure"
 #~ msgstr "Ciśnienie, mbar"
+#
 #
 #
 #
@@ -482,6 +493,7 @@ msgstr "Prędkość prądu, w."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Sea Temp"
 #~ msgstr "Temp. powierzchni morza, C"
@@ -492,9 +504,11 @@ msgstr "Prędkość prądu, w."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Select a tcurrent file"
 #~ msgstr "Wybierz katalog GRIB"
+#
 #
 #
 #
@@ -541,6 +555,7 @@ msgstr "Prędkość prądu, w."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Sign.Wave Height"
 #~ msgstr "Wysokość fali znacznej, m"
@@ -551,8 +566,10 @@ msgstr "Prędkość prądu, w."
 #
 #
 #
+#
 #~ msgid "Use High Definition Graphics"
 #~ msgstr "Użyj grafili wysokuej rozdzielczości"
+#
 #
 #
 #
@@ -600,9 +617,11 @@ msgstr "Prędkość prądu, w."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Wind Direction(10m)"
 #~ msgstr "Kierunek wiatru"
+#
 #
 #
 #
@@ -628,9 +647,11 @@ msgstr "Prędkość prądu, w."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Wind Speed(10m)"
 #~ msgstr "Prędkość wiatru, w."
+#
 #
 #
 #
@@ -685,9 +706,11 @@ msgstr "Prędkość prądu, w."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "tcdata"
 #~ msgstr "Dane GRIB"
+#
 #
 #
 #

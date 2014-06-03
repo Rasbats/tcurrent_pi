@@ -237,7 +237,7 @@ void tcurrentUIDialog::OnStartSetupHW()
 	wxString s = m_choice1->GetString(m);
 	m_portXML = FindPortXMLUsingChoice(s);
 
-	if (m_portXML ==  _(""))
+	if (m_portXML ==  _T(""))
 	{
 		wxMessageBox(_("Port not found"), _("Port finder"));
 		return;	
@@ -594,7 +594,7 @@ wxString tcurrentUIDialog::FindPortXMLUsingChoice(wxString inPortName)
 			i++;
 		}
 
-		return _("");
+		return _T("");
 }
 
 int tcurrentUIDialog::FindPortIDUsingChoice(wxString inPortName)
@@ -764,7 +764,7 @@ void tcurrentUIDialog::CalcHW(int PortCode)
 													  ( wt )? sHWLW = _("HW") : sHWLW = _("LW"); 
 													 											                                                        
 													  // Fill the array with tide data
-													  euTC[array_index][0] = s2 + _(" ") + s;													  													
+													  euTC[array_index][0] = s2 + _T(" ") + s;													  													
 													  euTC[array_index][1] = s1;
 													  euTC[array_index][2] = wxString(pmsd->units_abbrv ,wxConvUTF8);
 													  euTC[array_index][3] = sHWLW;
@@ -1169,7 +1169,7 @@ void tcurrentUIDialog::OnChooseTideButton(wxCommandEvent & event)
 		m_staticText2->SetLabel(_T(""));
 		m_staticText211->SetLabel(_("High Water"));
 		button_id = 6;
-		st_mydate = _("");
+		st_mydate = _T("");
 	}
 	else
 	{

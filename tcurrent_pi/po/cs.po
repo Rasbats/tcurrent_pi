@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: opencpn 1.3.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-05-24 05:03+0100\n"
+"POT-Creation-Date: 2014-06-03 07:09+0100\n"
 "PO-Revision-Date: 2012-05-23 07:03+0100\n"
 "Last-Translator: Pavel Kalian <pavel@kalian.cz>\n"
 "Language-Team: OpenCPN CZ <LL@li.org>\n"
@@ -17,9 +17,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-Language: Czech\n"
 "X-Poedit-Country: CZECH REPUBLIC\n"
-#
-msgid " "
-msgstr ""
 #
 #
 #
@@ -283,9 +280,11 @@ msgstr "Rychlost proudu, Kts."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Colors"
 #~ msgstr "&Zavřít"
+#
 #
 #
 #
@@ -308,9 +307,11 @@ msgstr "Rychlost proudu, Kts."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Data Display Preferences"
 #~ msgstr "Nastavení GRIBu"
+#
 #
 #
 #
@@ -359,8 +360,10 @@ msgstr "Rychlost proudu, Kts."
 #
 #
 #
+#
 #~ msgid "GRIB File Directory"
 #~ msgstr "Složka souborů GRIB"
+#
 #
 #
 #
@@ -372,6 +375,7 @@ msgstr "Rychlost proudu, Kts."
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view invisible overlays:"
 #~ msgstr "Prosím zmenši měřítko pro zobrazení HTSGW GRIB"
+#
 #
 #
 #
@@ -401,9 +405,11 @@ msgstr "Rychlost proudu, Kts."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed CURRENT GRIB"
 #~ msgstr "Prosím zmenši měřítko pro zobrazení CRAIN GRIB"
+#
 #
 #
 #
@@ -433,9 +439,11 @@ msgstr "Rychlost proudu, Kts."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Please Zoom or Scale Out to view suppressed Sea Surf.Temp. GRIB"
 #~ msgstr "Prosím zmenši měřítko pro zobrazení SEATEMP GRIB"
+#
 #
 #
 #
@@ -460,9 +468,11 @@ msgstr "Rychlost proudu, Kts."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Pressure"
 #~ msgstr "Tlak, mBar"
+#
 #
 #
 #
@@ -495,6 +505,7 @@ msgstr "Rychlost proudu, Kts."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Sea Temp"
 #~ msgstr "Povrchová teplota moře, C"
@@ -506,9 +517,11 @@ msgstr "Rychlost proudu, Kts."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Select a tcurrent file"
 #~ msgstr "Složka souborů GRIB"
+#
 #
 #
 #
@@ -579,8 +592,10 @@ msgstr "Rychlost proudu, Kts."
 #
 #
 #
+#
 #~ msgid "Show metres/sec for Wind Speed"
 #~ msgstr "Ukaž  m/s pro rychlost větru"
+#
 #
 #
 #
@@ -605,8 +620,10 @@ msgstr "Rychlost proudu, Kts."
 #
 #
 #
+#
 #~ msgid "Use High Definition Graphics"
 #~ msgstr "Použít grafiku ve velkém rozlišení"
+#
 #
 #
 #
@@ -636,6 +653,7 @@ msgstr "Rychlost proudu, Kts."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Wind Speed and Direction(10m)"
 #~ msgstr "Směr větru"
@@ -652,9 +670,11 @@ msgstr "Rychlost proudu, Kts."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "Wind Speed(10m)"
 #~ msgstr "Rychlost větru, m/s"
+#
 #
 #
 #
@@ -712,9 +732,11 @@ msgstr "Rychlost proudu, Kts."
 #
 #
 #
+#
 #, fuzzy
 #~ msgid "tcdata"
 #~ msgstr "Data GRIB"
+#
 #
 #
 #
